@@ -13,6 +13,7 @@ typedef struct TrieNode {
     
     void clear() {
         int i;
+        int len = child.size();
         // Be defensive with destructors
         for (i = 0; i < len; ++i) {
             if (child[i] != NULL) {
