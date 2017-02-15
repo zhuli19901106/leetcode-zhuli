@@ -88,6 +88,7 @@ public:
         pre.clear();
     }
 private:
+    int (*f)(int, int)
     unordered_map<string, function<int(int, int)>> fun;
     unordered_map<string, int> pre;
 };
