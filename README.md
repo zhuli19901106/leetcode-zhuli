@@ -24,4 +24,5 @@ You gotta eat, so you write codes. You gotta dream, so you always have something
 
 向死而生。
 
-Zhu Li, 2018.1.24 16:25:50, at Tsinghua University.
+Zhu Li, at Tsinghua University.<br/>
+2018.1.24 16:25:50
