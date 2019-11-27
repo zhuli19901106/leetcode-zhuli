@@ -23,7 +23,7 @@ public:
                 m1[pattern[i]] = v[i];
                 m2[v[i]] = pattern[i];
             }else if (it1 != m1.end() && it2 != m2.end()) {
-                if (it1->first != pattern[i] || it2->first != v[i]) {
+                if (it1->second != v[i] || it2->second != pattern[i]) {
                     break;
                 }
             } else {
