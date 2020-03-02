@@ -2,6 +2,9 @@
 Leetcode revision, premium problems included.
 <hr/>
 
+Current progress:
+- Algorithm: 825/1256
+
 This is a repo containing my <b>accepted codes</b> on Leetcode.
 
 It was originally created as a revision practice repo, to make sure my skills on handling <b>data structure and algorithm problems</b> don't get rusty.
