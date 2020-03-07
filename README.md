@@ -3,7 +3,7 @@ Leetcode revision, premium problems included.
 <hr/>
 
 Current progress:
-- Algorithm: 880/1256
+- Algorithm: 895/1260
 
 This is a repo containing my <b>accepted codes</b> on Leetcode.
 
