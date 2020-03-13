@@ -1,9 +1,9 @@
-# leetcode-2
+# leetcode-zhuli
 Leetcode revision, premium problems included.
 <hr/>
 
 Current progress:
-- Algorithm: 930/1265
+- Algorithm: 940/1265
 
 This is a repo containing my <b>accepted codes</b> on Leetcode.
 
