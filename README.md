@@ -4,7 +4,7 @@ Leetcode revision, premium problems included.
 
 Current progress:
 - Algorithm: 1050/1277
-- Database : 53/103
+- Database : 68/103
 
 This is a repo containing my <b>accepted codes</b> on Leetcode.
 
