@@ -7,6 +7,10 @@ Current progress:
 - Database : 88/103
 - Shell    : 4/4
 
+Explore problems:
+- LeetCode 30 day challenge
+- Google interview
+
 This is a repo containing my <b>accepted codes</b> on Leetcode.
 
 It was originally created as a revision practice repo, to make sure my skills on handling <b>data structure and algorithm problems</b> don't get rusty.
