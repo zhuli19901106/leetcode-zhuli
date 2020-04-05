@@ -3,7 +3,7 @@ Leetcode revision, premium problems included.
 <hr/>
 
 Current progress:
-- Algorithm: 1079/1281
+- Algorithm: 1095/1285
 - Database : 88/103
 - Shell    : 4/4
 
