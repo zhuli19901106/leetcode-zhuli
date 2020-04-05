@@ -8,8 +8,10 @@ Current progress:
 - Shell    : 4/4
 
 Explore problems:
-- LeetCode 30 day challenge
-- Google interview
+- LeetCode 30 Day Challenge
+- Google Interview
+- Recursion I
+- Recursion II
 
 This is a repo containing my <b>accepted codes</b> on Leetcode.
 
