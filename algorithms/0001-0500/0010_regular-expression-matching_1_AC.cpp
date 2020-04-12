@@ -22,7 +22,7 @@ public:
                 si.push(i);
                 j += 2;
                 sj.push(j);
-            } else if (j < lp && (p[j] == '.' || s[i] == p[j])) {
+            } else if (i < ls && j < lp && (p[j] == '.' || s[i] == p[j])) {
                 // Single match
                 ++i;
                 ++j;
