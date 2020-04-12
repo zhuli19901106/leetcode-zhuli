@@ -3,15 +3,19 @@ Leetcode revision, premium problems included.
 <hr/>
 
 Current progress:
-- Algorithm: 1120/1289
+- Algorithm: 1126/1289
 - Database : 88/103
 - Shell    : 4/4
 
 Explore problems:
 - LeetCode 30 Day Challenge
+- Top Interview Questions
 - Google Interview
 - Recursion I
 - Recursion II
+- Binary Search
+- Binary Tree
+- N-ary Tree
 
 This is a repo containing my <b>accepted codes</b> on Leetcode.
 
