@@ -9,7 +9,6 @@ Current progress:
 
 Explore problems:
 - LeetCode 30 Day Challenge
-- Top Interview Questions
 - Adobe Interview
 - Amazon Interview
 - Apple Interview
@@ -31,6 +30,9 @@ Explore problems:
 - Queue & Stack
 - Recursion I
 - Recursion II
+- Top Interview Questions Easy
+- Top Interview Questions Hard
+- Top Interview Questions Mediun
 - Trie
 
 This is a repo containing my <b>accepted codes</b> on Leetcode.
