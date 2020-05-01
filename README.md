@@ -17,13 +17,21 @@ Explore problems:
 - Facebook Interview
 - Google Interview
 - Microsoft Interview
+- Uber Interview
 - Yelp Interview
+- Array and String
+- Arrays 101
 - Binary Search
 - Binary Search Tree
 - Binary Tree
+- Decision Tree
+- Hash Table
+- Linked List
 - N-ary Tree
+- Queue & Stack
 - Recursion I
 - Recursion II
+- Trie
 
 This is a repo containing my <b>accepted codes</b> on Leetcode.
 
