@@ -3,8 +3,8 @@ Leetcode revision, premium problems included.
 <hr/>
 
 Current progress:
-- Algorithm: 1126/1289
-- Database : 88/103
+- Algorithm: 1138/1314
+- Database : 89/107
 - Shell    : 4/4
 
 Explore problems:
@@ -15,6 +15,7 @@ Explore problems:
 - Bloomberg Interview
 - Facebook Interview
 - Google Interview
+- LinkedIn Interview
 - Microsoft Interview
 - Uber Interview
 - Yelp Interview
