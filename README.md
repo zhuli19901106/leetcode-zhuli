@@ -2,7 +2,7 @@
 Leetcode revision, premium problems included.
 <hr/>
 
-Current progress: 1450/2123
+Current progress: 1463/2127
 
 Explore problems:
 - LeetCode 30 Day Challenge
