@@ -58,7 +58,7 @@ public:
                 }
                 nums.push(val);
             } else {
-               ++i;
+                ++i;
             }
         }
         while (!ops.empty()) {
