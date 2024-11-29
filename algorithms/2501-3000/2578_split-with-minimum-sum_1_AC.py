@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/split-with-minimum-sum/description/
+# https://leetcode.com/problems/split-with-minimum-sum/
 class Solution:
     def splitNum(self, num: int) -> int:
         digs = sorted(str(num))

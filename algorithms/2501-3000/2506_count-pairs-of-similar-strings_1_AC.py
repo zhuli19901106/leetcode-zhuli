@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/count-pairs-of-similar-strings/description/
+# https://leetcode.com/problems/count-pairs-of-similar-strings/
 from collections import defaultdict
 
 class Solution:

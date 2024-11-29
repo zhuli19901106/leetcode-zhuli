@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/
+# https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 from heapq import heappush, heappop
 
 class Solution:

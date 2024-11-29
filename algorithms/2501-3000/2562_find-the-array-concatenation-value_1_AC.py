@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/find-the-array-concatenation-value/description/
+# https://leetcode.com/problems/find-the-array-concatenation-value/
 class Solution:
     def findTheArrayConcVal(self, nums: List[int]) -> int:
         n = len(nums)
