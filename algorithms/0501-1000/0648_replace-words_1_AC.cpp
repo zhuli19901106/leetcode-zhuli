@@ -1,3 +1,4 @@
+// medium
 // String hashing.
 #include <cstdint>
 #include <sstream>

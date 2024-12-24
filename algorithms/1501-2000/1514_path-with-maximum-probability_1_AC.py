@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/path-with-maximum-probability/
 # take -log() and it's weighted shortest path
 # in case you forgot Dijkstra after so many years outta college, search for it

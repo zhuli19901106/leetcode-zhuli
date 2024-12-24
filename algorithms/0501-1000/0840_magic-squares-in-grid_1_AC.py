@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/magic-squares-in-grid/
 class Solution:
     def numMagicSquaresInside(self, grid: List[List[int]]) -> int:

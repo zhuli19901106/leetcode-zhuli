@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/get-maximum-in-generated-array/
 # thy bidding
 class Solution:

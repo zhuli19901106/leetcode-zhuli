@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-score-from-removing-stones/
 # just simulate
 class Solution:

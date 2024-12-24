@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/fruit-into-baskets/
 # sliding window to record unique values, my code was too ugly to read
 # very misleading description, though

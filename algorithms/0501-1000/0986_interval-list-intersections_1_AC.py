@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/interval-list-intersections/
 # Runtime: 148 ms, faster than 96.28% of Python3 online submissions for Interval List Intersections.
 # Memory Usage: 13.2 MB, less than 100.00% of Python3 online submissions for Interval List Intersections.

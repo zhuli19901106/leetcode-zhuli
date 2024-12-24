@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/longest-repeating-substring/
 # count backward
 class Solution:

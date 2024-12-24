@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/explore/learn/card/trie/149/practical-application-ii/1055/
 # after the OJ adjusted the time limit, this problem became pointless
 # you can beat it with a brute-force solution but TLE with an optimized one

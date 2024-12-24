@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 class Solution:
     def countPrefixSuffixPairs(self, words: List[str]) -> int:

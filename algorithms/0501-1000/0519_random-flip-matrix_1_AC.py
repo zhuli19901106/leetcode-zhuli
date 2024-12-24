@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/random-flip-matrix/
 # https://en.wikipedia.org/wiki/Linear_congruential_generator
 # a good example of python yield

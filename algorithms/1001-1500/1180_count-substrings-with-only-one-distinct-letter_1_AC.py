@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
 # 1AC
 class Solution:

@@ -1,3 +1,4 @@
+// medium
 // Easy problem but hard to write perfect code.
 /**
  * Definition for singly-linked list.

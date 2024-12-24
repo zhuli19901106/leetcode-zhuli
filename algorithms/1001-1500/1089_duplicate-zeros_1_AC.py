@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/duplicate-zeros/
 class Solution:
     def duplicateZeros(self, arr: List[int]) -> None:

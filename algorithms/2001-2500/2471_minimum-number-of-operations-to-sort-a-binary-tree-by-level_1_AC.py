@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/
 # simple idea, a bit tough to write it clean, though
 # Definition for a binary tree node.

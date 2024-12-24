@@ -1,3 +1,4 @@
+// medium
 // It never hurts to hash.
 #include <cstdint>
 #include <string>

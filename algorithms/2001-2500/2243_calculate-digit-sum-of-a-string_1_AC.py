@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 class Solution:
     def digitSum(self, s: str, k: int) -> str:

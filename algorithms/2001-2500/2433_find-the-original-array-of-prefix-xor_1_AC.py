@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
 # medium?
 class Solution:

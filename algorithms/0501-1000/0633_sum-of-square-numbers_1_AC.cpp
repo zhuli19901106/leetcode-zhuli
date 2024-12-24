@@ -1,3 +1,4 @@
+// medium
 #include <cmath>
 using std::sqrt;
 

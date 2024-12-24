@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 # just try it at the end, no fancy tricks
 class Solution:

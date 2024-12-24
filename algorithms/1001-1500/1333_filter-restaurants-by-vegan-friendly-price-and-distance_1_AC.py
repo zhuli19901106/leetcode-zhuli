@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/
 # what's this? a sql test?
 # I'm sure you'll see a whole bunch of one-liner here

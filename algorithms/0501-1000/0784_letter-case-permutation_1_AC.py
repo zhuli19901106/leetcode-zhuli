@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/letter-case-permutation/
 class Solution:
     def letterCasePermutation(self, S: str) -> List[str]:

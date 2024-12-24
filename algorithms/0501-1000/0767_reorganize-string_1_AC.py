@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/reorganize-string/
 # tricky and tiresome, but not difficult
 class Solution:

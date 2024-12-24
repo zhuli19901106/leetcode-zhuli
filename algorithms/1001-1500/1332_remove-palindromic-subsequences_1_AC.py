@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/remove-palindromic-subsequences/
 # warning: brain teaser
 class Solution:

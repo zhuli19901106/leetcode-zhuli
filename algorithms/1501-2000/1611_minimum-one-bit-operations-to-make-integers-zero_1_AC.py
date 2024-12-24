@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/
 # quite far from intuition, tbh
 

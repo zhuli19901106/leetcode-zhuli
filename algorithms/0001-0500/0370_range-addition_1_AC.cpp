@@ -1,3 +1,4 @@
+// medium
 // Range modification, point query
 #include <algorithm>
 #include <vector>

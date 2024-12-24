@@ -1,3 +1,4 @@
+// hard
 // Use the input array as marker array.
 #include <cmath>
 using std::abs;

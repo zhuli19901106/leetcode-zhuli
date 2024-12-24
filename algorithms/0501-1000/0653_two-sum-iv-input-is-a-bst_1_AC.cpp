@@ -1,3 +1,4 @@
+// easy
 // I don't think an O(logN) solution exists.
 /**
  * Definition for a binary tree node.

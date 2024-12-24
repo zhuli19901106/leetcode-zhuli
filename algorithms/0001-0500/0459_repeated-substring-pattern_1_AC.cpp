@@ -1,3 +1,4 @@
+// easy
 // Understand the mechanism of KMP algorithm.
 #include <vector>
 using std::vector;

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/angle-between-hands-of-a-clock/
 class Solution:
     def angleClock(self, hour: int, minutes: int) -> float:

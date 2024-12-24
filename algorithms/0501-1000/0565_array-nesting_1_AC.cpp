@@ -1,3 +1,4 @@
+// medium
 // Permutation group.
 #include <algorithm>
 #include <vector>

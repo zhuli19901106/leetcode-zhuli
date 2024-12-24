@@ -1,3 +1,4 @@
+// medium
 // Watch for duplicate edges.
 #include <queue>
 #include <unordered_map>

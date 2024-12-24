@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/
 # this is a teaser, once you get it
 # if the subarray contains more than 1 unique value, why not pick the largest one alone

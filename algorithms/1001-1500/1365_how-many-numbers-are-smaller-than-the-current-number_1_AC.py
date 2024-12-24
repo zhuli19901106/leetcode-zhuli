@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 from bisect import bisect_left
 

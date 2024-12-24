@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
 # Definition for a binary tree node.
 # class TreeNode:

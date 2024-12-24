@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/
 # much easier just to recur
 

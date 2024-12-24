@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/remove-adjacent-almost-equal-characters/
 # should be greedy
 class Solution:

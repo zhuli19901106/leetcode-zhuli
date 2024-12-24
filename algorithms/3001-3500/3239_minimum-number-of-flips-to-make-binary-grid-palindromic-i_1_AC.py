@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/
 class Solution:
     def minFlips(self, grid: List[List[int]]) -> int:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/monotone-increasing-digits/
 # 1AC, precomputed
 from bisect import bisect_right

@@ -1,3 +1,4 @@
+// hard
 // O(n ^ 2) DP
 #include <algorithm>
 #include <utility>

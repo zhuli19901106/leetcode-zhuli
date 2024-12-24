@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/odd-even-jump/
 # tree map, memorized search, use SortedDict in python
 from sortedcontainers import SortedDict

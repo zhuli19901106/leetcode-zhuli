@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 # 1AC, sort it
 

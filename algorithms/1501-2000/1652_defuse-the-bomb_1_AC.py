@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/defuse-the-bomb/
 # 1AC, a bit of wrap around to do
 class Solution:

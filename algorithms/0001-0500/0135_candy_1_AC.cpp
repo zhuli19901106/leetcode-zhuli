@@ -1,3 +1,4 @@
+// hard
 // It's greedy.
 class Solution {
 public:

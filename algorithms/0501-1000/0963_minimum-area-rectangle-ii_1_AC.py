@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-area-rectangle-ii/
 #brute-force and ugly
 from math import sqrt

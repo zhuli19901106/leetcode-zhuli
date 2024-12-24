@@ -1,3 +1,4 @@
+// easy
 // Run and run.
 /**
  * Definition for singly-linked list.

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-the-value-of-the-partition/
 # should be "easy"
 class Solution:

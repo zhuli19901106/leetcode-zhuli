@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
 # Definition for a binary tree node.
 # class TreeNode:

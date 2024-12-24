@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 # think it over and code clean
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/toss-strange-coins/
 # 1AC, simple DP
 class Solution:

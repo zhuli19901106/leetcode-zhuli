@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-width-ramp/
 # https://leetcode.com/problems/maximum-width-ramp/discuss/423575/Java-sorting-the-index
 class Solution:

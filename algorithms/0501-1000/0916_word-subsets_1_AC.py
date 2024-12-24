@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/word-subsets/
 class Solution:
     def wordSubsets(self, A: List[str], B: List[str]) -> List[str]:

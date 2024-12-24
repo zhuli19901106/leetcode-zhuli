@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/get-watched-videos-by-your-friends/
 # 1AC, BFS, boring and tiresome
 from collections import deque

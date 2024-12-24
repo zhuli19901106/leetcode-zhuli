@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/map-of-highest-peak/
 from collections import deque
 

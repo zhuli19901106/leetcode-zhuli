@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/reducing-dishes/
 # O(n^2) DP solution
 class Solution:

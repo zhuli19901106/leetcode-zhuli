@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
 # Runtime: 384 ms, faster than 96.88% of Python3 online submissions for Longest ZigZag Path in a Binary Tree.
 # Memory Usage: 62.9 MB, less than 100.00% of Python3 online submissions for Longest ZigZag Path in a Binary Tree.

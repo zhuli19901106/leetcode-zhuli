@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/crawler-log-folder/
 # 1AC
 class Solution:

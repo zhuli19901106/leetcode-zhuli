@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/intersection-of-multiple-arrays/
 from collections import defaultdict
 

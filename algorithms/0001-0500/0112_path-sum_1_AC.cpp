@@ -1,3 +1,4 @@
+// easy
 // You can always cache the result if you like.
 /**
  * Definition for a binary tree node.

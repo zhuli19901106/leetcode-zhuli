@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-total-importance-of-roads/
 # greedy
 

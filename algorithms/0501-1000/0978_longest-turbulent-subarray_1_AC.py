@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/longest-turbulent-subarray/
 class Solution:
     def maxTurbulenceSize(self, A: List[int]) -> int:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
 class Solution:
     MOD = 10 ** 9 + 7

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 # 1AC
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/
 # Definition for a binary tree node.
 # class TreeNode:

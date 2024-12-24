@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
 # simple, but too slow
 # watch the trend

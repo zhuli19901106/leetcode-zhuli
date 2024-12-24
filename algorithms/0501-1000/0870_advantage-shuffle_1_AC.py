@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/advantage-shuffle/
 # 1AC, Tian Ji's horse racing
 class Solution:

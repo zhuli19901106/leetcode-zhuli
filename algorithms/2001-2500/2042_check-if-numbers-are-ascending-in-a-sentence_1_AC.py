@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 # 1AC
 import re

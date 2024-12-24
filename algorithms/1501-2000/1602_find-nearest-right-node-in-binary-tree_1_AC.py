@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/
 # 1AC, level order traversal
 from collections import deque

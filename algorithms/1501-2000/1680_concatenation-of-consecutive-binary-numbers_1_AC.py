@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 # don't calculate bit by bit for every number
 from math import log2

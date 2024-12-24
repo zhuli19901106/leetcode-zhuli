@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-common-words-with-one-occurrence/
 # 1AC
 from collections import defaultdict

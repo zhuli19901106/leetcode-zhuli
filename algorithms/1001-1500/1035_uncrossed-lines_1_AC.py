@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/uncrossed-lines/
 # exactly LCS problem
 class Solution:

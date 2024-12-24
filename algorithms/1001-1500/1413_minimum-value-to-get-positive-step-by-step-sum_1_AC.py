@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
 # 1AC
 class Solution:

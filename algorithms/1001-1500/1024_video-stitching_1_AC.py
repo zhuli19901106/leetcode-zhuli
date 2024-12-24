@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/video-stitching/
 # DP, not greedy
 class Solution:

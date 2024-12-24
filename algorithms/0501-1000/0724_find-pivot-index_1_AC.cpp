@@ -1,3 +1,4 @@
+// easy
 #include <cstdint>
 
 class Solution {

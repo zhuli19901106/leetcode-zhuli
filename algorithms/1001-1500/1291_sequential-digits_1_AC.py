@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/sequential-digits/
 # precompute and bisect
 from bisect import bisect_left, bisect_right

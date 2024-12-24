@@ -1,3 +1,4 @@
+// hard
 // This problem is boring.
 // Why is it rated "hard"?
 #include <algorithm>

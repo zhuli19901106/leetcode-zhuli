@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-the-peaks/
 class Solution:
     def findPeaks(self, mountain: List[int]) -> List[int]:

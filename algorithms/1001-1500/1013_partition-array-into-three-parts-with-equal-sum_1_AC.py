@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
 class Solution:
     def canThreePartsEqualSum(self, A: List[int]) -> bool:

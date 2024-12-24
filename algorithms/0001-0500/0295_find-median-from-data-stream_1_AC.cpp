@@ -1,3 +1,4 @@
+// hard
 #include <map>
 using std::map;
 

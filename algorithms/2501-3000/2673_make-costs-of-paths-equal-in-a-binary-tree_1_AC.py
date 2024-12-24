@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/
 # somewhat tricky, but not too difficult
 class Solution:

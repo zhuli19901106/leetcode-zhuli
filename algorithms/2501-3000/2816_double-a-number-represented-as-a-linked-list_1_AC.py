@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/
 # either reverse the list to save space, or use an array to save time
 # Definition for singly-linked list.

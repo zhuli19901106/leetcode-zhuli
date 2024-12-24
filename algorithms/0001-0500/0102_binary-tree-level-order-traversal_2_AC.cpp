@@ -1,3 +1,4 @@
+// medium
 // Iterative solution using <queue>
 #include <queue>
 #include <utility>

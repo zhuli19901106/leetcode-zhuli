@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/design-compressed-string-iterator/
 class StringIterator:
     def __init__(self, compressedString: str):

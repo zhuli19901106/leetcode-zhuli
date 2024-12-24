@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/smallest-string-with-swaps/
 # 1AC, the idea of connected component is rather tricky
 class Solution:

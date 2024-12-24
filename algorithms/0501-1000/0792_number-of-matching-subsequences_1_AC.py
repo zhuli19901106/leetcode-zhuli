@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-matching-subsequences/
 class Solution:
     def numMatchingSubseq(self, S: str, words: List[str]) -> int:

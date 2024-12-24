@@ -1,3 +1,4 @@
+// medium
 // It took me quite a while to understand the problem.
 #include <string>
 #include <vector>

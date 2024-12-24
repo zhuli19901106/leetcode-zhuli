@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/longest-mountain-in-array/
 # prefix and postfix counting
 class Solution:

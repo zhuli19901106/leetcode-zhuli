@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 # longest common prefix must happen at some alphabetically adjacent cases
 class Solution:

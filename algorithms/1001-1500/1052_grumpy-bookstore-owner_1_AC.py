@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/grumpy-bookstore-owner/
 # range sum, fixed window size
 class Solution:

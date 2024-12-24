@@ -1,3 +1,4 @@
+// medium
 // I would strongly advise against such problems.
 // What are you trying to get from the interview? A smart-ass?
 // https://discuss.leetcode.com/topic/102022/c-concise-code-o-1/2

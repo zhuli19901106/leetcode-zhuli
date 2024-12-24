@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
 # 1AC, two scans
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/search-suggestions-system/
 from bisect import bisect_left
 

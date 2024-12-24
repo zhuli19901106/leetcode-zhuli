@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/sort-even-and-odd-indices-independently/
 class Solution:
     def sortEvenOdd(self, nums: List[int]) -> List[int]:

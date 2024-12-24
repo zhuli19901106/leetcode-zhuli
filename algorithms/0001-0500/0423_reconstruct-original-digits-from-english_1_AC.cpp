@@ -1,3 +1,4 @@
+// medium
 // Whimsical problem calls for weirdo solution.
 #include <cstring>
 using std::memset;

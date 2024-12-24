@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/number-of-valid-clock-times/
 class Solution:
     def countTime(self, time: str) -> int:

@@ -1,3 +1,4 @@
+// medium
 // This problem is poorly defined.
 #include <string>
 #include <unordered_map>

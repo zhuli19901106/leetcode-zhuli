@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/corporate-flight-bookings/
 # sort and calculate prefix sum
 class Solution:

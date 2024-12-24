@@ -1,3 +1,4 @@
+// hard
 // Topological sort
 // Number of nodes is too small, so don't bother with heap optimization.
 #include <string>

@@ -1,3 +1,4 @@
+// medium
 // If you know exactly what you're doing, do it right.
 // If you don't, think it through.
 #include <algorithm>

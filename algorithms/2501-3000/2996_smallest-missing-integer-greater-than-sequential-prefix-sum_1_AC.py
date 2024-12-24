@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
 # simply terrible
 class Solution:

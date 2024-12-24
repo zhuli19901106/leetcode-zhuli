@@ -1,3 +1,4 @@
+// hard
 /**
  * Definition for an interval.
  * struct Interval {

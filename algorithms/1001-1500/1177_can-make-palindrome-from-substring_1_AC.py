@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/can-make-palindrome-from-substring/
 # 1AC, long story, at least I made it.
 class Solution:

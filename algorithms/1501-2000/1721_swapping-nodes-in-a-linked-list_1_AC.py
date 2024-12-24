@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
 # 1AC, don't even bother with that unnerving and geeky pointer operations
 # Definition for singly-linked list.

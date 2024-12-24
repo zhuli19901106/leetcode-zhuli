@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/maximum-population-year/
 # 1AC, can be optimized with BIT
 

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/statistics-from-a-large-sample/
 # not so tough, but rather tiring
 from bisect import bisect_left

@@ -1,3 +1,4 @@
+// medium
 // Each op is O(1) after preprocessing.
 class NumMatrix {
 public:

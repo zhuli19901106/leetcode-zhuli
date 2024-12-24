@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/bulb-switcher-iii/
 # 1AC, use Fenwick tree to record prefix sum
 # this problem can be solved with tree map by recording intervals

@@ -1,3 +1,4 @@
+// hard
 // Solution by @Xianming.Chen
 // Very clever and concise.
 // https://discuss.leetcode.com/topic/80623/my-clean-and-concise-c-solution-by-checking-balance-and-maximum 

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/binary-trees-with-factors/
 # should've been more careful
 class Solution:

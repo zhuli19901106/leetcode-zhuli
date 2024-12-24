@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/check-array-formation-through-concatenation/
 # 1AC, brute force DFS
 class Solution:

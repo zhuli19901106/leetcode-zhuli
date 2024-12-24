@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/boats-to-save-people/
 # 1AC, sort and shrink from both ends
 # Runtime: 468 ms, faster than 98.72% of Python3 online submissions for Boats to Save People.

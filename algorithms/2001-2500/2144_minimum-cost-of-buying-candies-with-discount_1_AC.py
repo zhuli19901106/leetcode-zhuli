@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 class Solution:
     def minimumCost(self, cost: List[int]) -> int:

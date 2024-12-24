@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/make-the-string-great/
 # 1AC, simulation
 class Solution:

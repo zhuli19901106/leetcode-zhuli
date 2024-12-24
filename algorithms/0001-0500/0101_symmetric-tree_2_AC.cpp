@@ -1,3 +1,4 @@
+// easy
 // Iterative solution using level-order traversal
 #include <queue>
 #include <utility>

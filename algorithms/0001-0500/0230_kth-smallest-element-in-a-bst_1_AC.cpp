@@ -1,3 +1,4 @@
+// medium
 // If the three is constantly modified, the statistics should be cached.
 /**
  * Definition for a binary tree node.

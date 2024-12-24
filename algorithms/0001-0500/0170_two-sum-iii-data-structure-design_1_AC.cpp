@@ -1,3 +1,4 @@
+// easy
 // Trade time for space.
 #include <algorithm>
 #include <vector>

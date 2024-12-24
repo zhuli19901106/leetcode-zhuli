@@ -1,3 +1,4 @@
+// medium
 // Think for a while before coding.
 #include <algorithm>
 #include <vector>

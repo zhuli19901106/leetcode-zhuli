@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-xor-after-operations/
 # total teaser
 class Solution:

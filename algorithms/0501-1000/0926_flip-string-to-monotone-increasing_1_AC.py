@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/flip-string-to-monotone-increasing/
 # 1AC, standard practice
 class Solution:

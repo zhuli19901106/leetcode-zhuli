@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/
 # teaser
 class Solution:

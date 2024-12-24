@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/binary-tree-pruning/
 # Definition for a binary tree node.
 # class TreeNode:

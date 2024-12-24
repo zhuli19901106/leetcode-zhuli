@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-the-difference-of-two-arrays/
 from collections import defaultdict
 

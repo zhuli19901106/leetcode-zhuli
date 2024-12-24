@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-the-number-of-consistent-strings/
 # 1AC
 class Solution:

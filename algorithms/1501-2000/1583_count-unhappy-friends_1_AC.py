@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-unhappy-friends/
 # by voting this is a totally BS problem, thus let's slip by at minimal cost
 # 217 ups and 706 downs, now that's a view

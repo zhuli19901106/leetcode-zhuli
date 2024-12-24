@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
 # 1AC, every edge involved is visited exactly twice
 

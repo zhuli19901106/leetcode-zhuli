@@ -1,3 +1,4 @@
+// medium
 // DFS + backtracking
 // I think it can be further accelerated with string hashing.
 #include <string>

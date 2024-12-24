@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/k-th-smallest-prime-fraction/
 # you only need the current smallest, not everything sorted
 from heapq import heappush, heappop

@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 # this should be rated medium
 

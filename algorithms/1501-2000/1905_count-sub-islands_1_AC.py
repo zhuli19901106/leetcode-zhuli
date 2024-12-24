@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-sub-islands/
 # a bit searching
 class Solution:

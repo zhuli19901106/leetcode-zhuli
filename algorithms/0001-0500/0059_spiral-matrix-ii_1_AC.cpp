@@ -1,3 +1,4 @@
+// medium
 enum {
     LEFT = 0, DOWN, RIGHT, UP
 };

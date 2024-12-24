@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/remove-comments/
 # https://leetcode.com/problems/remove-comments/discuss/466028/Python-very-simple-implementation-Beats-97
 # my solution was similar, but not as simple

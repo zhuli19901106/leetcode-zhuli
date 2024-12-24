@@ -1,3 +1,4 @@
+// medium
 // Apparently the challenge is to make your design work for n as large as INT_MAX.
 // So let's try replacing the bit vector with a hash table.
 #include <unordered_map>

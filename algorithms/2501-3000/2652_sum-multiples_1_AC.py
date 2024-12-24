@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/sum-multiples/
 class Solution:
     def __init__(self):

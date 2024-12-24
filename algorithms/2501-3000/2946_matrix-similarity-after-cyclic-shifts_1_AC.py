@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
 class Solution:
     def areSimilar(self, mat: List[List[int]], k: int) -> bool:

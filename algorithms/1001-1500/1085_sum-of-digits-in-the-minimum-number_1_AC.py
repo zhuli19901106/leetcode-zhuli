@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/
 # 1AC, boring
 class Solution:

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/capitalize-the-title/
 class Solution:
     def capitalizeTitle(self, title: str) -> str:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/water-bottles-ii/
 # should totally be "easy"
 # considering the data range, just simulate

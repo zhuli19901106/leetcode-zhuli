@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/simplified-fractions/
 # just bruteforce
 class Solution:

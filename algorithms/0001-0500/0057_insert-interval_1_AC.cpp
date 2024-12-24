@@ -1,3 +1,4 @@
+// medium
 // So why is this problem rated "Hard" anyway?
 // You can see the difficulty inflation in those interview questions these days.
 // Back in the old days, problems used to be easy.

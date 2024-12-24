@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/the-k-strongest-values-in-an-array/
 class Solution:
     def getStrongest(self, arr: List[int], k: int) -> List[int]:

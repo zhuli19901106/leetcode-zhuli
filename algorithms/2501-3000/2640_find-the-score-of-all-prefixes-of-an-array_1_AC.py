@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/
 class Solution:
     def findPrefixScore(self, nums: List[int]) -> List[int]:

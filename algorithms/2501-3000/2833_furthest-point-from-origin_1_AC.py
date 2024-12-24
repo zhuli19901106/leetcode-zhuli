@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/furthest-point-from-origin/
 class Solution:
     def furthestDistanceFromOrigin(self, moves: str) -> int:

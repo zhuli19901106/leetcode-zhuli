@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/best-sightseeing-pair/
 # O(n^2) bound, but the pruning is effectinve due to sorting.
 class Solution:

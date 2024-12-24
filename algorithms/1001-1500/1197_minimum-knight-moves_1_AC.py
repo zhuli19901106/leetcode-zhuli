@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-knight-moves/
 # 1AC, standard BFS with reasonable pruning
 from collections import deque

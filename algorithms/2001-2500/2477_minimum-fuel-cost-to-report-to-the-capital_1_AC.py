@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/
 # this should be "hard", at least a hard medium
 # I paused for 30 minutes and finally came up with some weird post-order DFS BS

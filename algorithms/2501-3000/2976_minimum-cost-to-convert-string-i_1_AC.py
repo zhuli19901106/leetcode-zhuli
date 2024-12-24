@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-cost-to-convert-string-i/
 # a tiny Floyd, you see the graph, right?
 class Solution:

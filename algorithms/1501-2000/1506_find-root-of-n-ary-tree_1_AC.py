@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-root-of-n-ary-tree/
 # 1AC, disjoint set
 

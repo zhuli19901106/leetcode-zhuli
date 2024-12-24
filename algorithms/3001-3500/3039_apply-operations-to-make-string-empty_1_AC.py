@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/apply-operations-to-make-string-empty/
 # just record the last occurrence of each char
 class Solution:

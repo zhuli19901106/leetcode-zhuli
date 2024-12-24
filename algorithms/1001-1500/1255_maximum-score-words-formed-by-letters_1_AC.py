@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/maximum-score-words-formed-by-letters/
 # so, maybe, just BF
 from collections import defaultdict

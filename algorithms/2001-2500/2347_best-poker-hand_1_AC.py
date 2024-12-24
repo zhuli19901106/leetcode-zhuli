@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/best-poker-hand/
 from collections import defaultdict
 

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/3sum-with-multiplicity/
 # simple idea, intensive labor
 class Solution:

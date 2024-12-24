@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/
 # how could this be medium? definitely a hard.
 # I can't possibly come up with this.

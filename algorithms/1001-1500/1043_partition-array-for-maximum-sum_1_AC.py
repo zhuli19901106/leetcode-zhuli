@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/partition-array-for-maximum-sum/
 # straightforward DP
 class Solution:

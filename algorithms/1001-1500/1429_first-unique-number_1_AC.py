@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3313/
 # 1AC
 from collections import deque

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/arithmetic-subarrays/
 # 1AC, can't think of any elegant solution for better complexity
 

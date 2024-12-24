@@ -1,3 +1,4 @@
+// medium
 // Such intensive recursion should always be accompanied by caching.
 // Otherwise a lot of repetitive computation will be executed.
 #include <unordered_map>

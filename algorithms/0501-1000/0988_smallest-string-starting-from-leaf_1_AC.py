@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/smallest-string-starting-from-leaf/
 # 1AC, Runtime: 40 ms, faster than 94.29% of Python3 online submissions for Smallest String Starting From Leaf.
 # Memory Usage: 14.3 MB, less than 100.00% of Python3 online submissions for Smallest String Starting From Leaf.

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/queries-on-a-permutation-with-key/
 # https://leetcode.com/problems/queries-on-a-permutation-with-key/discuss/575208/Java-Binary-indexed-tree-solution
 # 1AC, a clever solution using BIT

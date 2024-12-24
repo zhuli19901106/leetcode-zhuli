@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/array-of-doubled-pairs/
 # 1AC, sort by absolute value of keys
 class Solution:

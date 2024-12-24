@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-rows-covered-by-columns/
 # it's not greedy and I can't think of any smarter ways
 # just BF, with some bit acceleration, of course

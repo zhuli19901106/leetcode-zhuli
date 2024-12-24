@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/cheapest-flights-within-k-stops/
 # single source shortest path with limited steps
 # Dijkstra with heap optimization

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/spiral-matrix-iii/
 # pure simulation logic
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/design-browser-history/
 # 1AC, easy does it
 class BrowserHistory:

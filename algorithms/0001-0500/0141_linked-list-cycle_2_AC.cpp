@@ -1,3 +1,4 @@
+// easy
 // Hash and check.
 #include <unordered_set>
 using std::unordered_set;

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-wonderful-substrings/
 # got stuck on this for over 1h, really really should be tagged "hard" per se.
 # besides, bit manipulation is a teaser if abused.

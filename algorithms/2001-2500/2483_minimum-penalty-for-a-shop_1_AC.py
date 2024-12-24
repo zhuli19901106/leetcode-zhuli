@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-penalty-for-a-shop/
 class Solution:
     def bestClosingTime(self, customers: str) -> int:

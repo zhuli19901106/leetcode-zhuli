@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/rabbits-in-forest/
 # Runtime: 36 ms, faster than 91.46% of Python3 online submissions for Rabbits in Forest.
 # Memory Usage: 12.8 MB, less than 100.00% of Python3 online submissions for Rabbits in Forest.

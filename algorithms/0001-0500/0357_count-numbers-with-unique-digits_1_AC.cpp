@@ -1,3 +1,4 @@
+// medium
 // A math problem can be dead hard if you take it the wrong way.
 // Give up and try a flanking route when things start to get ugly.
 class Solution {

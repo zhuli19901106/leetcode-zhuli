@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/
 # 1AC, need a bit thinking
 class Solution:

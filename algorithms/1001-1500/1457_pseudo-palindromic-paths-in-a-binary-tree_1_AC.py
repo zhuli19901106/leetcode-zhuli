@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
 # 1AC, a bit convoluted, but still manageable
 # Definition for a binary tree node.

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/make-array-elements-equal-to-zero/
 # not difficult, but tricky, multiple edge cases
 class Solution:

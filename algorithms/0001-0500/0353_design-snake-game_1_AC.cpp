@@ -1,3 +1,4 @@
+// medium
 // Edge cases everywhere.
 #include <string>
 #include <unordered_map>

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/explore/learn/card/hash-table/187/conclusion-hash-table/1179/
 # 1AC
 class TwoSum:

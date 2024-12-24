@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
 # 1AC
 class Solution:

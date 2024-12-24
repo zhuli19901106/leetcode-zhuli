@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/
 # just search it, careful with the search order
 from sortedcontainers import SortedSet

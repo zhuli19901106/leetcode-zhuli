@@ -1,3 +1,4 @@
+// hard
 // If the answer is not among variables, try to find them among values.
 #include <algorithm>
 #include <vector>

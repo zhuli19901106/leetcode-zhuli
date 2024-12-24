@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/maximum-vacation-days/
 # standard DP solution
 from collections import defaultdict

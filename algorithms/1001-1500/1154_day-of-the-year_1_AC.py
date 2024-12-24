@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/day-of-the-year/
 import datetime
 

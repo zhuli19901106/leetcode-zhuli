@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/sort-the-matrix-diagonally/
 class Solution:
     def diagonalSort(self, mat: List[List[int]]) -> List[List[int]]:

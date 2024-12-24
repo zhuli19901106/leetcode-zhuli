@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/
 # I got sloppy on this one
 # Definition for a binary tree node.

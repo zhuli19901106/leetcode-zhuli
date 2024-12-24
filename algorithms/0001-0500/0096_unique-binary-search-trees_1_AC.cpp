@@ -1,3 +1,4 @@
+// medium
 #include <cstdint>
 
 class Solution {

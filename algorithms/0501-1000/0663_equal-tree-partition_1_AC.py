@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/equal-tree-partition/
 # 1AC, subtree sum
 # Definition for a binary tree node.

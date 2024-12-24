@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/high-five/
 # 1AC
 class Solution:

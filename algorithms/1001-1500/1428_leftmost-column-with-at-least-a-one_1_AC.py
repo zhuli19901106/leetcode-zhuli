@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3306/# """
 # surely it's binary search.
 # This is BinaryMatrix's API interface.

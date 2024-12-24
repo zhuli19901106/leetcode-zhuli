@@ -1,3 +1,4 @@
+// easy
 // Digital root.
 class Solution {
 public:

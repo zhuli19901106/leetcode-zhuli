@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 # Runtime: 48 ms, faster than 86.86% of Python3 online submissions for Construct Binary Tree from Preorder and Postorder Traversal.
 # Memory Usage: 12.6 MB, less than 100.00% of Python3 online submissions for Construct Binary Tree from Preorder and Postorder Traversal.

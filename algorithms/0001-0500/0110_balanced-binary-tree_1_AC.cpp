@@ -1,3 +1,4 @@
+// easy
 // Cache the result.
 #include <algorithm>
 #include <unordered_map>

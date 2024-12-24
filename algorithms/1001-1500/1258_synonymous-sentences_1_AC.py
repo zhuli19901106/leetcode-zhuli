@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/synonymous-sentences/
 # 1AC, not difficult, but a bit tiring
 class Solution:

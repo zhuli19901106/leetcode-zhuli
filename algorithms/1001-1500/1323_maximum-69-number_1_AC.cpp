@@ -1,3 +1,4 @@
+// easy
 // https://leetcode.com/problems/maximum-69-number/
 #include <string>
 using std::stoi;

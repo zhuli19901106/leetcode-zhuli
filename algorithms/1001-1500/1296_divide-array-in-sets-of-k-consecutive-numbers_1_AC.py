@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
 class Solution:
     def isPossibleDivide(self, nums: List[int], k: int) -> bool:

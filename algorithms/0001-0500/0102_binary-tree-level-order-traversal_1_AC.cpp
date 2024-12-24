@@ -1,3 +1,4 @@
+// medium
 // Recursive solution
 // Whatever traversal you use, the result never changes.
 /**

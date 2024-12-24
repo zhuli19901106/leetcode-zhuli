@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/diet-plan-performance/
 # 1AC
 class Solution:

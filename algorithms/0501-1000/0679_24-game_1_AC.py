@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/24-game/
 # pure brute-force search
 from operator import add, sub, mul, truediv

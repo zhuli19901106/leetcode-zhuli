@@ -1,3 +1,4 @@
+// medium
 // A smart recursive solution
 /**
  * Definition for a binary tree node.

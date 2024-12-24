@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-the-losers-of-the-circular-game/
 class Solution:
     def circularGameLosers(self, n: int, k: int) -> List[int]:

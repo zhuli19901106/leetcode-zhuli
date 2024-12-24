@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
 # brute-force
 # I got some minor optimizations to spare, but can't think of any wise solutions

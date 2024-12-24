@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/longest-uploaded-prefix/
 # amortized O(1)
 class LUPrefix:

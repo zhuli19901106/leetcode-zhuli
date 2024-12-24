@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/fair-distribution-of-cookies/
 # nasty code, sorry
 

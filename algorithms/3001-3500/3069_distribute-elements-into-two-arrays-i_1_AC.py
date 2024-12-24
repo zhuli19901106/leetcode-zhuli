@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/distribute-elements-into-two-arrays-i/
 class Solution:
     def resultArray(self, nums: List[int]) -> List[int]:

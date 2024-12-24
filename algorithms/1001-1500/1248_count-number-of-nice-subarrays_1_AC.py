@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-number-of-nice-subarrays/
 # hash and count
 class Solution:

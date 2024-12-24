@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/where-will-the-ball-fall/
 # 1AC, interesting problem, do some simulation
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/split-bst/
 # 1AC, recursive split
 # Definition for a binary tree node.

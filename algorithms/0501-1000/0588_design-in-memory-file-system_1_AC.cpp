@@ -1,3 +1,4 @@
+// hard
 // I hate multiple inheritance, but I hate this problem even more.
 // So be it.
 #include <map>

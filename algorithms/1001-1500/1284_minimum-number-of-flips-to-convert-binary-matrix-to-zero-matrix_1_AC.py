@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
 # extremely simple idea, but a bit dirty work to encode the matrices
 from collections import deque

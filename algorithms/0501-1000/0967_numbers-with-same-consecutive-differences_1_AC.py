@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 # supposed to be 1AC
 class Solution:

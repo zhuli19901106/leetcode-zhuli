@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 class Solution:
     def maxConsecutive(self, bottom: int, top: int, special: List[int]) -> int:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/stone-game-ii/
 # https://leetcode.com/problems/stone-game-ii/discuss/513862/Clean-and-Short-Python-DP-%2B-Memoization
 # I find this one a bit challenging

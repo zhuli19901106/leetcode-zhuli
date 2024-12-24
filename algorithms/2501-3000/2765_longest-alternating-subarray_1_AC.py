@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/longest-alternating-subarray/
 class Solution:
     def alternatingSubarray(self, nums: List[int]) -> int:

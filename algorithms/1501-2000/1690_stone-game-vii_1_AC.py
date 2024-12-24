@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/stone-game-vii/
 # DP
 

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/k-closest-points-to-origin/submissions/
 from heapq import heappush, heappop
 

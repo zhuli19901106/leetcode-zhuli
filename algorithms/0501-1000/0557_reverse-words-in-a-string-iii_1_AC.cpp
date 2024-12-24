@@ -1,3 +1,4 @@
+// easy
 #include <algorithm>
 #include <string>
 using std::reverse;

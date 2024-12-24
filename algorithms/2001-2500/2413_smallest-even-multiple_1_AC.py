@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/smallest-even-multiple/
 # what?
 class Solution:

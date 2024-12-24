@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-if-digit-game-can-be-won/
 class Solution:
     def canAliceWin(self, nums: List[int]) -> bool:

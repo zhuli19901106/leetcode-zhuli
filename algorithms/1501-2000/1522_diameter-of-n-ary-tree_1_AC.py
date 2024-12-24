@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/diameter-of-n-ary-tree/
 # not quite a clean solution
 

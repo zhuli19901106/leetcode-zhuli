@@ -1,3 +1,4 @@
+// hard
 /*
 // Calculate palindrome product for 2 n-digit numbers.
 #include <cmath>

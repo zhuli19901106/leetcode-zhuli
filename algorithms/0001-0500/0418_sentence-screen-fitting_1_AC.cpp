@@ -1,3 +1,4 @@
+// medium
 // Use binary search.
 // Special treatment for edge cases.
 #include <algorithm>

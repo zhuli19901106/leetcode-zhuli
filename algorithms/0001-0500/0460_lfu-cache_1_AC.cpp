@@ -1,3 +1,4 @@
+// hard
 // I haven't found a pure O(1) solution.
 // Getting the lowest frequency doesn't seem to be an O(1) operation.
 // If not a <map>, what should I do?

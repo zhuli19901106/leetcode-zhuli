@@ -1,3 +1,4 @@
+// hard
 #include <cmath>
 #include <cstdint>
 #include <cstdio>

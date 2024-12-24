@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/connecting-cities-with-minimum-cost/
 # 1AC, MST problem
 class Solution:

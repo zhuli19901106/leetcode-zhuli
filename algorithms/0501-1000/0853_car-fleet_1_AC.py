@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/car-fleet/
 # https://leetcode.com/problems/car-fleet/discuss/420329/python-concise-solution
 # that's smart, I can't figure this out myself

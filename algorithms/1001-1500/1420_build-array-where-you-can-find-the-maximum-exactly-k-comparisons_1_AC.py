@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/
 # the decorator @lru_cache can't be used
 

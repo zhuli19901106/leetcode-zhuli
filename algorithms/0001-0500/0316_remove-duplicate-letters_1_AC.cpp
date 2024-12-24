@@ -1,3 +1,4 @@
+// medium
 // https://discuss.leetcode.com/topic/74326/c-solution-using-counting-sort-o-n
 // I feel it's greedy, but I can't write down a clean solution.
 #include <string>

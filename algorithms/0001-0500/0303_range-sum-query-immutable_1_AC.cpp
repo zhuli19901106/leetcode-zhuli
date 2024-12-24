@@ -1,3 +1,4 @@
+// easy
 class NumArray {
 public:
     NumArray(vector<int> &nums) {

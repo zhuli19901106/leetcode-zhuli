@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/tuple-with-same-product/
 class Solution:
     def tupleSameProduct(self, nums: List[int]) -> int:

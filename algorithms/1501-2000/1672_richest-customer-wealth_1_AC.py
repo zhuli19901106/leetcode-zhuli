@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/richest-customer-wealth/
 # 1AC
 class Solution:

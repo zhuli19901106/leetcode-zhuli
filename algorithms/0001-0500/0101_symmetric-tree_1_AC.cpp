@@ -1,3 +1,4 @@
+// easy
 // Recursive solution
 /**
  * Definition for a binary tree node.

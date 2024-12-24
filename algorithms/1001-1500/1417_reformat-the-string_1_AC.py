@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/reformat-the-string/
 # 1AC, string manipulation
 class Solution:

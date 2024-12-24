@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-cost-to-connect-sticks/
 # 1AC, min heap
 from heapq import heappush, heappop

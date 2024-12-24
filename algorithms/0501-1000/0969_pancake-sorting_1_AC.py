@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/pancake-sorting/
 # brute-force
 class Solution:

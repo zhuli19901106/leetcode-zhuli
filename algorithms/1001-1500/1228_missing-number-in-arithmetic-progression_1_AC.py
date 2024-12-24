@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/missing-number-in-arithmetic-progression/
 class Solution:
     def missingNumber(self, arr: List[int]) -> int:

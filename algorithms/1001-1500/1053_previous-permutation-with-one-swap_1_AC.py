@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/previous-permutation-with-one-swap/
 # too sloppy, not cool
 class Solution:

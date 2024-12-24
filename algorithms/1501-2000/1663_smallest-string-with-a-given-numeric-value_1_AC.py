@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
 # just be greedy
 class Solution:

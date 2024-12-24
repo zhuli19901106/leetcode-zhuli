@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/
 # 1AC, just enumerate
 from collections import defaultdict

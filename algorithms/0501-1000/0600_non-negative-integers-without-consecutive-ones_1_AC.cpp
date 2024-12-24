@@ -1,3 +1,4 @@
+// hard
 // That was an ugly one.
 #include <string>
 #include <vector>

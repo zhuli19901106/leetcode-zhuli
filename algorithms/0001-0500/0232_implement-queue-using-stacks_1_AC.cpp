@@ -1,3 +1,4 @@
+// easy
 #include <stack>
 using std::stack;
 

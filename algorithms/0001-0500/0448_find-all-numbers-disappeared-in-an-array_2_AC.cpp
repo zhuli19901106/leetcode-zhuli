@@ -1,3 +1,4 @@
+// easy
 // Use the original array for marking.
 class Solution {
 public:

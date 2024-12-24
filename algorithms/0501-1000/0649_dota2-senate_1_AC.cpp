@@ -1,3 +1,4 @@
+// medium
 // Just greedy, no game theory involved.
 // Although the problem itself is not exactly easy, could be a bit tricky.
 class Solution {

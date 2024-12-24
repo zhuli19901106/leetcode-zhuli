@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/path-with-minimum-effort/
 # a well-designed problem, variant of Dijkstra
 # almost a hard medium

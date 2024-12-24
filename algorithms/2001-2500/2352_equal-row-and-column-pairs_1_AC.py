@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/equal-row-and-column-pairs/
 # hashing, but not exactly
 class Solution:

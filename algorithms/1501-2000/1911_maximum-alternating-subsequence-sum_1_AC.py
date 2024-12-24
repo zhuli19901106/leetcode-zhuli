@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-alternating-subsequence-sum/
 # the DP solution is right, but not good enough
 

@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/brace-expansion-ii/
 # damn...that's better
 

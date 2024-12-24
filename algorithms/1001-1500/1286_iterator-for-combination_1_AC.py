@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/iterator-for-combination/
 # simple idea, ugly implementation, just next permutation, sort of.
 class CombinationIterator:

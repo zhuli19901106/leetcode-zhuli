@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
 # 1AC, what if seats are at the same position?
 

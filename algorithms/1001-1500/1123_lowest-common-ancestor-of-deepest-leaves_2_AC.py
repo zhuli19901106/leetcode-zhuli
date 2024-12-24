@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
 # cleaner solution from post order traversal
 # Definition for a binary tree node.

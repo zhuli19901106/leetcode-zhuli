@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/bag-of-tokens/
 # 1AC, sort and shrink from both ends
 class Solution:

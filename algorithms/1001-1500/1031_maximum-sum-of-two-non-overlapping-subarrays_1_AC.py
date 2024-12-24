@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/
 # 1AC, rather simple idea, but the index problem is driving me crazy.
 class Solution:

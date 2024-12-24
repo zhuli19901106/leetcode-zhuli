@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/largest-magic-square/
 # just BF
 # this is insane

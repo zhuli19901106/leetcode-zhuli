@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/alphabet-board-path/
 # 1AC, this kind of problems are boring.
 class Solution:

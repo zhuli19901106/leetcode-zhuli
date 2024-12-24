@@ -1,3 +1,4 @@
+// easy
 // If you don't one-shot, you're dead.
 #include <vector>
 using std::vector;

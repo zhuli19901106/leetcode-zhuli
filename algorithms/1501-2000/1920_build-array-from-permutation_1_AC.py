@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/build-array-from-permutation/
 # 1AC, permute
 

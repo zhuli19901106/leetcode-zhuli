@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/longest-nice-subarray/
 # all the same except for add/remove using bit operations
 class Solution:

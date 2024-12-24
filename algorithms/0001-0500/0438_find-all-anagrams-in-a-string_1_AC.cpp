@@ -1,3 +1,4 @@
+// medium
 #include <cstring>
 using std::memset;
 

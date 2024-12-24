@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/shortest-bridge/
 # DFS + BFS, not so smart, but OK
 from collections import deque

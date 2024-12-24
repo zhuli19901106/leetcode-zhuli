@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-the-winner-of-the-circular-game/
 # 1AC, Josephus circle, 1-indexed
 class Solution:

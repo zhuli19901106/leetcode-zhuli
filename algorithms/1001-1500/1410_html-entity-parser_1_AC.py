@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/html-entity-parser/
 # just BF
 class Solution:

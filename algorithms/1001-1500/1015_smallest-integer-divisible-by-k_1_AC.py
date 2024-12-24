@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/smallest-integer-divisible-by-k/
 # 1AC, remainder cycle
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/happy-students/
 # very puzzling description
 # a ridiculously tricky question

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-compatibility-score-sum/
 # simple idea, though
 

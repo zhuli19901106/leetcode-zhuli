@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/k-th-symbol-in-grammar/
 # 1AC
 class Solution:

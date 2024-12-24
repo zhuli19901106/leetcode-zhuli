@@ -1,3 +1,4 @@
+// hard
 // Brute-force backtracking
 #include <cmath>
 #include <vector>

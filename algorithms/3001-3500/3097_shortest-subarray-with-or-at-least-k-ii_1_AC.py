@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/
 class Solution:
     def minimumSubarrayLength(self, nums: List[int], k: int) -> int:

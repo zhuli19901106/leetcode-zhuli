@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/bitwise-xor-of-all-pairings/
 class Solution:
     def xorAllNums(self, nums1: List[int], nums2: List[int]) -> int:

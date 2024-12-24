@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
 class Solution:
     def cellsInRange(self, s: str) -> List[str]:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/
 # post-order traversal
 

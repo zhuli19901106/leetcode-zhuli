@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/path-crossing/
 # 1AC, if it's supposed to be easy, go for the easy way out
 class Solution:

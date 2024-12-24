@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/matrix-diagonal-sum/
 # 1AC
 class Solution:

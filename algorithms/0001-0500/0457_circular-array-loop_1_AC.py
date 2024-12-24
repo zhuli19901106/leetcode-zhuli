@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/circular-array-loop/
 # 1AC, achieving O(1) space is totally feasible, but tricky
 # so, forget about it

@@ -1,3 +1,4 @@
+// easy
 // I suppose every node of the new tree should be newly allocated, otherwise things sure can be pretty messed up around here.
 /**
  * Definition for a binary tree node.

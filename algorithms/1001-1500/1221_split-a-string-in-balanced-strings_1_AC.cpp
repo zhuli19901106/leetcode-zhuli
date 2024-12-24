@@ -1,3 +1,4 @@
+// easy
 // https://leetcode.com/problems/split-a-string-in-balanced-strings/
 class Solution {
 public:

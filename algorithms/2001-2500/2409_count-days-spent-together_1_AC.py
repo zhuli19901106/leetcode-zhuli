@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-days-spent-together/
 class Solution:
     MD = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]

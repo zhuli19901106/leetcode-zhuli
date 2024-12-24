@@ -1,3 +1,4 @@
+// easy
 #include <algorithm>
 using std::max;
 

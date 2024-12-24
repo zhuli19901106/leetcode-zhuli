@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/day-of-the-week/
 from datetime import date
 from calendar import day_name

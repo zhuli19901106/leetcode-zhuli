@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/
 # sort of like KMP match (and rematch after mismatch)
 # just BF for now

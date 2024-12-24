@@ -1,3 +1,4 @@
+// medium
 // Reservoir sampling
 #include <cstdlib>
 using std::rand;

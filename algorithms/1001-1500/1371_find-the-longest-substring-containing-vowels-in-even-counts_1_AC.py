@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/class Solution:
 class Solution:
     def findTheLongestSubstring(self, s: str) -> int:

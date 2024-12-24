@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/
 class Solution:
     def getLongestSubsequence(self, words: List[str], groups: List[int]) -> List[str]:

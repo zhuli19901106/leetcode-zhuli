@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
 # 1AC, DP solution
 class Solution:

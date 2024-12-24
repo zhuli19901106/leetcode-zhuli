@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/height-checker/
 # this problem is not clearly worded
 class Solution:

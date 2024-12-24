@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
 # 1AC, I know, recursive solution, but why bother
 # """

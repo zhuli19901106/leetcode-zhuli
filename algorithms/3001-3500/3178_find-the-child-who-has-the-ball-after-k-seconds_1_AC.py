@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/
 class Solution:
     def numberOfChild(self, n: int, k: int) -> int:

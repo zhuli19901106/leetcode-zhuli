@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/string-without-aaa-or-bbb/
 # 1AC, perfect
 class Solution:

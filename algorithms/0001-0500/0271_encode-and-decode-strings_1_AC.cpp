@@ -1,3 +1,4 @@
+// medium
 // Base64 is an option.
 #include <cctype>
 #include <string>

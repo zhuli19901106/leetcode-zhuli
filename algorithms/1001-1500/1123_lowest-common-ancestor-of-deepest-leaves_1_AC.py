@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
 # pure manual labor
 # Definition for a binary tree node.

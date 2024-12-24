@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/
 # it's a deque, both ends
 # always choose the smaller end

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-ice-cream-bars/
 # 1AC, medium?
 class Solution:

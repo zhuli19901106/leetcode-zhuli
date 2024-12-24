@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/largest-values-from-labels/
 class Solution:
     def largestValsFromLabels(self, values: List[int], labels: List[int],\

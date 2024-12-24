@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/
 # binary search is a common trick for minimax problems
 class Solution:

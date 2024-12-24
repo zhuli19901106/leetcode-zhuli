@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/the-time-when-the-network-becomes-idle/
 # the description is insanely long, summary like this:
 # - all edges weigh 1

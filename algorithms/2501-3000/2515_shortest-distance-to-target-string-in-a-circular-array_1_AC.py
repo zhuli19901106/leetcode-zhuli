@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 class Solution:
     def closetTarget(self, words: List[str], target: str, startIndex: int) -> int:

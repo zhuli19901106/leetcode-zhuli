@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/semi-ordered-permutation/
 class Solution:
     def semiOrderedPermutation(self, nums: List[int]) -> int:

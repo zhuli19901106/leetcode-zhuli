@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 from bisect import bisect_left, bisect_right
 

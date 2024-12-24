@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/sort-array-by-increasing-frequency/
 # 1AC
 class Solution:

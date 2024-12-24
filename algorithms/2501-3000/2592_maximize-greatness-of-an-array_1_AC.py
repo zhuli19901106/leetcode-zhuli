@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximize-greatness-of-an-array/
 from sortedcontainers import SortedDict
 

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
 # ridiculous
 class Solution:

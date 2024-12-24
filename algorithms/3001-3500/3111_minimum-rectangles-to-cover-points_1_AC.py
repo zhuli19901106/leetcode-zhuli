@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-rectangles-to-cover-points/
 # y doesn't matter at all
 class Solution:

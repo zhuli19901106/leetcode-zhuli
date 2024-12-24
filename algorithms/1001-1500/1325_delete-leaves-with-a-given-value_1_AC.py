@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/delete-leaves-with-a-given-value/
 # 1AC
 # Definition for a binary tree node.

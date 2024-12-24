@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/check-knight-tour-configuration/
 # top left must be 0, yeah, right
 class Solution:

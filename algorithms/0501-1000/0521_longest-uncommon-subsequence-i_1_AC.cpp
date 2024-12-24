@@ -1,3 +1,4 @@
+// easy
 // Is this April Fool's present?
 #include <algorithm>
 #include <string>

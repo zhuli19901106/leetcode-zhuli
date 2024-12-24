@@ -1,3 +1,4 @@
+// medium
 // You see, it's stateless, isn't it?
 // One liner joke :)
 // With the given charset, I think the feasibility of using a string lossless 

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/implement-rand10-using-rand7/
 # simple probability problem
 # The rand7() API is already defined for you.

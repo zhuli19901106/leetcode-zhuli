@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/
 # 1AC, straightforward
 class Solution:

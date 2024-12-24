@@ -1,3 +1,4 @@
+// hard
 // Segment tree, BIT, whatever.
 // Avoid any complications whenever you can.
 #include <algorithm>

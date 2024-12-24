@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-impossible-or/
 # must be a teaser, it is indeed
 class Solution:

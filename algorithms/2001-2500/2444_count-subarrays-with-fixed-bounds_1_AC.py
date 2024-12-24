@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
 # it must be sliding window, so it is
 # quite the trouble

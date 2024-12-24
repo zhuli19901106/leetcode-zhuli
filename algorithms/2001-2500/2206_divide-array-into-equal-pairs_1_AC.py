@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/divide-array-into-equal-pairs/
 from collections import defaultdict
 

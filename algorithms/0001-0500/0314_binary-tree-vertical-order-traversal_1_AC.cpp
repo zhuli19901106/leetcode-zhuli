@@ -1,3 +1,4 @@
+// medium
 // Just how many ways do you need to traverse a binary tree?
 /**
  * Definition for a binary tree node.

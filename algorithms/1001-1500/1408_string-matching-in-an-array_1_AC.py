@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/string-matching-in-an-array/
 # 1AC, brute-force match
 class Solution:

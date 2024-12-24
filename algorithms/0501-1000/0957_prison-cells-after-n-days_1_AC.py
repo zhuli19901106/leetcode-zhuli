@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/prison-cells-after-n-days/
 # 1AC, cellular automata, find the cycle length
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/
 # horribly lengthy and unnecessary
 from collections import deque

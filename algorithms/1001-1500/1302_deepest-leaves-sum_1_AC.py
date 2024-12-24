@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/deepest-leaves-sum/
 # Definition for a binary tree node.
 # class TreeNode:

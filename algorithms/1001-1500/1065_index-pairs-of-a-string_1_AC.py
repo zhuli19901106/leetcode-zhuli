@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/index-pairs-of-a-string/
 # 1AC, just brute-force
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-distinct-islands/
 # 1AC, simple idea but too much work
 from collections import deque

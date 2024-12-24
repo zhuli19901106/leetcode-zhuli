@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/rotating-the-box/
 class Solution:
     def rotateTheBox(self, box: List[List[str]]) -> List[List[str]]:

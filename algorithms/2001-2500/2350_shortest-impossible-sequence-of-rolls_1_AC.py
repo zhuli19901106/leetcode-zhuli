@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/
 # quite the reverse thinking
 

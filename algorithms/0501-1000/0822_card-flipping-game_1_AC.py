@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/card-flipping-game/
 # 1AC, mind twister
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-array-end/
 # a "bit" tricky
 class Solution:

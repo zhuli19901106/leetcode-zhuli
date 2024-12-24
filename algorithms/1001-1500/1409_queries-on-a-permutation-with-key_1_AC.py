@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/queries-on-a-permutation-with-key/
 # 1AC, just brute-force
 class Solution:

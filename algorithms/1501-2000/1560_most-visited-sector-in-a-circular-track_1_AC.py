@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/most-visited-sector-in-a-circular-track/
 # 1AC, can be optimized by BIT, but don't wanna bother for an easy one
 # boundary description is confusing

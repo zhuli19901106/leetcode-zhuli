@@ -1,3 +1,4 @@
+// medium
 // F**k this problem
 #include <algorithm>
 #include <stack>

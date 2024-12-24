@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/corporate-flight-bookings/
 # BIT solution, very intuitive if you're OK with writing it
 class BIT:

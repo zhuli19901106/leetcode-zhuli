@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
 # Definition for a binary tree node.
 # class TreeNode:

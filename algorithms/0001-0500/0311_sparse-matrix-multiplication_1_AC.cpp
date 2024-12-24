@@ -1,3 +1,4 @@
+// medium
 // Hard labor
 #include <unordered_map>
 #include <vector>

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/array-transformation/
 # 1AC, brute force
 class Solution:

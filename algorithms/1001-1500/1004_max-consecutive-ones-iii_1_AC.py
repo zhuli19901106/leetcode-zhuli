@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/max-consecutive-ones-iii/
 # sliding window
 class Solution:

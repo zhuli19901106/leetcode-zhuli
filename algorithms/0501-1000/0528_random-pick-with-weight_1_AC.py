@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/random-pick-with-weight/
 # discrete pdf and cdf
 from bisect import bisect_right

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/before-and-after-puzzle/
 # 1AC, O(n^2) brute-force solution
 class Solution:

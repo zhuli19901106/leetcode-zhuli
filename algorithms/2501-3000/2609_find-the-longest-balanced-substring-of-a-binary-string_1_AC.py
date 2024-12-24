@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/
 class Solution:
     def findTheLongestBalancedSubstring(self, s: str) -> int:

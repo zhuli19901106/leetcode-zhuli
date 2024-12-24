@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
 # O(n) DP solution
 class Solution:

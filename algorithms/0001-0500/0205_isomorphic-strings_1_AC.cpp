@@ -1,3 +1,4 @@
+// easy
 // Bidirection mapping is a good way for fast lookup.
 #include <unordered_map>
 using std::unordered_map;

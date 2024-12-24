@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-center-of-star-graph/
 # 1AC, what?
 from collections import defaultdict

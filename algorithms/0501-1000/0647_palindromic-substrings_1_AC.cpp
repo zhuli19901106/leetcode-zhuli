@@ -1,3 +1,4 @@
+// medium
 // Brute-force, I don't wanna bother those fancy tricks.
 #include <string>
 using std::string;

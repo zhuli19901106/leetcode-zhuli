@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 # 1AC, simple prefix and postfix counting
 class Solution:

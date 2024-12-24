@@ -1,3 +1,4 @@
+// medium
 // F the edge cases
 #include <cmath>
 #include <cstdint>

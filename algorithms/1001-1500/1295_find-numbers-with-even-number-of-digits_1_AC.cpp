@@ -1,3 +1,4 @@
+// easy
 // https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 #include <cmath>
 using std::ceil;

@@ -1,3 +1,4 @@
+// medium
 #include <cstdlib>
 #include <unordered_map>
 #include <vector>

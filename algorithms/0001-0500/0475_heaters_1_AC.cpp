@@ -1,3 +1,4 @@
+// medium
 #include <algorithm>
 #include <climits>
 using std::max;

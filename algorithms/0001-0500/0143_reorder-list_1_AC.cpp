@@ -1,3 +1,4 @@
+// medium
 // 1AC
 /**
  * Definition for singly-linked list.

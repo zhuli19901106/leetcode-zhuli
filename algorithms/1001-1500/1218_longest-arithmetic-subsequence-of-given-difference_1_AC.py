@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
 # 1AC, medium?
 class Solution:

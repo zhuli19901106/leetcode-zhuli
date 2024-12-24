@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/find-k-th-smallest-pair-distance/
 # https://leetcode.com/problems/find-k-th-smallest-pair-distance/discuss/514019/Python3-Binary-search-beats-95-time-and-100-memory
 # binary search with a forward scan on each iteration, I couldn't have done it better myself

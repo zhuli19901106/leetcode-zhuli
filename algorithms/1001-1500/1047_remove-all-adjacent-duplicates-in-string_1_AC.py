@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 import re
 

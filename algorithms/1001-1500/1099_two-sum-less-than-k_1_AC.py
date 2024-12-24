@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/two-sum-less-than-k/
 # 1AC, sort and squeeze from both ends
 class Solution:

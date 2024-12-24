@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
 # 1AC
 from collections import defaultdict

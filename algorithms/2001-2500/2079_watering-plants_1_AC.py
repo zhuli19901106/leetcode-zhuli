@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/watering-plants/
 # 1AC, pure simulation
 

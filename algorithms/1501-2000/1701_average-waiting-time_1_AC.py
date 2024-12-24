@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/average-waiting-time/
 # 1AC, as per request
 class Solution:

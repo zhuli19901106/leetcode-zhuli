@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/smallest-number-with-all-set-bits/
 class Solution:
     def smallestNumber(self, n: int) -> int:

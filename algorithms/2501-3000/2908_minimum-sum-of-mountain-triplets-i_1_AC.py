@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 class Solution:
     def minimumSum(self, nums: List[int]) -> int:

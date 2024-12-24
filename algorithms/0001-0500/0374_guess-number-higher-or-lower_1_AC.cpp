@@ -1,3 +1,4 @@
+// easy
 // Binary search
 // Forward declaration of guess API.
 // @param num, your guess

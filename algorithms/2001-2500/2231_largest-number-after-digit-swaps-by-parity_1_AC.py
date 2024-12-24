@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
 class Solution:
     def largestInteger(self, num: int) -> int:

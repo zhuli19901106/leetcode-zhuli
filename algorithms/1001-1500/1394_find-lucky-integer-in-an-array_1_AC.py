@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-lucky-integer-in-an-array/
 # 1AC
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/bitwise-ors-of-subarrays/
 # it's basically brute-force, but let's hope there're more duplicates.
 class Solution:

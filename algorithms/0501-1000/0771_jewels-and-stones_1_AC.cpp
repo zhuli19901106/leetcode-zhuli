@@ -1,3 +1,4 @@
+// easy
 // https://leetcode.com/problems/jewels-and-stones/
 #include <unordered_set>
 using std::unordered_set;

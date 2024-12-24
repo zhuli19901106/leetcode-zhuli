@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/swap-adjacent-in-lr-string/
 # 1AC
 class Solution:

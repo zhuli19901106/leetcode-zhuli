@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/analyze-user-website-visit-pattern/
 # faithfully implemented
 class Solution:

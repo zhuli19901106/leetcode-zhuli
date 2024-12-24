@@ -1,3 +1,4 @@
+// easy
 // O(n) DP
 class Solution {
 public:

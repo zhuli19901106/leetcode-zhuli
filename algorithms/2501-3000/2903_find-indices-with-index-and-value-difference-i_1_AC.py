@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/
 class Solution:
     def findIndices(self, nums: List[int], indexDifference: int, valueDifference: int) -> List[int]:

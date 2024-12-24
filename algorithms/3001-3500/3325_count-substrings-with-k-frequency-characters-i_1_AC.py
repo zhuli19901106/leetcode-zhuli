@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i/
 # sliding window
 class Solution:

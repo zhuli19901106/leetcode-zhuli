@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/number-of-days-between-two-dates/
 # lazy solution from builtin
 # Runtime: 32 ms, faster than 100.00% of Python3 online submissions for Number of Days Between Two Dates.

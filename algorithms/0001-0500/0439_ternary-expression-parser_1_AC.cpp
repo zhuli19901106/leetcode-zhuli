@@ -1,3 +1,4 @@
+// medium
 #include <cctype>
 #include <stack>
 #include <string>

@@ -1,6 +1,6 @@
+// medium
 // O(1) space, one pass, no modification.
 // Just think twice before you start coding.
-// 子曰：“再斯可矣。”
 class Solution {
 public:
     int countBattleships(vector<vector<char>>& board) {

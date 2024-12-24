@@ -1,3 +1,4 @@
+// medium
 #include <map>
 using std::map;
 

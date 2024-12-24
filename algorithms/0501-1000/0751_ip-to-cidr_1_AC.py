@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/ip-to-cidr/
 # 1AC, what kind of "easy" is this?
 from math import log2

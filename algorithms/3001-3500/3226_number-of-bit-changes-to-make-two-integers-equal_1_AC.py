@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/
 class Solution:
     def minChanges(self, n: int, k: int) -> int:

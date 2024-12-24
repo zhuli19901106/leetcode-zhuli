@@ -1,3 +1,4 @@
+// medium
 // A little bit counting
 /**
  * Definition for singly-linked list.

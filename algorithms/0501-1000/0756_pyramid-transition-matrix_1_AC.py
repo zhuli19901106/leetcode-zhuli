@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/pyramid-transition-matrix/
 # 1AC, DFS
 class Solution:

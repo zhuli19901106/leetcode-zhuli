@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/car-pooling/
 # after trying many finicky method, I settled for a stupid but clean solution.
 # brute-force

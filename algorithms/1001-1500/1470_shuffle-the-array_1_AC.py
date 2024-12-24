@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/shuffle-the-array/
 # 1AC
 class Solution:

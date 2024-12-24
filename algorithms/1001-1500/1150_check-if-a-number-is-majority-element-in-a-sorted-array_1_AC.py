@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/
 # 1AC
 from bisect import bisect_left, bisect_right

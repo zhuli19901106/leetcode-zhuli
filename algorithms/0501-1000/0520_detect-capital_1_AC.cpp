@@ -1,3 +1,4 @@
+// easy
 #include <cctype>
 using std::islower;
 using std::isupper;

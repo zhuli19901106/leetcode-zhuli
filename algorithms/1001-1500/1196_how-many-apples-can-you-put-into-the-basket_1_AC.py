@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/
 # 1AC, sort and count
 class Solution:

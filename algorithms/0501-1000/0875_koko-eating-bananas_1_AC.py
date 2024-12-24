@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/koko-eating-bananas/
 # binary search
 class Solution:

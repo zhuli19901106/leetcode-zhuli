@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-maximum-number-of-string-pairs/
 class Solution:
     def maximumNumberOfStringPairs(self, words: List[str]) -> int:

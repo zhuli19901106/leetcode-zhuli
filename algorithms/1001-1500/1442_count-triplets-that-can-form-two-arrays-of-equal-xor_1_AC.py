@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/
 # 1AC, quite easy after a bit thinking
 class Solution:

@@ -1,3 +1,4 @@
+// medium
 // O(n) time and O(1) space.
 #include <cstdlib>
 using std::rand;

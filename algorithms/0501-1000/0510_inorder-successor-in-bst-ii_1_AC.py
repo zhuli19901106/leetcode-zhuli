@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/inorder-successor-in-bst-ii/
 # case by case, many cases
 """

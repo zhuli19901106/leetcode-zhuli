@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-corner-rectangles/
 # 1AC, O(n^2) for enumerate, O(n) for set intersection, thus O(n^3)
 class Solution:

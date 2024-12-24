@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/
 class Solution:
     def countKConstraintSubstrings(self, s: str, k: int) -> int:

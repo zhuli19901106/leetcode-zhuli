@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
 # not greedy, a bit thinking
 

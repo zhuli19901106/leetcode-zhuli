@@ -1,3 +1,4 @@
+// easy
 // https://leetcode.com/problems/minimum-time-visiting-all-points/
 #include <algorithm>
 #include <cmath>

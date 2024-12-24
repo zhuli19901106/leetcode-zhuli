@@ -1,3 +1,4 @@
+// medium
 // Think more, code less.
 /**
  * Definition for a binary tree node.

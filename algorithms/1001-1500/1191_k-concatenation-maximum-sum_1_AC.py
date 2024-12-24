@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/k-concatenation-maximum-sum/
 # multiple possible cases
 class Solution:

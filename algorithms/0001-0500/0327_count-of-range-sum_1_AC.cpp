@@ -1,3 +1,4 @@
+// hard
 // Think about the clever use of "1" and "-1".
 #include <algorithm>
 #include <cstdint>

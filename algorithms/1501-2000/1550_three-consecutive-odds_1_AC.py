@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/three-consecutive-odds/
 # 1AC
 class Solution:

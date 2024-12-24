@@ -1,3 +1,4 @@
+// medium
 // Manual inorder traversal
 /**
  * Definition for binary tree

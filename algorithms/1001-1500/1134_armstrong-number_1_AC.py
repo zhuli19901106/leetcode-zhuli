@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/armstrong-number/
 # 1AC
 class Solution:

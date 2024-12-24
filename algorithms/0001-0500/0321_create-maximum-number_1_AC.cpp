@@ -1,3 +1,4 @@
+// hard
 // Enumerate all possible combination.
 // The comparison during the string merge can't be done in O(1) time.
 #include <algorithm>

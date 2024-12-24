@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
 # odd and even zigzags
 class Solution:

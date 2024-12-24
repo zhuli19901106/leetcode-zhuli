@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 # got stuck on this for over 30 minutes, found out that the swap doesn't have to be adjacent
 # what a waste of time..

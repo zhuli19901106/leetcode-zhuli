@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 # 1AC
 class Solution:

@@ -1,3 +1,4 @@
+// hard
 // Pure brute-force will result in TLE.
 // You can use the same idea, but do it fast with rolling hash.
 // Let's suppose no collision here, 

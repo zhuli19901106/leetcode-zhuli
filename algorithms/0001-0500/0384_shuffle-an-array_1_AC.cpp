@@ -1,3 +1,4 @@
+// medium
 // O(n) time, O(1) space shuffling
 #include <algorithm>
 #include <cstdlib>

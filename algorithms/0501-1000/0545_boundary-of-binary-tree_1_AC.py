@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/boundary-of-binary-tree/
 # https://leetcode.com/problems/boundary-of-binary-tree/discuss/563845/Python-DFS
 # my implementation was much longer and trickier, I gave up

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
 # 1AC, no brainer
 class Solution:

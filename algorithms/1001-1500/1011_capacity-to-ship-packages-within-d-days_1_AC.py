@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
 # I tried greedy, but the intuition proved wrong.
 # The actual idea is a more simplistic binary search with linear checking.

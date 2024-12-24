@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-common-elements-between-two-arrays/
 class Solution:
     def findIntersectionValues(self, nums1: List[int], nums2: List[int]) -> List[int]:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-subsequence-score/
 # I got the feeling that things should be sorted, but can't prove it
 # should be hard, definitely

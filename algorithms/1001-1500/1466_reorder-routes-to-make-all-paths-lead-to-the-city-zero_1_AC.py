@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 # 1AC, create an equivalent undirected graph
 from collections import defaultdict, deque

@@ -1,3 +1,4 @@
+// easy
 // https://leetcode.com/problems/defanging-an-ip-address/
 #include <string>
 using std::string;

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/possible-bipartition/
 # 1AC, BFS
 from collections import deque

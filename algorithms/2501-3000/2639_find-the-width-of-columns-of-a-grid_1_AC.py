@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/
 from math import floor, log10
 

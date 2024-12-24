@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
 # binary search
 from bisect import bisect_left

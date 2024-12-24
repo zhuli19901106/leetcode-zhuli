@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/is-graph-bipartite/
 # BFS or DFS, either will do
 from collections import deque

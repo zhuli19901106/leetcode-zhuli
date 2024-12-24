@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/shortest-way-to-form-string/
 # 1AC, keep scanning
 class Solution:

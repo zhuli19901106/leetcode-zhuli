@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 # 1AC, count as you go
 from collections import defaultdict

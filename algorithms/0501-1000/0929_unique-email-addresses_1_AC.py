@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/unique-email-addresses/
 import re
 

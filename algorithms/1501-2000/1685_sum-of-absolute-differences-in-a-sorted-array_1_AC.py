@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
 # 1AC, careful with the indices
 class Solution:

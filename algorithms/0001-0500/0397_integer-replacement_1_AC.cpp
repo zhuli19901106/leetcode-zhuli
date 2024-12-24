@@ -1,3 +1,4 @@
+// medium
 // DP with memorization
 // Always watch out for overflow.
 #include <algorithm>

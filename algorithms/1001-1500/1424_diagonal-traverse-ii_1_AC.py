@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/diagonal-traverse-ii/
 # careful, it's not a matrix, could be sparse
 class Solution:

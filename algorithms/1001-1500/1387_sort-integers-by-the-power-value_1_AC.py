@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/sort-integers-by-the-power-value/
 # 1AC, DFS with memorization
 # https://en.wikipedia.org/wiki/Collatz_conjecture

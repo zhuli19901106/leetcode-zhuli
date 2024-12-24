@@ -1,3 +1,4 @@
+// hard
 // For small DICT_SIZE as 26, heap optimization is hardly efficient.
 #include <string>
 #include <vector>

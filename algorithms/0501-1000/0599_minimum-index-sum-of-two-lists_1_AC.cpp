@@ -1,3 +1,4 @@
+// easy
 // Lame, dude.
 #include <algorithm>
 #include <string>

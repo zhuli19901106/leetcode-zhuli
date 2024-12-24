@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/
 class Solution:
     def findScore(self, nums: List[int]) -> int:

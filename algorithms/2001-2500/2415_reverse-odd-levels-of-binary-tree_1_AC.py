@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/
 # Definition for a binary tree node.
 # class TreeNode:

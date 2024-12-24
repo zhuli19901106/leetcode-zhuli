@@ -1,3 +1,4 @@
+// medium
 // I don't know why such boring problems should appear one after one on Leetcode.
 /**
  * Definition for a binary tree node.

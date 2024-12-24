@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/shift-distance-between-two-strings/
 # make a tiny graph
 class Solution:

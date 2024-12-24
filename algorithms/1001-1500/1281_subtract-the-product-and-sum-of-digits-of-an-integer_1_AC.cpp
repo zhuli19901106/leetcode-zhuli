@@ -1,3 +1,4 @@
+// easy
 // https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 #include <string>
 using std::to_string;

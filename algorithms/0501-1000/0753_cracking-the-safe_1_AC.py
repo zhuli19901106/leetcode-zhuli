@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/cracking-the-safe/
 # https://leetcode.com/problems/cracking-the-safe/discuss/441235/10-line-python-concise-DFS-code
 # extremely concise and delicate code

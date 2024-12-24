@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/check-if-the-number-is-fascinating/
 class Solution:
     def isFascinating(self, n: int) -> bool:

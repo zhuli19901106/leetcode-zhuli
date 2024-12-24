@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/prime-palindrome/
 # I don't want another sight of it again
 from math import floor, log10

@@ -1,3 +1,4 @@
+// medium
 // The code was ugly, but it passed with one shot.
 // I'm a bit surprised, actually.
 // I can figure out other solutions, but D&C is more intuitive, thus easy to understand.

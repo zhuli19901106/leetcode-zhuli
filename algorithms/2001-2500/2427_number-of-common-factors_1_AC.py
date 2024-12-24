@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/number-of-common-factors/
 class Solution:
     def commonFactors(self, a: int, b: int) -> int:

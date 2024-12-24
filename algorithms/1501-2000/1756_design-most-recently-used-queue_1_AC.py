@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/design-most-recently-used-queue/
 # random access and shifting can't be satisfied at the same time
 

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/meeting-scheduler/
 # 1AC, move forward and find a possible intersection
 class Solution:

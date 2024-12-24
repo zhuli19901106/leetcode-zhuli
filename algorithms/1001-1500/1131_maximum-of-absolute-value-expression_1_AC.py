@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-of-absolute-value-expression/
 # that's a tricky one
 # https://leetcode.com/problems/maximum-of-absolute-value-expression/discuss/480064/python3-O(n)-solution-using-basic-math-absolute-value-definition.

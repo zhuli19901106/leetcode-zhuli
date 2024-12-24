@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/sorting-the-sentence/
 # 1AC
 

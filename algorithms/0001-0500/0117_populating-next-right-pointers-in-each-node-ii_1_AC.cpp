@@ -1,3 +1,4 @@
+// medium
 // Recursive solution
 /**
  * Definition for binary tree with next pointer.

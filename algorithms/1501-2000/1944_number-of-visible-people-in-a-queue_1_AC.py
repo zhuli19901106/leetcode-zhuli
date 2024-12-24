@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/number-of-visible-people-in-a-queue/
 class Solution:
     def canSeePersonsCount(self, heights: List[int]) -> List[int]:

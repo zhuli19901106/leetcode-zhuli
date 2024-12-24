@@ -1,5 +1,5 @@
+// medium
 // Some algorithmic problems are just boring, as if they lived only to serve in an interview.
-// 小生有一句脏话，不知当讲不当讲？
 #include <algorithm>
 using std::min;
 using std::swap;

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/product-of-the-last-k-numbers/
 # 1AC, clear on zero
 class ProductOfNumbers:

@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/maximum-number-of-k-divisible-components/
 # the point is, you should always split a subtree whenever it's k-divisible
 # however you pick the root, doesn't matter

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-if-array-can-be-sorted/
 class Solution:
     def canSortArray(self, nums: List[int]) -> bool:

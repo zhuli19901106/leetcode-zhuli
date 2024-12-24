@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/rings-and-rods/
 # 1AC, bit ops
 

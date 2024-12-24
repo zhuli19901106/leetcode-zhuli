@@ -1,3 +1,4 @@
+// hard
 // The key is to figure out why it is greedy.
 #include <algorithm>
 #include <cstdint>

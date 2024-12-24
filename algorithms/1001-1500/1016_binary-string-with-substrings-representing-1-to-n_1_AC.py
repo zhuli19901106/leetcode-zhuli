@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/
 # Seriously, I can't think of any but brute-force.
 class Solution:

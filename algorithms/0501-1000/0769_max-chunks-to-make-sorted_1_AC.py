@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/max-chunks-to-make-sorted/
 class Solution:
     def maxChunksToSorted(self, arr: List[int]) -> int:

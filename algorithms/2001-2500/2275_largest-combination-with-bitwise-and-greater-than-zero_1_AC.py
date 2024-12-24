@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
 class Solution:
     def largestCombination(self, candidates: List[int]) -> int:

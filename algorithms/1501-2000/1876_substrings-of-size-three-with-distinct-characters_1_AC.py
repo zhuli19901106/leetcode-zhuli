@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
 # 1AC, no-brainer
 

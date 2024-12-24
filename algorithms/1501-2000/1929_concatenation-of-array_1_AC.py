@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/concatenation-of-array/
 # 1AC
 

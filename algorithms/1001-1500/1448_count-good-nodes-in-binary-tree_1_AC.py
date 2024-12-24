@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 # 1AC, no hurry
 # Definition for a binary tree node.

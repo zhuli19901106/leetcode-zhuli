@@ -1,3 +1,4 @@
+// hard
 #include <algorithm>
 using std::min;
 

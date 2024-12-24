@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/k-divisible-elements-subarrays/
 # for distinct, just use a hash key for each subarray
 class Solution:

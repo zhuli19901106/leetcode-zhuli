@@ -1,3 +1,4 @@
+// medium
 // I was surprised that I chose to use DFS.
 // How foolish, when the answer is DP.
 #include <algorithm>

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/rearrange-spaces-between-words/
 # watch for the edge case
 import re

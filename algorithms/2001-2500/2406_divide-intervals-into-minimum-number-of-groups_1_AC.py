@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/
 # count max coverage times
 # if you have to query and update at the same time, you'll need a BIT

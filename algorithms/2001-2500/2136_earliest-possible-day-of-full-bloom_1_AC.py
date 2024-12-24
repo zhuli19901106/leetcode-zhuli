@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/earliest-possible-day-of-full-bloom/
 class Solution:
     def earliestFullBloom(self, plantTime: List[int], growTime: List[int]) -> int:

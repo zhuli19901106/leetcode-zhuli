@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/largest-1-bordered-square/
 # brute-force
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/swap-for-longest-repeated-character-substring/
 # rather ad-hoc, and boring
 class Solution:

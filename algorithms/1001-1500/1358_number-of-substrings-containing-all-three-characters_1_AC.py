@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 # 1AC, count as you go, sliding window
 class Solution:

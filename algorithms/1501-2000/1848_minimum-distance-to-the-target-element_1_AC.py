@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-distance-to-the-target-element/
 # 1AC
 class Solution:

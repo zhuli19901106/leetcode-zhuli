@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
 # https://leetcode.com/problems/minimum-cost-to-hire-k-workers/discuss/549490/Easy-Python-way-to-solve-this-O(n)-or-O(nlogn)
 # hard

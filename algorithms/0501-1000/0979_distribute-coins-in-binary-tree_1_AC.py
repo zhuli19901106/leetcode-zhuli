@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/distribute-coins-in-binary-tree/
 # Definition for a binary tree node.
 # class TreeNode:

@@ -1,3 +1,4 @@
+// medium
 // Median
 // Quick Sort, a permanent bug detector.
 #include <algorithm>

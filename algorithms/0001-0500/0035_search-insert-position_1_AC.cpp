@@ -1,3 +1,4 @@
+// easy
 // Upper bound
 class Solution {
 public:

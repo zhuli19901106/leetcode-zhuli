@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/decode-xored-array/
 # 1AC
 class Solution:

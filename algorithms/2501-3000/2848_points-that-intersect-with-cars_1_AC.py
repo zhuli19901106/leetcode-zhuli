@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/points-that-intersect-with-cars/
 class Solution:
     def numberOfPoints(self, nums: List[List[int]]) -> int:

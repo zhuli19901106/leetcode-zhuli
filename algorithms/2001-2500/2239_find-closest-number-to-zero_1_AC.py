@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-closest-number-to-zero/
 class Solution:
     def findClosestNumber(self, nums: List[int]) -> int:

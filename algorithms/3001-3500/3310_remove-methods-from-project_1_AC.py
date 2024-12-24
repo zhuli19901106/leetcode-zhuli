@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/remove-methods-from-project/
 # simple graph search
 # the example and description are really confusing, though

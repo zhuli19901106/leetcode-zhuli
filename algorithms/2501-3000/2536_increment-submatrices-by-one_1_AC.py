@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/increment-submatrices-by-one/
 # from prefix sums to element values
 class Solution:

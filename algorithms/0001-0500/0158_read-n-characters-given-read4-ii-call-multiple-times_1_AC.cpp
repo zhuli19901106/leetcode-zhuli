@@ -1,3 +1,4 @@
+// hard
 #include <cstring>
 using std::memset;
 

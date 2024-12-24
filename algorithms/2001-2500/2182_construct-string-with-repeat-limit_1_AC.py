@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/construct-string-with-repeat-limit/
 # be greedy, be careful
 class Solution:

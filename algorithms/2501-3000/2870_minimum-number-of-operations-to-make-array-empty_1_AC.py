@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/
 class Solution:
     def minOperations(self, nums: List[int]) -> int:

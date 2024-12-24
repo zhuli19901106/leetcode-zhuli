@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/global-and-local-inversions/
 # after second thought, it's supposed to be quite easy
 class Solution:

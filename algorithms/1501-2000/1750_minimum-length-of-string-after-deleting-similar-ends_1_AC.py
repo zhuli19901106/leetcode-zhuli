@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/
 # should be easy
 class Solution:

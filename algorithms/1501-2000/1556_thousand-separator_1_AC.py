@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/thousand-separator/
 # 1AC
 import re

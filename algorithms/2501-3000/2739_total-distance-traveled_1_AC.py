@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/total-distance-traveled/
 # careful
 class Solution:

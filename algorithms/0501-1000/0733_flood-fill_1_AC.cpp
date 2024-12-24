@@ -1,3 +1,4 @@
+// easy
 #include <queue>
 #include <vector>
 using std::queue;

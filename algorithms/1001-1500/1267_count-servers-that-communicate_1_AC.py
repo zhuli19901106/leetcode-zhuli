@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-servers-that-communicate/
 # straightforward, but very clunky
 class Solution:

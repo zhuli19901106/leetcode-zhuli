@@ -1,3 +1,4 @@
+// easy
 // Iteration.
 class Solution {
 public:

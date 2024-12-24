@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
 class Solution:
     def numPairsDivisibleBy60(self, time: List[int]) -> int:

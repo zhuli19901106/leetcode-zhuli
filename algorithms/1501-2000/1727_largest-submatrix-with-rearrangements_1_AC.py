@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/largest-submatrix-with-rearrangements/
 # requires a bit thinking
 

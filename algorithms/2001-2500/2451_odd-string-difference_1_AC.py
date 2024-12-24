@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/odd-string-difference/
 from collections import defaultdict
 

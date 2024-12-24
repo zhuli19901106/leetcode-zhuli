@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/maximum-strong-pair-xor-i/
 class Solution:
     def maximumStrongPairXor(self, nums: List[int]) -> int:

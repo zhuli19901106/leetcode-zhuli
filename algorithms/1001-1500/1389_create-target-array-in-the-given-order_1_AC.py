@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/create-target-array-in-the-given-order/
 # singly linked list
 class Node:

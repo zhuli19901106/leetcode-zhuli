@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 from heapq import heappush, heappop
 

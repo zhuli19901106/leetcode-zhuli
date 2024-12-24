@@ -1,3 +1,4 @@
+// medium
 // In-place hashing.
 class Solution {
 public:

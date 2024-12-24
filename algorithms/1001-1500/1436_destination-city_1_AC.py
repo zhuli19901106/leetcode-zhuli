@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/destination-city/
 # 1AC
 from collections import defaultdict

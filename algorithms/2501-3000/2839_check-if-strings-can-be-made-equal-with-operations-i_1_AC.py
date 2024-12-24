@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/
 class Solution:
     def canBeEqual(self, s1: str, s2: str) -> bool:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
 # That's boring, man.
 # Definition for a binary tree node.

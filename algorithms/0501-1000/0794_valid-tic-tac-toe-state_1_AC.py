@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/valid-tic-tac-toe-state/
 # 1000 ifs and elses
 class Solution:

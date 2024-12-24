@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/
 class Solution:
     def findLatestTime(self, s: str) -> str:

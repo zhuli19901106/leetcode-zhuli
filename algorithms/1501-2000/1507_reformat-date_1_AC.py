@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/reformat-date/
 # 1AC, string manipulation
 import re

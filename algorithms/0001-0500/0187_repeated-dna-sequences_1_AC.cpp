@@ -1,3 +1,4 @@
+// medium
 // ACGT = 0123, quite convenient for bit compression.
 #include <unordered_map>
 using std::unordered_map;

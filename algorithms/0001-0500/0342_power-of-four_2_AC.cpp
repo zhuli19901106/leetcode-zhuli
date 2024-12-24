@@ -1,3 +1,4 @@
+// easy
 // Using logarithm
 #include <cmath>
 using std::log10;

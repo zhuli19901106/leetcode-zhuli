@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 # 1AC
 class Solution:

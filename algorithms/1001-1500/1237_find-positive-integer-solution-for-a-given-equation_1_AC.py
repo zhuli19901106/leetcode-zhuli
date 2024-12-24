@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 """
    This is the custom function interface.

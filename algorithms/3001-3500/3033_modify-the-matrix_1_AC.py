@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/modify-the-matrix/
 class Solution:
     def modifiedMatrix(self, matrix: List[List[int]]) -> List[List[int]]:

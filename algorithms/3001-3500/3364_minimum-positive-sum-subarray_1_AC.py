@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-positive-sum-subarray/
 # BF
 class Solution:

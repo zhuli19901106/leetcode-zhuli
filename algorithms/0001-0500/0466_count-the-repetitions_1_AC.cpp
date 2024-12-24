@@ -1,3 +1,4 @@
+// hard
 // Basically brute-force, the running time is close to the limit.
 #include <string>
 using std::string;

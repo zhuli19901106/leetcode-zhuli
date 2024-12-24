@@ -1,3 +1,4 @@
+// medium
 // Ugly
 class Solution {
 public:

@@ -1,3 +1,4 @@
+// medium
 // That was pretty ugly.
 // One of the most foolish feature in C++ is the write-once reference.
 // I don't see why they forbid reference reassignent.

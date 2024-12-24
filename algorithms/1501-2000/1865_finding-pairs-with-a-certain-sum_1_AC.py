@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/finding-pairs-with-a-certain-sum/
 # with nums1 small and nums2 large, it's obvious
 class FindSumPairs:

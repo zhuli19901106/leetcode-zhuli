@@ -1,3 +1,4 @@
+// hard
 // Man, that's ugly.
 #include <cctype>
 #include <string>

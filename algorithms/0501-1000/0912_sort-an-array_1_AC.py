@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/sort-an-array/
 # quick sort by hand
 from random import randint

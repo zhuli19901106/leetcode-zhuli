@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/squirrel-simulation/
 # trick me more?
 class Solution:

@@ -1,3 +1,4 @@
+// easy
 // Naive
 class Solution {
 public:

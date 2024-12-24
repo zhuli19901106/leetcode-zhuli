@@ -1,3 +1,4 @@
+// medium
 // No need to use flooding.
 #include <unordered_set>
 using std::unordered_set;

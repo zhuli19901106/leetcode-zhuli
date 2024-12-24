@@ -1,3 +1,4 @@
+// medium
 // Not so hard, but a bit tricky.
 class Solution {
 public:

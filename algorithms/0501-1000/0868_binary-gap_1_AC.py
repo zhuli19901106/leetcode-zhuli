@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/binary-gap/
 class Solution:
     def binaryGap(self, N: int) -> int:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/
 class Solution:
     def maxAbsoluteSum(self, nums: List[int]) -> int:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/smallest-range-ii/
 # make it simple
 class Solution:

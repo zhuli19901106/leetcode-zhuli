@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/snakes-and-ladders/
 # 1AC, BFS
 class Solution:

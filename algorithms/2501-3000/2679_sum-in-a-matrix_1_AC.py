@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/sum-in-a-matrix/
 # an easy medium
 class Solution:

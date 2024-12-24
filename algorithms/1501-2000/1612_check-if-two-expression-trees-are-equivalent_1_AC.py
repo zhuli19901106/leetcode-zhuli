@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/
 # 1AC, what's the point?
 

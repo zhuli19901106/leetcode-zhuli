@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/maximum-units-on-a-truck/
 # 1AC
 class Solution:

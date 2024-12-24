@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
 # 1AC, n pointers, move all forward with bisecting
 from bisect import bisect_left

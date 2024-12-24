@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/
 # BF is trivial, how to do this in O(n)?
 # just count how many steps each 0 has to move

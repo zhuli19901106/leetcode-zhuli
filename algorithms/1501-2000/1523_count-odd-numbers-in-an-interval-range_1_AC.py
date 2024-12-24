@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 # well, can't be to caught off guard
 class Solution:

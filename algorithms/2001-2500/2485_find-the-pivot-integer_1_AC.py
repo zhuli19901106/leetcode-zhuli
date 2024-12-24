@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-the-pivot-integer/
 class Solution:
     def pivotInteger(self, n: int) -> int:

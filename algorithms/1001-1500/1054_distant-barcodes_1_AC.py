@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/distant-barcodes/
 # finally, got this one clear after multiple wrong ideas
 # duplicate of # https://leetcode.com/problems/reorganize-string/

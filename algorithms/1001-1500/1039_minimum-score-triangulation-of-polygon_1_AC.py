@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
 # O(n^3) DP with memorized search
 class Solution:

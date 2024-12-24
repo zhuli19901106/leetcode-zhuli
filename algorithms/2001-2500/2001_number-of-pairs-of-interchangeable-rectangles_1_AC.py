@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/
 # turned on copilot and it did everything with one tab
 # had to turn it off immediately

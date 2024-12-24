@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-distance-in-a-binary-tree/
 # careful with edge cases
 

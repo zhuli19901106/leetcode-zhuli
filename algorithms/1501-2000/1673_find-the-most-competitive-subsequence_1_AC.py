@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-the-most-competitive-subsequence/
 # got me stuck for over 20 minutes and finally got it
 # this is almost a hard medium

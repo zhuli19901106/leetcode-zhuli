@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/similar-rgb-color/
 # 1AC
 class Solution:

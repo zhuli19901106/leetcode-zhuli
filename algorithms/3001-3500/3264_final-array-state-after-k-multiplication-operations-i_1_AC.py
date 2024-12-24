@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/
 from heapq import heappush, heappop
 

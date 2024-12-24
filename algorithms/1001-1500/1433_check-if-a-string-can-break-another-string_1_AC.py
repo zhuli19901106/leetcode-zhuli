@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/check-if-a-string-can-break-another-string/
 # 1AC
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
 # 1AC, all the way up
 

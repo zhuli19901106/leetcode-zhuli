@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/subarray-sums-divisible-by-k/
 class Solution:
     def subarraysDivByK(self, A: List[int], K: int) -> int:

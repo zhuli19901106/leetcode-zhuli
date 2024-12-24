@@ -1,3 +1,4 @@
+// easy
 // Use a counter array with fixed size.
 #include <cstring>
 using namespace std;

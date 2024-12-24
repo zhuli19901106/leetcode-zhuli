@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/push-dominoes/
 class Solution:
     def pushDominoes(self, dominoes: str) -> str:

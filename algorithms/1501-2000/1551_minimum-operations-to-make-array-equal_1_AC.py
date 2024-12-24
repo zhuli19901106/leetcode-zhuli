@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-operations-to-make-array-equal/
 # 1AC, a bit arithmetics
 class Solution:

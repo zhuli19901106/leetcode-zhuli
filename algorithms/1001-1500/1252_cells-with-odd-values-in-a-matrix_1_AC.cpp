@@ -1,3 +1,4 @@
+// easy
 // https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
 #include <vector>
 using std::vector;

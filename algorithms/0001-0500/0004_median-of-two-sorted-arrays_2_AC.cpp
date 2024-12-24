@@ -1,3 +1,4 @@
+// hard
 // Binary search
 // If things got complicated, you're in the wrong way.
 #include <algorithm>

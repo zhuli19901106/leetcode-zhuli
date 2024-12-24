@@ -1,3 +1,4 @@
+// medium
 // So there's a way to hash put lambda function in a hash table after all.
 // That's a relief.
 #include <functional>

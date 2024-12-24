@@ -1,3 +1,4 @@
+// medium
 // 2-d binary indexed tree
 #include <algorithm>
 #include <vector>

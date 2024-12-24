@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/special-array-i/
 class Solution:
     def isArraySpecial(self, nums: List[int]) -> bool:

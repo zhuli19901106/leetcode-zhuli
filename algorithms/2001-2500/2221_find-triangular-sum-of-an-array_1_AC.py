@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-triangular-sum-of-an-array/
 # calculating C(n, k) % 10 efficiently is a problem
 # with 10 being composite, inverse doesn't always exist

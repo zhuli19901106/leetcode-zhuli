@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/time-needed-to-inform-all-employees/
 # max root-to-leaf path sum
 # Runtime: 1388 ms, faster than 90.00% of Python3 online submissions for Time Needed to Inform All Employees.

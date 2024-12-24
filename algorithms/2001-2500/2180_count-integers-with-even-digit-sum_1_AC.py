@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-integers-with-even-digit-sum/
 # brute force for easy
 class Solution:

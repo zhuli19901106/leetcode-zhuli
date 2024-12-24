@@ -1,3 +1,4 @@
+// hard
 // The idea is simple, but the coding can be tricky.
 #include <algorithm>
 #include <map>

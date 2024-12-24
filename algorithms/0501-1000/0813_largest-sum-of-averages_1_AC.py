@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/largest-sum-of-averages/
 # 1AC, very DP
 class Solution:

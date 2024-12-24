@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/hexspeak/
 import re
 

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-the-substring-with-maximum-cost/
 class Solution:
     def maximumCostSubstring(self, s: str, chars: str, vals: List[int]) -> int:

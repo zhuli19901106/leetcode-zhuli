@@ -1,3 +1,4 @@
+// easy
 // to-lower-case
 #include <cctype>
 using std::isupper;

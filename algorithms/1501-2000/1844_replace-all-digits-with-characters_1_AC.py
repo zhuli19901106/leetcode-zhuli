@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/replace-all-digits-with-characters/
 # 1AC
 class Solution:

@@ -1,3 +1,4 @@
+// medium
 // Adder design.
 class Solution {
 public:

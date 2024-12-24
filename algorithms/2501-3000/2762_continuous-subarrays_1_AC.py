@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/continuous-subarrays/
 # sliding window
 from sortedcontainers import SortedDict

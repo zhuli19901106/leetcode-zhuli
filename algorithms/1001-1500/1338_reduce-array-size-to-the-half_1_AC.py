@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.c1om/problems/reduce-array-size-to-the-half/
 class Solution:
     def minSetSize(self, arr: List[int]) -> int:

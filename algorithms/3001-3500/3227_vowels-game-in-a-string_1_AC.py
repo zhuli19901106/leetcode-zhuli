@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/vowels-game-in-a-string/
 # this is BS
 class Solution:

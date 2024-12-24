@@ -1,3 +1,4 @@
+// medium
 // O(n ^ 2) DP solution
 #include <algorithm>
 using std::max;

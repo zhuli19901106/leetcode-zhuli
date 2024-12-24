@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/matrix-cells-in-distance-order/class Solution:
 from collections import deque
 
@@ -15,7 +16,7 @@ class Solution:
         while len(q) > 0:
             x, y = q.popleft()
             if b[x][y]:
-               continue 
+                continue 
             b[x][y] = True
             res.append([x, y])
             for off in offsets:

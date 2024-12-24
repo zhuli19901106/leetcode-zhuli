@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/ugly-number-iii/
 # 1AC, binary search, tricky though
 class Solution:

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/
 class Solution:
     def longestAlternatingSubarray(self, nums: List[int], threshold: int) -> int:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/
 # a striaghtforward iteration using set will TLE
 # it's consecutive and start from 0, actually easier

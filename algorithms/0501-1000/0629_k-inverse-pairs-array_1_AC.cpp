@@ -1,3 +1,4 @@
+// hard
 // Actually k can be as large as O(n ^ 2).
 // Do some reduction before coding.
 // Try not to worry about boundary, it simplifies the problem.

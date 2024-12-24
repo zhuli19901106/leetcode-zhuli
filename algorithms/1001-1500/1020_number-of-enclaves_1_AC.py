@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-enclaves/
 # 1AC
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/
 # Runtime: 28 ms, faster than 97.68% of Python3 online submissions for Check If Word Is Valid After Substitutions.
 # Memory Usage: 12.8 MB, less than 100.00% of Python3 online submissions for Check If Word Is Valid After Substitutions.

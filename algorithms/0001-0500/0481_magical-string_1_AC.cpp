@@ -1,3 +1,4 @@
+// medium
 // Kolakoski sequence
 class Solution {
 public:

@@ -1,3 +1,4 @@
+// medium
 // BFS
 #include <unordered_set>
 #include <vector>

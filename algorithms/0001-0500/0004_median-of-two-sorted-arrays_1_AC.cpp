@@ -1,3 +1,4 @@
+// hard
 // Brute-force
 #include <algorithm>
 using std::min;

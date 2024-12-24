@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/design-a-stack-with-increment-operation/
 # Runtime: 76 ms, faster than 99.53% of Python3 online submissions for Design a Stack With Increment Operation.
 # Memory Usage: 13.5 MB, less than 100.00% of Python3 online submissions for Design a Stack With Increment Operation.

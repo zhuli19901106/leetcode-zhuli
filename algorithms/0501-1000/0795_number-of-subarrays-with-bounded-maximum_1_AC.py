@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/
 # did a bit drawing before getting the idea
 class Solution:

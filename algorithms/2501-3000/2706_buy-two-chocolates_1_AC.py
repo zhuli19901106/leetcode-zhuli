@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/buy-two-chocolates/
 class Solution:
     def buyChoco(self, prices: List[int], money: int) -> int:

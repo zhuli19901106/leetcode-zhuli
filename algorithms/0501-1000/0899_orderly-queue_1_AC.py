@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/orderly-queue/
 # a total teaser, damn
 

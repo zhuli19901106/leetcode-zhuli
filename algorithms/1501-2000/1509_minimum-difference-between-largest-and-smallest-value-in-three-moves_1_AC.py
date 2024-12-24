@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 # sort of a teaser
 class Solution:

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 # 1AC, one-liner
 

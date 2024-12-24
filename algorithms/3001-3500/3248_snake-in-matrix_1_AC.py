@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/snake-in-matrix/
 class Solution:
     def finalPositionOfSnake(self, n: int, commands: List[str]) -> int:

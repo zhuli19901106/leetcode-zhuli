@@ -1,3 +1,4 @@
+// easy
 // Manual recursion
 #include <stack>
 using std::stack;

@@ -1,3 +1,4 @@
+// medium
 // I think this is magic.
 /**
  * Definition for binary tree with next pointer.

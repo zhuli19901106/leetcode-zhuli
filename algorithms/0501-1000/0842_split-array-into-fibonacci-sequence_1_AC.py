@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 # DFS solution, careful with the data range
 class Solution:

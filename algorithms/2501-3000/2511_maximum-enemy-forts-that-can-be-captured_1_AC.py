@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/
 class Solution:
     def captureForts(self, forts: List[int]) -> int:

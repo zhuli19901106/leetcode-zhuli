@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/max-increase-to-keep-city-skyline/
 class Solution:
     def maxIncreaseKeepingSkyline(self, grid: List[List[int]]) -> int:

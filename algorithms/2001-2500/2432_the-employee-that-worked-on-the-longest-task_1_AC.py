@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/
 class Solution:
     def hardestWorker(self, n: int, logs: List[List[int]]) -> int:

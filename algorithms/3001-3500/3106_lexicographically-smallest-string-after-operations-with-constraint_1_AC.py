@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/
 # this should be greedy
 class Solution:

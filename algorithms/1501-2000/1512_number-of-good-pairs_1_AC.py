@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/number-of-good-pairs/
 # 1AC
 class Solution:

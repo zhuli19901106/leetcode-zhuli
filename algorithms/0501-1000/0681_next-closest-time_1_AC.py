@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/next-closest-time/
 # 1AC, rather verbose and trivial
 from bisect import bisect_right

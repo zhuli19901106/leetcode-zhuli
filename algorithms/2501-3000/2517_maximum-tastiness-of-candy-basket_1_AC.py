@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-tastiness-of-candy-basket/
 # binary search, a bit challenging on the idea
 # don't forget boundary checks

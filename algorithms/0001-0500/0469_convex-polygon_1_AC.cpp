@@ -1,3 +1,4 @@
+// medium
 // Cross product can be used to calculate area.
 #include <vector>
 using std::vector;

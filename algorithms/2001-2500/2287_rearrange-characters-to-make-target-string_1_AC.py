@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/rearrange-characters-to-make-target-string/
 class Solution:
     def rearrangeCharacters(self, s: str, target: str) -> int:

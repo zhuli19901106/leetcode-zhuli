@@ -1,3 +1,4 @@
+// medium
 // https://leetcode.com/problems/reach-a-number/
 // I knew it, brain teaser.
 #include <cmath>

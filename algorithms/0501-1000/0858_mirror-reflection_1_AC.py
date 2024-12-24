@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/mirror-reflection/
 # a bit hacky, needs some drawing and sketching
 class Solution:

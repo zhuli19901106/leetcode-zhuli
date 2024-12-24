@@ -1,3 +1,4 @@
+// medium
 // Careful with the pointer.
 /**
  * Definition for singly-linked list.

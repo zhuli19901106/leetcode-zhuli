@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/valid-parenthesis-string/
 # O(n^3) brute-force DP
 class Solution:

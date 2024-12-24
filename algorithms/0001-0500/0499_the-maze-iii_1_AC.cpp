@@ -1,3 +1,4 @@
+// hard
 // Sometimes it's easy to figure out a solution, but hard to write it down clean and short.
 // I hate the word "lexicographically".
 #include <algorithm>

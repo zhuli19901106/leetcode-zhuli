@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/validate-stack-sequences/
 class Solution:
     def validateStackSequences(self, pushed: List[int], popped: List[int]) -> bool:

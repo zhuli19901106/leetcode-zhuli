@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/pour-water/
 # 1AC, fill one by one, rather clumsy
 class Solution:

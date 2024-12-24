@@ -1,3 +1,4 @@
+// hard
 // I thought for about ten minutes on the optimal segregation strategy.
 // Then I found this is simply a simulation problem.
 // From tough to tedious, shame.

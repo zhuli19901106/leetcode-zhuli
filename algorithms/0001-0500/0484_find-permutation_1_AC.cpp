@@ -1,3 +1,4 @@
+// medium
 // Solution from @StefanPochmann
 // https://discuss.leetcode.com/topic/76276/1-liner-and-5-liner-visual-explanation
 // The idea is brilliant.

@@ -1,3 +1,4 @@
+# easy
 # two liner
 class Solution:
     def isHappy(self, n: int) -> bool:

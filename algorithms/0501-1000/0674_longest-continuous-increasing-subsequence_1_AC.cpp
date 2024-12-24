@@ -1,3 +1,4 @@
+// easy
 // I'm getting bored of this.
 #include <algorithm>
 #include <vector>

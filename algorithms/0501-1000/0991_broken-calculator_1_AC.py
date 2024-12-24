@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/broken-calculator/
 class Solution:
     def brokenCalc(self, X: int, Y: int) -> int:

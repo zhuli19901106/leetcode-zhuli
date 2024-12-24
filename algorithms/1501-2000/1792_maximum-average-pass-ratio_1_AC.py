@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-average-pass-ratio/
 # this should be greedy
 from heapq import heappush, heappop

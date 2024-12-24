@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 from heapq import heappush, heappop
 

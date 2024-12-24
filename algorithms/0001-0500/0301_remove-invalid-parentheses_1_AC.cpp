@@ -1,3 +1,4 @@
+// hard
 // My version was over 150 lines long and too buggy to be put right, I gave up.
 // https://discuss.leetcode.com/topic/34875/easy-short-concise-and-fast-java-dfs-3-ms-solution/2
 // This is an exact rewrite of the original java version from @dietpepsi.

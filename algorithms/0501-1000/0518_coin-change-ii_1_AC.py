@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/coin-change-2/
 # knapsack
 class Solution:

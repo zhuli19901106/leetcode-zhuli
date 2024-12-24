@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/
 # bruteforce search, slow but acceptable
 # can be a bit faster using bit ops

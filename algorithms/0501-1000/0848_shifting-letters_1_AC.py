@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/shifting-letters/
 class Solution:
     def shiftingLetters(self, S: str, shifts: List[int]) -> str:

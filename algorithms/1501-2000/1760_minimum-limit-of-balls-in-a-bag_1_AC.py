@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
 # it's not about greedy with a max heap
 # binary search

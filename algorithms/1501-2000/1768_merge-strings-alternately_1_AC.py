@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/merge-strings-alternately/
 # 1AC
 class Solution:

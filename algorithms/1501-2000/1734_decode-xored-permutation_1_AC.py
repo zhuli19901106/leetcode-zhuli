@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/decode-xored-permutation/
 # n is odd
 # more of a gimmick than analytical thinking

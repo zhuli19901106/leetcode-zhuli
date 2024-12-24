@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/consecutive-characters/
 # 1AC
 class Solution:

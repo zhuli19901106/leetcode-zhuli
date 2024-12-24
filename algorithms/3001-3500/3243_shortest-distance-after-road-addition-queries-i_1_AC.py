@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/
 # just do BFS for each query
 from collections import deque

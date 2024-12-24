@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/kth-distinct-string-in-an-array/
 # 1AC
 from collections import defaultdict

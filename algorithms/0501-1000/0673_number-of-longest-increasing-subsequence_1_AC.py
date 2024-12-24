@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-longest-increasing-subsequence/
 # simple idea, heavy work
 from bisect import bisect_left

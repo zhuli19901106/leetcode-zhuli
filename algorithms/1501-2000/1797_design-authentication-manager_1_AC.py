@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/design-authentication-manager/
 # it seems rather slow, isn't it
 from sortedcontainers import SortedDict

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/simple-bank-system/
 class Bank:
 

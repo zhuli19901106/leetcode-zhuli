@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/reformat-phone-number/
 # waste of time and tricky
 import re

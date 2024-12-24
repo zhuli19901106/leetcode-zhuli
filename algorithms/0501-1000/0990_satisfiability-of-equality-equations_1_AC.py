@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/satisfiability-of-equality-equations/
 # 1AC, disjoint set
 class Solution:

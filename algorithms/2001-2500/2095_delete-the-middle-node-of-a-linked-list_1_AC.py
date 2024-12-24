@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
 # Definition for singly-linked list.
 # class ListNode:

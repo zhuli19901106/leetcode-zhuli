@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/
 # simple idea, but takes a while to implement
 # Definition for a binary tree node.

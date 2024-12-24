@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/longest-nice-substring/
 # 1AC, can't think of any efficient solution except brute force
 # simulation with bit manipulation

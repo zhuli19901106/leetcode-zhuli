@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-number-of-coins-to-be-added/
 # this is really tricky
 # I take a look at my own code in Patching Array and say WTF

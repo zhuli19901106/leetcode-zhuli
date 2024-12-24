@@ -1,3 +1,4 @@
+// medium
 // Leetcode has just added integer overflow detection, so watch out.
 #include <cstdint>
 

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/number-of-unequal-triplets-in-array/
 class Solution:
     def unequalTriplets(self, nums: List[int]) -> int:

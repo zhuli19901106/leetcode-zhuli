@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/letter-tile-possibilities/
 # Too much trouble.
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/loud-and-rich/
 # memorized search, but quite the work to write it down
 class Solution:

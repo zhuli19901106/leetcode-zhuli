@@ -1,3 +1,4 @@
+// medium
 #include <cstdio>
 #include <stack>
 #include <string>

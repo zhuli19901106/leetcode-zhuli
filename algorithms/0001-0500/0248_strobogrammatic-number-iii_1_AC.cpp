@@ -1,3 +1,4 @@
+// hard
 // I hate all kinds of counting problems.
 // Especially this one.
 #include <string>

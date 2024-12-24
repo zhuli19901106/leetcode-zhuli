@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/separate-black-and-white-balls/
 # only move 0s and ignore 1s (vice versa)
 class Solution:

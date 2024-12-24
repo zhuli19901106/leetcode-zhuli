@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/friends-of-appropriate-ages/
 # sort and binary search for bounds, corner cases
 from bisect import bisect_right

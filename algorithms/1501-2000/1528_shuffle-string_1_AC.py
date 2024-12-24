@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/shuffle-string/
 # 1AC
 class Solution:

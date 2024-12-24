@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/max-stack/
 # 1AC, given the usual max stack, I can't come up with an all-O(1) solution, even in an ammortized manner.
 # might as well keep it simple and make do

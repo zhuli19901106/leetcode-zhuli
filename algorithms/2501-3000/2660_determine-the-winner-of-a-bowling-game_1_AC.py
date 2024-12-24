@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/
 class Solution:
     def isWinner(self, player1: List[int], player2: List[int]) -> int:

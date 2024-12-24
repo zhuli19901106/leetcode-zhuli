@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/
 # simple idea, like lexicographically sorted, but not exactly
 class Solution:

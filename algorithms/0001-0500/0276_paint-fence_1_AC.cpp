@@ -1,3 +1,4 @@
+// medium
 // Make sure you have a finite state machine in your head.
 class Solution {
 public:

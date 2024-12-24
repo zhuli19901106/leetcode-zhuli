@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/parallel-courses-iii/
 # still topological, but with a max time condition
 from collections import deque

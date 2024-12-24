@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/new-21-game/
 # https://leetcode.com/problems/new-21-game/discuss/528430/C%2B%2B-solution-easy-to-understand
 # markov chain, think both ways, they may be different in terms of time bound

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/last-stone-weight-ii/
 # split by two and make the diff as small as possible
 class Solution:

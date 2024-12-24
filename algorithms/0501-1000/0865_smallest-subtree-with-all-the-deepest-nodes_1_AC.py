@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
 # post order traversal
 # Definition for a binary tree node.

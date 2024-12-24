@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/path-sum-iv/
 # 1AC, what's the point?
 class Solution:

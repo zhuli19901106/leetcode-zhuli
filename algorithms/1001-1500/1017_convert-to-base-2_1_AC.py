@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/convert-to-base-2/
 # a bit tricky
 class Solution:

@@ -1,3 +1,4 @@
+// easy
 #include <cctype>
 #include <string>
 using std::isdigit;

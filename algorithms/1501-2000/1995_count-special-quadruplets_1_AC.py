@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-special-quadruplets/
 # 1AC, not quite efficient
 from collections import defaultdict

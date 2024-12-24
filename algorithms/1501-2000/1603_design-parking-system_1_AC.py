@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/design-parking-system/
 # 1AC
 class ParkingSystem:

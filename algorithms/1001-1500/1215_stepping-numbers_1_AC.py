@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/stepping-numbers/
 # 1AC, precompute
 from bisect import bisect_left, bisect_right

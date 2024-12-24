@@ -1,3 +1,4 @@
+// hard
 // 1AC, think about iterator and reverse iterator.
 // The difficult part is to locate the target position in O(log(n)) time.
 // This is what we call OOP.

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/check-completeness-of-a-binary-tree/
 # bug free, please, not so sloppy
 # Definition for a binary tree node.

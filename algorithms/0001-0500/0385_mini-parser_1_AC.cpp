@@ -1,3 +1,4 @@
+// medium
 // Don't you think that such problems are a bit too complicated for a technical interview?
 // Immutable reference is one hell of a foolish feature in C++.
 /**

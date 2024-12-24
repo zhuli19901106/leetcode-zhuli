@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/water-bottles/
 # 1AC, simulation
 class Solution:

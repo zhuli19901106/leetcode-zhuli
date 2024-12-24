@@ -1,3 +1,4 @@
+// medium
 #include <cstdio>
 #include <string>
 using std::sprintf;

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/shortest-path-with-alternating-colors/
 # 1AC, alternating BFS
 from collections import deque

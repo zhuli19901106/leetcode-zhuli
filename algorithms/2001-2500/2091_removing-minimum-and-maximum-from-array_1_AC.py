@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/removing-minimum-and-maximum-from-array/
 class Solution:
     def minimumDeletions(self, nums: List[int]) -> int:

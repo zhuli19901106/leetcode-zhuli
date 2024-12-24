@@ -1,3 +1,4 @@
+// medium
 // Naive solution
 #include <algorithm>
 #include <utility>

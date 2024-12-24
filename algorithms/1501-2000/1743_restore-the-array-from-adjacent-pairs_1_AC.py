@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
 # 1AC, BFS
 from collections import defaultdict, deque

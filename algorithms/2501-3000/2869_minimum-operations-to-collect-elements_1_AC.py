@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-operations-to-collect-elements/
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:

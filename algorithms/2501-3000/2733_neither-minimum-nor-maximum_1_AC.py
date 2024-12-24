@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/neither-minimum-nor-maximum/
 class Solution:
     def findNonMinOrMax(self, nums: List[int]) -> int:

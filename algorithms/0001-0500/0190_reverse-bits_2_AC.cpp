@@ -1,3 +1,4 @@
+// easy
 // 4 bits at a time
 #include <cstdint>
 

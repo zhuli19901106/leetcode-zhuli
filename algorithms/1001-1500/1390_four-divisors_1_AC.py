@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/four-divisors/
 # product of two different primes, as well as perfect cube of a prime
 # Runtime: 408 ms, faster than 100.00% of Python3 online submissions for Four Divisors.

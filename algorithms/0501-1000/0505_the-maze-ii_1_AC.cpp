@@ -1,3 +1,4 @@
+// medium
 // Think about Dijkstra's Algorithm.
 #include <climits>
 #include <queue>

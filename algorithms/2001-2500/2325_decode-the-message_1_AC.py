@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/decode-the-message/
 class Solution:
     def decodeMessage(self, key: str, message: str) -> str:

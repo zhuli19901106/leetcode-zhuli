@@ -1,3 +1,4 @@
+// medium
 // Brute-force
 /**
  * Definition for a binary tree node.

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/corporate-flight-bookings/
 # better yet, use postfix sum to accumulate the changes
 class Solution:

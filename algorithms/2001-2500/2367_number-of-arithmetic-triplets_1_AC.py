@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/number-of-arithmetic-triplets/
 class Solution:
     def arithmeticTriplets(self, nums: List[int], diff: int) -> int:

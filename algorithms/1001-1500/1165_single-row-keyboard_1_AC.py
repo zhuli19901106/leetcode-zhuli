@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/single-row-keyboard/
 # 1AC
 class Solution:

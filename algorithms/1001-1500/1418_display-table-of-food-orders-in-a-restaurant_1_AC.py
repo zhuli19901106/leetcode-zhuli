@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/
 # 1AC, totally tiresome and pointless
 from collections import defaultdict

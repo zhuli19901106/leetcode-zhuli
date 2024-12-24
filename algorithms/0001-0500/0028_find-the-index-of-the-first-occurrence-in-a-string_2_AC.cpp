@@ -1,3 +1,4 @@
+// easy
 // Rabin-Karp, simple rolling hashing.
 // Strength is apparent, weakness is even more.
 // Strong against real-world text matchng, weak against "aaaaaaaaaaaa". 

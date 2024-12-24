@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/
 # 1AC, count it
 

@@ -1,3 +1,4 @@
+// hard
 // Brute-force DP
 // I think there must be some more graceful solution.
 #include <algorithm>

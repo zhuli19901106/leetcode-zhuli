@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/check-if-grid-satisfies-conditions/
 class Solution:
     def satisfiesConditions(self, grid: List[List[int]]) -> bool:

@@ -1,3 +1,4 @@
+// medium
 // Why DP when it's time to be greedy?
 #include <algorithm>
 using std::sort;

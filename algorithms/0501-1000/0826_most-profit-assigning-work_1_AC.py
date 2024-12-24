@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/most-profit-assigning-work/
 # sort and scan
 class Solution:

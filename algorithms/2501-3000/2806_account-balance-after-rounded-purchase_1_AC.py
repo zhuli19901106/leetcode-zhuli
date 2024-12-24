@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/account-balance-after-rounded-purchase/
 class Solution:
     def accountBalanceAfterPurchase(self, purchaseAmount: int) -> int:

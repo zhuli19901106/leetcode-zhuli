@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/
 # this is pure math
 from math import ceil, sqrt

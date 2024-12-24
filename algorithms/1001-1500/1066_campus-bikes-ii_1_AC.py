@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/campus-bikes-ii/
 # https://leetcode.com/problems/campus-bikes-ii/discuss/534671/Python-Self-illustrative-DFS-with-memorization
 # got stuck on this for a long time, strange...

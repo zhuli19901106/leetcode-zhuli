@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/
 # don't make things more complicated than they have to be
 # it's greedy

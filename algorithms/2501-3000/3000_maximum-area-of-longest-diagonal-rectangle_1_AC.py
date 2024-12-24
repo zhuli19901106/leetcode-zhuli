@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/
 class Solution:
     def areaOfMaxDiagonal(self, dimensions: List[List[int]]) -> int:

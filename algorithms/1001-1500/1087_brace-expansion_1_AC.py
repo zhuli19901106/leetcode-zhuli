@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/brace-expansion/
 # 1AC, DFS
 class Solution:

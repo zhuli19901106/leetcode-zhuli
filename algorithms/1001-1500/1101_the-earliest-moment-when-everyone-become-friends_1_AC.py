@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/
 # 1AC, disjoint set
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-the-number-of-good-nodes/
 class Solution:
     def countGoodNodes(self, edges: List[List[int]]) -> int:

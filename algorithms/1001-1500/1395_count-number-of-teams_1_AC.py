@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-number-of-teams/
 # 1AC, intuitive O(3 * n^2) DP
 class Solution:

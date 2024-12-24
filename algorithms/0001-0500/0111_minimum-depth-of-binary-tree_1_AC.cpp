@@ -1,3 +1,4 @@
+// easy
 // Don't take nothing for granted, even hashing or caching.
 #include <algorithm>
 #include <climits>

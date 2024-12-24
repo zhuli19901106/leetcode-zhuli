@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/
 class Solution:
     def colorTheArray(self, n: int, queries: List[List[int]]) -> List[int]:

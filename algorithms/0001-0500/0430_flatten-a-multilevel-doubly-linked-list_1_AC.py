@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
 # careful, don't be sloppy
 """

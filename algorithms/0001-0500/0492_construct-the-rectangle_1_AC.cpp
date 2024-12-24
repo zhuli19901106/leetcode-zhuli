@@ -1,3 +1,4 @@
+// easy
 #include <cmath>
 using std::sqrt;
 

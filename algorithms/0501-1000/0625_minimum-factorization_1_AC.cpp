@@ -1,3 +1,4 @@
+// medium
 // Ugly...
 #include <algorithm>
 #include <climits>

@@ -1,3 +1,4 @@
+// medium
 #include <climits>
 #include <stack>
 using std::stack;

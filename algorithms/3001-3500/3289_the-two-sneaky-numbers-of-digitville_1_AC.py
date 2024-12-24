@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
 class Solution:
     def getSneakyNumbers(self, nums: List[int]) -> List[int]:

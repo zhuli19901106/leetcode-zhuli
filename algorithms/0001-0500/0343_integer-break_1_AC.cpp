@@ -1,3 +1,4 @@
+// medium
 // Careful with the formulae
 #include <alogorithm>
 #include <vector>

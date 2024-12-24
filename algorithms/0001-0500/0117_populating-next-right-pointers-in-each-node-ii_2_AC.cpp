@@ -1,3 +1,4 @@
+// medium
 // The next pointer itself is a means to level-order traversal.
 /**
  * Definition for binary tree with next pointer.

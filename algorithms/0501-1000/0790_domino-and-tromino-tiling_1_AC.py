@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/domino-and-tromino-tiling/
 # linear DP solution
 class Solution:

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/
 class Solution:
     def minNumberOfHours(self, initialEnergy: int, initialExperience: int, energy: List[int], experience: List[int]) -> int:

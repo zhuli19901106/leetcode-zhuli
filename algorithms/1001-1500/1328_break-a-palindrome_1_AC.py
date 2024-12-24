@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/break-a-palindrome/
 # what?
 class Solution:

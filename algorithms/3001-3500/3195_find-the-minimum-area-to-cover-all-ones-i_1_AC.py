@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/
 class Solution:
     def minimumArea(self, grid: List[List[int]]) -> int:

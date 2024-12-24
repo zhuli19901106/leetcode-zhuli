@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/
 # 1AC, actually easier than submatrix sum
 class Solution:

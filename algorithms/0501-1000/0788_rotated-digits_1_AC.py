@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/rotated-digits/
 import re
 

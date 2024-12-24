@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-the-middle-index-in-array/
 # 1AC
 

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/split-strings-by-separator/
 class Solution:
     def splitWordsBySeparator(self, words: List[str], separator: str) -> List[str]:

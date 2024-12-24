@@ -1,3 +1,4 @@
+// easy
 // https://leetcode.com/problems/design-hashmap/
 #include <cmath>
 using std::abs;

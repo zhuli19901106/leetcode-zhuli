@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/
 # BFS
 from heapq import heappush, heappop

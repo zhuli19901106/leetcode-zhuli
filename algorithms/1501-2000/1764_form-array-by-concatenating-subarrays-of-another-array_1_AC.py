@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/
 # what? subsequence of subarrays?
 # bruteforce match

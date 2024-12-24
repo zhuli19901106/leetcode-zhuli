@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/type-of-triangle/
 class Solution:
     def triangleType(self, nums: List[int]) -> str:

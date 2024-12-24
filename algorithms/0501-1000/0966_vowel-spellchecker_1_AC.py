@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/vowel-spellchecker/
 # 1AC
 # Runtime: 180 ms, faster than 91.44% of Python3 online submissions for Vowel Spellchecker.

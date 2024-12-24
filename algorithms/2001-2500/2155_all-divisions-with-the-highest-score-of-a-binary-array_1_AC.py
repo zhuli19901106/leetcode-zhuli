@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/
 class Solution:
     def maxScoreIndices(self, nums: List[int]) -> List[int]:

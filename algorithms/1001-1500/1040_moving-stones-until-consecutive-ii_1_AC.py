@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/moving-stones-until-consecutive-ii/
 # the idea is a bit tricky I think
 class Solution:

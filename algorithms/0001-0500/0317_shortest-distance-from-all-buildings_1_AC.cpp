@@ -1,3 +1,4 @@
+// hard
 // If you have to search something, pick your target and direction carefully.
 #include <climits>
 #include <queue>

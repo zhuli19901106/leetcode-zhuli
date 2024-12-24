@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
 # deal with the most urgent threat
 class Solution:

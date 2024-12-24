@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/
 class Solution:
     def maxDepthAfterSplit(self, seq: str) -> List[int]:

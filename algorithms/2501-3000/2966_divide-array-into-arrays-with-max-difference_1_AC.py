@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/
 class Solution:
     def divideArray(self, nums: List[int], k: int) -> List[List[int]]:

@@ -1,3 +1,4 @@
+// medium
 // I think the problem is poorly specified.
 // If it's supposed to be an OO or system design problem, much more have to be said.
 #include <cstdint>

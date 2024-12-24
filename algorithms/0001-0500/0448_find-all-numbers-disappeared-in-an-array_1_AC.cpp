@@ -1,3 +1,4 @@
+// easy
 // Plain and simple
 class Solution {
 public:

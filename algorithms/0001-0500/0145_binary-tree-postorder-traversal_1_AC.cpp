@@ -1,3 +1,4 @@
+// easy
 // Trivial
 /**
  * Definition for a binary tree node.

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
 # cut a subtree from it
 # Definition for a binary tree node.

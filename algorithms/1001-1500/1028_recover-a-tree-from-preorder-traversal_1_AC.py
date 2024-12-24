@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
 # it's actually eaiser to use a stack than to recurse
 # Definition for a binary tree node.

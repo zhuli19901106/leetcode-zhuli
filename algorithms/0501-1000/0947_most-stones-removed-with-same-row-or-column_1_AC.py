@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
 # 1AC, simple idea and lots of manual labor
 class Solution:

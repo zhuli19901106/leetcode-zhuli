@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/row-with-maximum-ones/
 class Solution:
     def rowAndMaximumOnes(self, mat: List[List[int]]) -> List[int]:

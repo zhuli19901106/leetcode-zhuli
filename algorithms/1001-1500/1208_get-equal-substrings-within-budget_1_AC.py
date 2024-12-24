@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/get-equal-substrings-within-budget/
 # 1AC, perfect, sliding window
 class Solution:

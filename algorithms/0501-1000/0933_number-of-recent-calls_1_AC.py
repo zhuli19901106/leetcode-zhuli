@@ -1,3 +1,4 @@
+# easy
 # number-of-recent-calls
 from collections import deque
 

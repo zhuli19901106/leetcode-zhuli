@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/
 # due to the tiny scale, it doesn't matter how you do it
 from math import log

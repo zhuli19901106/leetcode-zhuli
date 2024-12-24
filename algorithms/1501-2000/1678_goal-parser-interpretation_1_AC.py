@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/goal-parser-interpretation/
 # 1AC
 import re

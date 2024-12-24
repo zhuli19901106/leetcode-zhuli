@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/
 class Solution:
     def minimumPushes(self, word: str) -> int:

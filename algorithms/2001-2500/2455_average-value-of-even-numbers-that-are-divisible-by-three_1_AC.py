@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/
 class Solution:
     def averageValue(self, nums: List[int]) -> int:

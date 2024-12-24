@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/
 # 1AC, binary search
 # """

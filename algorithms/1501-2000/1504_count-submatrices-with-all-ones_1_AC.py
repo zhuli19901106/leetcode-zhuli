@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-submatrices-with-all-ones/
 # 1AC, might feel a bit dizzy with indices
 class Solution:

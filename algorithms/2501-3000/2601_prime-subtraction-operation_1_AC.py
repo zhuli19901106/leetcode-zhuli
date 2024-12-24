@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/prime-subtraction-operation/
 # be greedy
 from bisect import bisect_left

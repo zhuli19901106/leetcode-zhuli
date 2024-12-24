@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/design-graph-with-shortest-path-calculator/
 # why are there so many graph questions?
 # no repeated edges

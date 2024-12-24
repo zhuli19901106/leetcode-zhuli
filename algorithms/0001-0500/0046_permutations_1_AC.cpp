@@ -1,3 +1,4 @@
+// medium
 #include <algorithm>
 using std::next_permutation;
 using std::sort;

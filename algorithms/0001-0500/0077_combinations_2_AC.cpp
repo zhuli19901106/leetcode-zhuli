@@ -1,3 +1,4 @@
+// medium
 // Next combination
 class Solution {
 public:

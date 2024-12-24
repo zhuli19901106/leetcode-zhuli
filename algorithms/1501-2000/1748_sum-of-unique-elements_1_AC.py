@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/sum-of-unique-elements/
 # 1AC
 class Solution:

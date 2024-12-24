@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/rearrange-array-elements-by-sign/
 # don't wanna bother with O(1) space
 class Solution:

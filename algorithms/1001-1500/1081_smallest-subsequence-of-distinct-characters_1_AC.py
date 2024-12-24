@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
 # it used to be hard, now it's medium? how time inflates.
 class Solution:

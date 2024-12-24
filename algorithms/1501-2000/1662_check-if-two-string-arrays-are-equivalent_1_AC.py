@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 # 1AC
 class Solution:

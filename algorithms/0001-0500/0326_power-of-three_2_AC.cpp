@@ -1,3 +1,4 @@
+// easy
 // Sloppy solution by log() and exp().
 // Using natural logarithm will result in WA.
 // Using FP arithmetics on integers is bad practice.

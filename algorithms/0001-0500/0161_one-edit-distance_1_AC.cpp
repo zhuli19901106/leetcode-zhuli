@@ -1,3 +1,4 @@
+// medium
 #include <algorithm>
 #include <string>
 using std::string;

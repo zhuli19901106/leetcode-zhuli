@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-the-number-of-good-subarrays/
 # why do people like subarrays so much?
 class Solution:

@@ -1,3 +1,4 @@
+// easy
 // You can't come up with a good solution for a bad problem.
 // There is no pure O(1) solution if you use queues to implement stacks.
 // I don't wanna waste time on this problem, so I copied my old code.

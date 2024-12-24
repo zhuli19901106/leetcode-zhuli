@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/solving-questions-with-brainpower/
 # the local + global DP problem
 class Solution:

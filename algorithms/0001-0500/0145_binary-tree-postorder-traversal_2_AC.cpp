@@ -1,3 +1,4 @@
+// easy
 // Manual recursion
 /**
  * Definition for a binary tree node.

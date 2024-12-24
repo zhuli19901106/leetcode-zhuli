@@ -1,3 +1,4 @@
+// medium
 // A wonderful solution from user @tangx668
 // I got stuck on this problem. Just couldn't get the inspiration.
 #include <unordered_set>

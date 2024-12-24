@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/missing-element-in-sorted-array/
 # 1AC, sorted, so a binary search is mandatory
 class Solution:

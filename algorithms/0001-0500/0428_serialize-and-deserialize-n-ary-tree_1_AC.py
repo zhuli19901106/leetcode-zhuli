@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/
 # 1AC, not difficult, but error-prone
 """

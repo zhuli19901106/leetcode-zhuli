@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 # careful, it's the median, not mean
 # without this prior math knowledge, it can be much harder to solve

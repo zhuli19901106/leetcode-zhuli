@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/candy-crush/
 # 1AC, faithful simulation
 class Solution:

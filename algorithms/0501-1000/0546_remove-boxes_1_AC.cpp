@@ -1,3 +1,4 @@
+// hard
 // A clever DP solution.
 // https://discuss.leetcode.com/topic/84687/java-top-down-and-bottom-up-dp-solutions
 #include <algorithm>

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-items-matching-a-rule/
 # 1AC
 class Solution:

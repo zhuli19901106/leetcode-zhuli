@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/prime-in-diagonal/
 class Solution:
     def diagonalPrime(self, nums: List[List[int]]) -> int:

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
 # 1AC, sort and pick from largest
 class Solution:

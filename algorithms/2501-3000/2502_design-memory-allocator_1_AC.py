@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/design-memory-allocator/
 # actual memory allocation algorithms are extremely non-trivial, or super hard
 # I can't believe I spent over 1 hour coding this and got it one-shot

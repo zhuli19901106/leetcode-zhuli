@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-orders-in-the-backlog/
 # nice question, this is actually the hello world of stock trading
 # heaps, of course

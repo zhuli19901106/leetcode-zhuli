@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-all-groups-of-farmland/
 class Solution:
     def findFarmland(self, land: List[List[int]]) -> List[List[int]]:

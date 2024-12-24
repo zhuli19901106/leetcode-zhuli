@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/design-underground-system/
 # 1AC, without exception
 class UndergroundSystem:

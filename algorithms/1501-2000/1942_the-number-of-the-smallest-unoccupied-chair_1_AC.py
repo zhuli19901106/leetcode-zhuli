@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/
 # use a sorted set
 # don't bother recording intervals, too much trouble

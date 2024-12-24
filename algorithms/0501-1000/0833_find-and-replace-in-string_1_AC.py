@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-and-replace-in-string/
 # add-hoc, per se
 class Solution:

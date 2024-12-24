@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/
 # simple DP
 class Solution:

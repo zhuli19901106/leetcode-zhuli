@@ -1,3 +1,4 @@
+// medium
 // Sprague-Grundy Theorem, a must-know in game theory.
 // Although brute-force searching can pass the test cases, 
 // we should learn some math after all.

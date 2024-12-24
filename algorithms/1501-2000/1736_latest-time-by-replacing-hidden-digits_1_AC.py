@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/
 # pointless
 class Solution:

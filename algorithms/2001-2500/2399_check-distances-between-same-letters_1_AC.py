@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/check-distances-between-same-letters/
 class Solution:
     def checkDistances(self, s: str, distance: List[int]) -> bool:

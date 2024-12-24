@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 # 1AC, prefix and postfix
 

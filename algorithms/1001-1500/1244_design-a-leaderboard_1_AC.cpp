@@ -1,3 +1,4 @@
+// medium
 // https://leetcode.com/problems/design-a-leaderboard/
 // I need a tree map
 #include <map>

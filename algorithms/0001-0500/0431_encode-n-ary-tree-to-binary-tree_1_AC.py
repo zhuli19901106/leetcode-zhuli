@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/
 # 1AC, not very fast, but intuitive
 # n-ary version

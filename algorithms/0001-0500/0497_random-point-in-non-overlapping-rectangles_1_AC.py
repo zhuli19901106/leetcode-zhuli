@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
 # two fold random
 from bisect import bisect_left

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/shortest-distance-to-target-color/
 # 1AC, precompute from both sides
 class Solution:

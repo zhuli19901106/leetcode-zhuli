@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/
 # Definition for a binary tree node.
 # class TreeNode:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/4-keys-keyboard/
 # 1AC, O(n) DP solution, I got the wrong idea on first attempt
 class Solution:

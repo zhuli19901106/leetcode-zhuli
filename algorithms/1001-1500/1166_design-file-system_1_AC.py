@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/design-file-system/
 # 1AC
 class FileSystem:

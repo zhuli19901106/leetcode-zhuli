@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3299/
 # 1AC
 class Solution:

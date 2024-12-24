@@ -1,3 +1,4 @@
+// medium
 // The code is a bit messy.
 #include <algorithm>
 #include <cmath>

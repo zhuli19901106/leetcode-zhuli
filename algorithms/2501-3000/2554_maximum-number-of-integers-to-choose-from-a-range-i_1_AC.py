@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/
 # how is this "medium"?
 class Solution:

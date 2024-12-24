@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/
 # 1AC, the O(m) solution is too brainy, I give up
 

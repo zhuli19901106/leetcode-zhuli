@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-largest-group/
 # 1AC
 class Solution:

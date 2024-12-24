@@ -1,3 +1,4 @@
+// medium
 // Is it really necessary to show off the Morris Traversal in interview?
 // I don't like the looks of this.
 // The idea is the same, except that this time we play smart.

@@ -1,3 +1,4 @@
+// hard
 // When searching slows down, it's time to do some pruning.
 // Try DP with this problem.
 // When the string is long enough, there can be collisions.

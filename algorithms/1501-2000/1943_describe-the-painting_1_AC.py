@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/describe-the-painting/
 # if the max value isn't too large, it's acceptable
 # a simple suffix sum with sets will MLE

@@ -1,3 +1,4 @@
+// easy
 // KMP algorithm
 #include <vector>
 using std::vector;

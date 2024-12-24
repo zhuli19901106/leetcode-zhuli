@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/sum-of-subarray-ranges/
 class Solution:
     def subArrayRanges(self, nums: List[int]) -> int:

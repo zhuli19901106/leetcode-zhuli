@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/
 # O(n * m) DP solution 
 class Solution:

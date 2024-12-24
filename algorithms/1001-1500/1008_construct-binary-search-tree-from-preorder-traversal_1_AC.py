@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 # Definition for a binary tree node.
 # class TreeNode:

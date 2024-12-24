@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
 # 1AC, count consecutive 0s and 1s
 class Solution:

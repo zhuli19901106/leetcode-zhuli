@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/finding-the-users-active-minutes/
 # 1AC, for a simple question, the description is unnecessarily convoluted
 class Solution:

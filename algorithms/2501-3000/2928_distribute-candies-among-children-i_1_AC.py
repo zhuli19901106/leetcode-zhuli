@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/distribute-candies-among-children-i/
 class Solution:
     def distributeCandies(self, n: int, limit: int) -> int:

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/slowest-key/
 # the duration shouldn't be summed up
 class Solution:

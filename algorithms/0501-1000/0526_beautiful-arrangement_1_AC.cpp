@@ -1,3 +1,4 @@
+// medium
 // Brute-force DFS
 // There can't be so many of those "beautiful arrangements".
 // So just do it.

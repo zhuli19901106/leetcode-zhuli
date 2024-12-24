@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/time-based-key-value-store/
 # 1AC, since the timestamps are increasing, that's one less problem to worry about
 from bisect import bisect_right

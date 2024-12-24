@@ -1,3 +1,4 @@
+// medium
 // O(n) space, straightforward solution.
 /**
  * Definition for singly-linked list with a random pointer.

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/
 from collections import deque
 

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/max-pair-sum-in-an-array/
 class Solution:
     def maxSum(self, nums: List[int]) -> int:

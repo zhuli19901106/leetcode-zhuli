@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/sum-of-digits-in-base-k/
 # 1AC
 class Solution:

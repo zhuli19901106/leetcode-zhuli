@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/longest-arithmetic-sequence/
 # O(n^2) DP solution
 # Runtime: 780 ms, faster than 93.17% of Python3 online submissions for Longest Arithmetic Sequence.

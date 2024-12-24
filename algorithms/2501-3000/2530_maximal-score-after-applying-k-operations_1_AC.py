@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximal-score-after-applying-k-operations/
 # heap it is
 from heapq import heappush, heappop

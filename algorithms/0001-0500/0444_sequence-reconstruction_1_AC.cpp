@@ -1,3 +1,4 @@
+// medium
 // Topological sort
 #include <algorithm>
 #include <unordered_map>

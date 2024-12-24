@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/add-bold-tag-in-string/
 # 1AC, trie solution, intuitive and tolerable
 class Trie:

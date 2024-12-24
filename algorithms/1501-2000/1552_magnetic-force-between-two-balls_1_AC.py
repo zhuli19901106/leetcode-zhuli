@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/magnetic-force-between-two-balls/
 # first reaction was DP, but not viable due to scale and complexity
 

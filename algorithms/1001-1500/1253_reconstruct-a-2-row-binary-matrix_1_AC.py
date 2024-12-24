@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/
 class Solution:
     def reconstructMatrix(self, upper: int, lower: int, colsum: List[int]) -> List[List[int]]:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-a-peak-element-ii/
 # this is really weird binary search
 # after 2h of trying, I give up

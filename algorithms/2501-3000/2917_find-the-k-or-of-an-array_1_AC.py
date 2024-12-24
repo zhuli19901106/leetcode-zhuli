@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-the-k-or-of-an-array/
 class Solution:
     def findKOr(self, nums: List[int], k: int) -> int:

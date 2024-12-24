@@ -1,3 +1,4 @@
+// hard
 // I don't wanna lay my eyes on this code for one more second.
 // Too complicated, too sloppy, although the idea is simple.
 // std::list is a doubly linked list, so why bother writing your own?

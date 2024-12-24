@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/
 # count and calculate
 class Solution:

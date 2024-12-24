@@ -1,3 +1,4 @@
+// medium
 // Can this problem be solved under O(n^2)?
 #include <algorithm>
 #include <vector>

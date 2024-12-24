@@ -1,3 +1,4 @@
+// easy
 // Fibonacci
 class Solution {
 public:

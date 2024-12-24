@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-cost-for-cutting-cake-i/
 # bruteforce DP, extremely error-prone
 # this is a terrible interview question, almost aggressive and hostile

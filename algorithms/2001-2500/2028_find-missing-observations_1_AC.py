@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-missing-observations/
 # no trick
 class Solution:

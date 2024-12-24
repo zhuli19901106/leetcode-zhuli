@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-the-winner-of-an-aay-game/
 # simulation is acceptable and you don't need a linked list
 class Solution:

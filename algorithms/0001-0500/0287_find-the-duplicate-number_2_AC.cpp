@@ -1,3 +1,4 @@
+// medium
 // https://discuss.leetcode.com/topic/25913/my-easy-understood-solution-with-o-n-time-and-o-1-space-without-modifying-the-array-with-clear-explanation
 // Linked list with a cycle.
 // This solution is most brilliant.

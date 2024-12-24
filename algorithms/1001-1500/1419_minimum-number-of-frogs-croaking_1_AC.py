@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-number-of-frogs-croaking/
 class Solution:
     def minNumberOfFrogs(self, croakOfFrogs: str) -> int:

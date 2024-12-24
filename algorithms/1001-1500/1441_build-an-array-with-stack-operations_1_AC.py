@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/build-an-array-with-stack-operations/
 # 1AC, pointless
 class Solution:

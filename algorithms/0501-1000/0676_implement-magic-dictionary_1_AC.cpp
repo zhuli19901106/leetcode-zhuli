@@ -1,3 +1,4 @@
+// medium
 // The lookup can be accelerated by string hashing.
 #include <string>
 #include <unordered_set>

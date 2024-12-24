@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 # first intuition is binary search
 class Solution:

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/design-neighbor-sum-service/
 class NeighborSum:
 

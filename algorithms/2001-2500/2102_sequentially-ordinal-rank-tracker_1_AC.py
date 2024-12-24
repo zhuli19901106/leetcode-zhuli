@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/sequentially-ordinal-rank-tracker/
 from bisect import bisect_right
 

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
 # 1AC, templating
 class Solution:

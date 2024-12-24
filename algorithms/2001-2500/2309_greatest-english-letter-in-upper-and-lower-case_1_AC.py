@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
 from collections import defaultdict
 

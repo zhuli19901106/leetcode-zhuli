@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/partition-array-into-disjoint-intervals/
 # left max, right min
 class Solution:

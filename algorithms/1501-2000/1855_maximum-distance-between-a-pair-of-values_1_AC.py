@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
 class Solution:
     def maxDistance(self, nums1: List[int], nums2: List[int]) -> int:

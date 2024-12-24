@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/532/week-5/3315/
 # Definition for a binary tree node.
 # class TreeNode:

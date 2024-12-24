@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/sum-of-all-subset-xor-totals/
 # 1AC, brute-force, just iterate
 from collections import defaultdict

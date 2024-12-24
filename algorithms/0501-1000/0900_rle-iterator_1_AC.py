@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/rle-iterator/
 # Runtime: 24 ms, faster than 100.00% of Python3 online submissions for RLE Iterator.
 # Memory Usage: 13.2 MB, less than 100.00% of Python3 online submissions for RLE Iterator.

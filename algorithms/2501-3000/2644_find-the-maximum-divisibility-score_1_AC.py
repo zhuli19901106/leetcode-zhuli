@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-the-maximum-divisibility-score/
 class Solution:
     def maxDivScore(self, nums: List[int], divisors: List[int]) -> int:

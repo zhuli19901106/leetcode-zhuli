@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 # I suppose this is almost medium?
 from bisect import bisect_left

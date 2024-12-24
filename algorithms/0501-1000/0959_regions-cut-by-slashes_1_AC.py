@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/regions-cut-by-slashes/
 # very labor intensive
 from collections import deque

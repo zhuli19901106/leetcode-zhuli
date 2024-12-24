@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
 # stop the process as early as possible
 class Solution:

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/
 class Solution:
     def maxOperations(self, nums: List[int]) -> int:

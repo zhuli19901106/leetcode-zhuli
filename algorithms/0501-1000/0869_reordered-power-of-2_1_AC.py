@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/reordered-power-of-2/
 class Solution:
     def __init__(self):

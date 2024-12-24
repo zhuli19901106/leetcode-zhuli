@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-genetic-mutation/
 # simple BFS, not quite efficient, but very intuitive
 from collections import deque

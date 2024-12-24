@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/smallest-number-in-infinite-set/
 # clean
 from heapq import heappush, heappop

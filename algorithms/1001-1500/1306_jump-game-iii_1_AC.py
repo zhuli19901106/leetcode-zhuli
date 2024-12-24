@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/jump-game-iii/
 from collections import deque
 

@@ -1,3 +1,4 @@
+// hard
 // Longest palindromic prefix
 // Hashing is almighty.
 #include <string>

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/delete-tree-nodes/
 # 1AC, simple and intuitive
 class Solution:

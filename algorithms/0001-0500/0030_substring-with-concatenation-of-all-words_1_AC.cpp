@@ -1,3 +1,4 @@
+// hard
 // Sliding window + string hashing
 #include <cstdint>
 #include <string>

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants/
 # 1AC, recursion
 

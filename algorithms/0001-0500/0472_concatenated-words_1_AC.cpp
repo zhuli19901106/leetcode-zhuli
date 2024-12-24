@@ -1,3 +1,4 @@
+// hard
 // Brute-force DP, from Word Break
 // It took me hours on this problem, I tried my best to write a solution with trie.
 // But no luck.

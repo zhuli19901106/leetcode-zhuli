@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-ways-to-select-buildings/
 class Solution:
     def numberOfWays(self, s: str) -> int:

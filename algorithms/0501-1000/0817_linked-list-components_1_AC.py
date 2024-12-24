@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/linked-list-components/
 # union-find set
 # Definition for singly-linked list.

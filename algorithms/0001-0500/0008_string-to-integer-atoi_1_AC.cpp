@@ -1,3 +1,4 @@
+// medium
 // Things like this gets you old.
 #include <cctype>
 #include <climits>

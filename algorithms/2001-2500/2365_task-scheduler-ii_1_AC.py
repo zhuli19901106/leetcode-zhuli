@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/task-scheduler-ii/
 class Solution:
     def taskSchedulerII(self, tasks: List[int], space: int) -> int:

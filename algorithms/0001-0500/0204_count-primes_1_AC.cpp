@@ -1,3 +1,4 @@
+// medium
 // In memory of Eratosthenes of Cyrene.
 #include <vector>
 using std::vector;

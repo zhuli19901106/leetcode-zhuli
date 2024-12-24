@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/time-needed-to-buy-tickets/
 # 1AC, simulation
 

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
 # took me too long to figure out the sliding window
 

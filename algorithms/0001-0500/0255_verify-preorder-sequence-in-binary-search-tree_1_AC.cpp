@@ -1,3 +1,4 @@
+// medium
 // The input array can be used as a stack, that's how O(1) space is achieved.
 #include <climits>
 #include <stack>

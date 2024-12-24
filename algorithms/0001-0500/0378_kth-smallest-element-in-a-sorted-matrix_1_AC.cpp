@@ -1,3 +1,4 @@
+// medium
 // Young Tableau, an interesting data structure
 // O(k * log(k)) solution with heap
 #include <algorithm>

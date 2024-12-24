@@ -1,3 +1,4 @@
+// hard
 // A smart way of using stack.
 #include <algorithm>
 #include <unordered_map>

@@ -1,3 +1,4 @@
+// hard
 // Write your own comparator and hasher.
 /**
  * Definition for a point.

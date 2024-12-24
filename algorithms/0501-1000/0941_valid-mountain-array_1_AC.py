@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/valid-mountain-array/
 class Solution:
     def validMountainArray(self, A: List[int]) -> bool:

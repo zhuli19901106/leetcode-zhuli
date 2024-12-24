@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/
 class Solution:
     def minDominoRotations(self, A: List[int], B: List[int]) -> int:

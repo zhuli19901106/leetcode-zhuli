@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-cost-for-tickets/
 # DP solution, took me some 20+ minutes to think it through
 class Solution:

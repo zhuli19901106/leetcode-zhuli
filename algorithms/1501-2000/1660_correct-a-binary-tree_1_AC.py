@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/correct-a-binary-tree/
 # 1AC, level order traversal
 

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/custom-sort-string/
 # Runtime: 20 ms, faster than 97.59% of Python3 online submissions for Custom Sort String.
 # Memory Usage: 12.8 MB, less than 100.00% of Python3 online submissions for Custom Sort String.

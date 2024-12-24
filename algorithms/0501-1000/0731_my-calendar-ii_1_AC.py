@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/my-calendar-ii/
 # do we really have to write segment tree in a real interview?
 # this is the ugliest code I've ever written.

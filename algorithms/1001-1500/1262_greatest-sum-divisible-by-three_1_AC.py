@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/greatest-sum-divisible-by-three/
 # sort of a brain teaser
 # Runtime: 264 ms, faster than 90.18% of Python3 online submissions for Greatest Sum Divisible by Three.

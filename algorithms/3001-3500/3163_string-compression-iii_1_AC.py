@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/string-compression-iii/
 # should be easy
 class Solution:

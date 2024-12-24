@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 class Solution:
     def convertTime(self, current: str, correct: str) -> int:

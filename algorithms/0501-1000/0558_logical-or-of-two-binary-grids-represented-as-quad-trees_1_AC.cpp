@@ -1,3 +1,4 @@
+// medium
 // https://leetcode.com/problems/quad-tree-intersection/
 // ugly solution
 /*

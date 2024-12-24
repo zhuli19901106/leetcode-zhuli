@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/incremental-memory-leak/
 # 1AC, pure simulation
 

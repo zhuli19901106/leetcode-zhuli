@@ -1,3 +1,4 @@
+// easy
 // https://leetcode.com/problems/design-hashset/
 #include <cmath>
 using std::abs;

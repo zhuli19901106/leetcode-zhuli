@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/design-circular-deque/
 # man... that's overwork
 class MyCircularDeque:

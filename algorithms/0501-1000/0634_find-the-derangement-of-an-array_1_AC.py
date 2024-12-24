@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-the-derangement-of-an-array/
 # the dp[n - 2] part is bit finicky
 class Solution:

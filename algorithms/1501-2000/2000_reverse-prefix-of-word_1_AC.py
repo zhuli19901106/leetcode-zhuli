@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/reverse-prefix-of-word/
 
 class Solution:

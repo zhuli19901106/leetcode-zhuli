@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-number-game/
 class Solution:
     def numberGame(self, nums: List[int]) -> List[int]:

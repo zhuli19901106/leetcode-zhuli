@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 class Solution:
     def longestContinuousSubstring(self, s: str) -> int:

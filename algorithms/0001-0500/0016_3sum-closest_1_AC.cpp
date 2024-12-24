@@ -1,3 +1,4 @@
+// medium
 #include <algorithm>
 #include <cmath>
 using std::abs;

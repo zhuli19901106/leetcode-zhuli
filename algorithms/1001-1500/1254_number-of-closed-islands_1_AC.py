@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-closed-islands/
 class Solution:
     def closedIsland(self, grid: List[List[int]]) -> int:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/accounts-merge/
 # 1AC, search engine, index merging
 # don't you think that's too much work for 10 minutes?

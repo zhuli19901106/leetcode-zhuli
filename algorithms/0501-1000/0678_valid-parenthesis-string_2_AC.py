@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/valid-parenthesis-string/
 # https://leetcode.com/problems/valid-parenthesis-string/discuss/543521/Java-Count-Open-Parenthesis-O(n)-time-O(1)-space-Clean-Explain
 # that's really smart, I give up

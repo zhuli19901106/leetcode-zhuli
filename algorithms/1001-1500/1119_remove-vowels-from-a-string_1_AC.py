@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/
 # 1AC
 import re

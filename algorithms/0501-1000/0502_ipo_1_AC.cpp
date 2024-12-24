@@ -1,3 +1,4 @@
+// hard
 // Why is problem rated "hard"?
 #include <queue>
 #include <utility>

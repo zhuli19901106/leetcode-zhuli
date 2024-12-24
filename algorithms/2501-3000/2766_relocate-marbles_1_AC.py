@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/relocate-marbles/
 class Solution:
     def relocateMarbles(self, nums: List[int], moveFrom: List[int], moveTo: List[int]) -> List[int]:

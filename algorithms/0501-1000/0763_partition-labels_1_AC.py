@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/partition-labels/
 class Solution:
     def partitionLabels(self, S: str) -> List[int]:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/
 # looks like Floyd, beware of edge cases
 class Solution:

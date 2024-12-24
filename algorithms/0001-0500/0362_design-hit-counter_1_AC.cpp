@@ -1,3 +1,4 @@
+// medium
 // If hits/s is very high, process them in a batch.
 // You can usually sacrifice some consistency for better availability.
 #include <map>

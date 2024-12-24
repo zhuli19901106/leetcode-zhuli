@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-nodes-with-the-highest-score/
 # a bit tiring, but not difficult
 class Solution:

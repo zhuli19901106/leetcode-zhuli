@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/keys-and-rooms/
 # BFS
 from collections import deque

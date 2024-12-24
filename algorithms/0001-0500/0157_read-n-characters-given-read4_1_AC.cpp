@@ -1,3 +1,4 @@
+// easy
 // Forward declaration of the read4 API.
 int read4(char *buf);
 

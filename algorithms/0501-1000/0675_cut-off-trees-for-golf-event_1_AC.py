@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/cut-off-trees-for-golf-event/
 # simple idea, but basically brute-force
 from collections import deque

@@ -1,3 +1,4 @@
+// easy
 // In-place hashing.
 #include <cstdint>
 #include <vector>

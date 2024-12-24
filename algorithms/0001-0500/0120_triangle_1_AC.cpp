@@ -1,3 +1,4 @@
+// medium
 #include <algoithm>
 using std::min;
 

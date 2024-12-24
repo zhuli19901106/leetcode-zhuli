@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/
 class Solution:
     def chalkReplacer(self, chalk: List[int], k: int) -> int:

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 # Runtime: 76 ms, faster than 100.00% of Python3 online submissions for Find the Distance Value Between Two Arrays.
 # Memory Usage: 12.9 MB, less than 100.00% of Python3 online submissions for Find the Distance Value Between Two Arrays.

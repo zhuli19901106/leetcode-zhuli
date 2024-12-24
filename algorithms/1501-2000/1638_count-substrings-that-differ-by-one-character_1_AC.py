@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-substrings-that-differ-by-one-character/
 # don't get lost within the loops
 class Solution:

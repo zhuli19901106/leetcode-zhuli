@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-matrix-sum/
 # sort of tricky, but acceptable
 # if odd number of negatives, leave the one with smallest abs()

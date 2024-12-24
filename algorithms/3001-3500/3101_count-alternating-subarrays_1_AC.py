@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-alternating-subarrays/
 # should be easy
 class Solution:

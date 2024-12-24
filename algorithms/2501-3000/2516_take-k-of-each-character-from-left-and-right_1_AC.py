@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/
 # a variant of two pointers
 # took me over 10 minutes to get it

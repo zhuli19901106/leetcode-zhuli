@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
 # 1AC, disjoint set
 class Solution:

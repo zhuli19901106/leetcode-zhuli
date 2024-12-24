@@ -1,3 +1,4 @@
+// easy
 #include <stack>
 #include <unordered_map>
 using std::stack;

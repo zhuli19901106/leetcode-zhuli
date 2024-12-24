@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
 # Definition for a binary tree node.
 # class TreeNode:

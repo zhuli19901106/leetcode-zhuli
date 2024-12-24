@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/max-number-of-k-sum-pairs/
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:

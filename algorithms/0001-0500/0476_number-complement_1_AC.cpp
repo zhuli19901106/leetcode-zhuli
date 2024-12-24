@@ -1,3 +1,4 @@
+// easy
 #include <climits>
 
 class Solution {

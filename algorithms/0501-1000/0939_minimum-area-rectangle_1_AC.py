@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-area-rectangle/
 # simple but too slow
 class Solution:

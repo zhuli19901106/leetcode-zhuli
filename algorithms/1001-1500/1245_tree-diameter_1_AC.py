@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/tree-diameter/
 # 1AC, search for the furthest node, then search from that node for the furthest
 from collections import deque

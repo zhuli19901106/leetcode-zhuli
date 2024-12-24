@@ -1,3 +1,4 @@
+// hard
 // Since the word length is short enough, we can use hash values to simulate a trie.
 #include <algorithm>
 #include <string>

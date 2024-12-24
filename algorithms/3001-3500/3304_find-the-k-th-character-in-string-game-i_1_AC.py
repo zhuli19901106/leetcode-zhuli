@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/
 class Solution:
     def kthCharacter(self, k: int) -> str:

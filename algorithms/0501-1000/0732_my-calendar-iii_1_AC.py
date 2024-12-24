@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/my-calendar-iii/
 # that's smart
 

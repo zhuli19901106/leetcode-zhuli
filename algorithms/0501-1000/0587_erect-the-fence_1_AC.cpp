@@ -1,3 +1,4 @@
+// hard
 // Damn, convex hull.
 /**
  * Definition for a point.

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
 # why bother?
 # Definition for singly-linked list.

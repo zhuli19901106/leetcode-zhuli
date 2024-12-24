@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/
 # 1AC, intuitive recursion
 # Definition for a binary tree node.

@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/split-array-with-equal-sum/
 # that's a tricky problem, too tricky to be a "medium".
 class Solution:

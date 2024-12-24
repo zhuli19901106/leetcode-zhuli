@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/calculate-amount-paid-in-taxes/
 class Solution:
     def calculateTax(self, brackets: List[List[int]], income: int) -> float:

@@ -1,3 +1,4 @@
+// medium
 // Think from a bit's perspective
 #include <unordered_map>
 using std::unordered_map;

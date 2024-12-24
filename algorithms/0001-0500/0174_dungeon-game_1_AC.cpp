@@ -1,3 +1,4 @@
+// hard
 // Direction matters
 #include <algorithm>
 #include <cstdint>

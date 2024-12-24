@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/valid-word/
 class Solution:
     def isValid(self, word: str) -> bool:

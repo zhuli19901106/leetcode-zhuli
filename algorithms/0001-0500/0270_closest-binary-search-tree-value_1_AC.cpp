@@ -1,3 +1,4 @@
+// easy
 // Inorder traversal it is.
 /**
  * Definition for a binary tree node.

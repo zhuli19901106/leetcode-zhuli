@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-tested-devices-after-test-operations/
 class Solution:
     def countTestedDevices(self, batteryPercentages: List[int]) -> int:

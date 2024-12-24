@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/uncommon-words-from-two-sentences/class Solution:
 '''
 Runtime: 12 ms, faster than 100.00% of Python3 online submissions for Uncommon Words from Two Sentences.

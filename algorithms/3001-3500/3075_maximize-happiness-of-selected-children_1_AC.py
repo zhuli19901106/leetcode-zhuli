@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximize-happiness-of-selected-children/
 # why is this medium?
 class Solution:

@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
 # knowing 1-cut algorithm is probably beyond the need for an average software engineer
 # but it can be solved using union find, much simpler

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
 # there're only 26 * 26 combinations, very limited
 class Solution:

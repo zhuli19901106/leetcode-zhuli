@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-score-from-removing-substrings/
 # paused for 20 minutes and couldn't figure out why it's greedy
 # this should be a tricky "hard"

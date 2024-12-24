@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-asterisks/
 class Solution:
     def countAsterisks(self, s: str) -> int:

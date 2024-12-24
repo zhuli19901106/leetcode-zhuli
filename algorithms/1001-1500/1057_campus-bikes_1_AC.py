@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/campus-bikes/
 # 1AC, sort by edge length
 class Solution:

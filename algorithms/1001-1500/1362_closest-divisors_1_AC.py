@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/closest-divisors/
 from math import floor, sqrt
 

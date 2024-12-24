@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/score-after-flipping-matrix/
 class Solution:
     def matrixScore(self, A: List[List[int]]) -> int:

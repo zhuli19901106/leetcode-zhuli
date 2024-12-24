@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/largest-time-for-given-digits/
 from itertools import permutations
 

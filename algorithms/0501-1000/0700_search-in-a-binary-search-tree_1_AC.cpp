@@ -1,3 +1,4 @@
+// easy
 // search-in-a-binary-search-tree
 /**
  * Definition for a binary tree node.

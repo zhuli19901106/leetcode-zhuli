@@ -1,3 +1,4 @@
+// medium
 #include <cctype>
 #include <cstdio>
 using std::isupper;

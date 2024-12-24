@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
 # 1AC, I got stuck for about 10 minutes before coming to my senses
 from heapq import heappush, heappop

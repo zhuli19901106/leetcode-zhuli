@@ -1,3 +1,4 @@
+// easy
 // Due to the extremely short length of words, brute-force seems to be sufficient.
 #include <cctype>
 #include <cstring>

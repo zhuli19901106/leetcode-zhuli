@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/apply-operations-to-an-array/
 class Solution:
     def applyOperations(self, nums: List[int]) -> List[int]:

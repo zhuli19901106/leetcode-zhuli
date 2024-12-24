@@ -1,3 +1,4 @@
+// medium
 // Binary indexed tree
 class NumArray {
 public:

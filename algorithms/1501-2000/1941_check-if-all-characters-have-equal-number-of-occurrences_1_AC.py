@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 # 1AC
 from collections import defaultdict

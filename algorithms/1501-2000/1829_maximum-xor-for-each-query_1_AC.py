@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-xor-for-each-query/
 # 1AC, no trick
 class Solution:

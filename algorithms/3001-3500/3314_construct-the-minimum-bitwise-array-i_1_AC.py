@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/
 # really tricky
 class Solution:

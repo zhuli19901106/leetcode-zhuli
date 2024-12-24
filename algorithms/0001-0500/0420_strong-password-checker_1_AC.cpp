@@ -1,3 +1,4 @@
+// hard
 // It's just a headache to meet such problems in an interview.
 #include <algorithm>
 #include <cctype>

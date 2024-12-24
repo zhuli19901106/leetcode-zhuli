@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/maximum-repeating-substring/
 # almost brute force, can be optimized with KMP
 class Solution:

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/largest-subarray-length-k/
 # 1AC, the trick is about distinctness
 

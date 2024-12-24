@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/path-with-maximum-minimum-value/
 # https://leetcode.com/problems/path-with-maximum-minimum-value/discuss/530766/Python-3-DFS%2BHeap
 # the key is in getting the idea of heap, not quite intuitive

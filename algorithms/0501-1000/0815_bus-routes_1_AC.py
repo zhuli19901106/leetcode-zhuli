@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/bus-routes/
 # 1AC
 from collections import defaultdict, deque

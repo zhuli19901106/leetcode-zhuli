@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-square-sum-triples/
 # 1AC
 

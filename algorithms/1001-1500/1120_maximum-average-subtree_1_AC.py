@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-average-subtree/
 # 1AC, post order traversal
 # Definition for a binary tree node.

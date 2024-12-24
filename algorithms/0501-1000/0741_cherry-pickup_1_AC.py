@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/cherry-pickup/
 # https://leetcode.com/problems/cherry-pickup/discuss/592725/Clean-python-top-down
 # I got a similar solution alone, but my code was more clunky compared to this one

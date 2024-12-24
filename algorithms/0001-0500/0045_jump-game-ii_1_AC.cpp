@@ -1,3 +1,4 @@
+// medium
 // O(1) space and greedy.
 #include <climits>
 #include <vector>

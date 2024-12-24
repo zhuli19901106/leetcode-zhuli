@@ -1,3 +1,4 @@
+// medium
 // Save your bits
 class Solution {
 public:

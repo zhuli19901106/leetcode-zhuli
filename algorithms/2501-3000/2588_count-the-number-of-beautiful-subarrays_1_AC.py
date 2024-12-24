@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/
 # still a sliding window + count subarray problem
 # but with some really whimsical bit manipulations

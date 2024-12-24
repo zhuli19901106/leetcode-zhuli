@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/delete-and-earn/
 # 1AC, a good DP problem
 class Solution:

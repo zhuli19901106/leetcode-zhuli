@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/check-if-matrix-is-x-matrix/
 class Solution:
     def checkXMatrix(self, grid: List[List[int]]) -> bool:

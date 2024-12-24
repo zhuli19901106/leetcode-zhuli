@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
 class Solution:
     def findLonely(self, nums: List[int]) -> List[int]:

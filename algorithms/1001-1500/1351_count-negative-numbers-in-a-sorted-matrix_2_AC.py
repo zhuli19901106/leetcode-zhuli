@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 # better O(n + m) solution
 class Solution:

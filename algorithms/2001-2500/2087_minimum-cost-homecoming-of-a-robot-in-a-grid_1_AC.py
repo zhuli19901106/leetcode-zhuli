@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/
 # this is trolling
 class Solution:

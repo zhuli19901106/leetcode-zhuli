@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/filling-bookcase-shelves/
 # O(n^2) DP solution
 class Solution:

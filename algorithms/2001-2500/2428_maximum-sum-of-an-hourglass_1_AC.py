@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-sum-of-an-hourglass/
 class Solution:
     def maxSum(self, grid: List[List[int]]) -> int:

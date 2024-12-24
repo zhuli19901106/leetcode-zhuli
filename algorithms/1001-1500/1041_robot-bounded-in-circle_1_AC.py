@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/robot-bounded-in-circle/
 # sort of a brain teaser
 # Runtime: 16 ms, faster than 99.33% of Python3 online submissions for Robot Bounded In Circle.

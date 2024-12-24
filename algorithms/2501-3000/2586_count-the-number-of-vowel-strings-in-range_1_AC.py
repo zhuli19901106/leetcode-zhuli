@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/
 class Solution:
     def vowelStrings(self, words: List[str], left: int, right: int) -> int:

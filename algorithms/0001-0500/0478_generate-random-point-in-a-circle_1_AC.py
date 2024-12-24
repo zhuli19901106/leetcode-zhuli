@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/generate-random-point-in-a-circle/
 # got really annoyed with precision problem from radial sampling
 from random import uniform

@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/number-of-valid-subarrays/
 # 1AC, use a stack
 class Solution:

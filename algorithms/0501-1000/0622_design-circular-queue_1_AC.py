@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/design-circular-queue/
 # so you expect this done within 5 minutes?
 # I don't think so.

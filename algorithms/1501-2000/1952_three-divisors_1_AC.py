@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/three-divisors/
 # 1AC
 from math import sqrt

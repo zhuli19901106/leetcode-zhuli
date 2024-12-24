@@ -1,3 +1,4 @@
+// medium
 // https://discuss.leetcode.com/topic/76489/c-different-solution-no-linkedlist-loop-needed-o-n-time-complexity-o-1-space
 // This solution is both concise and clever, although it modifies the input array.
 class Solution {

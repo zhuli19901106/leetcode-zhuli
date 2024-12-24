@@ -1,3 +1,4 @@
+// hard
 // Bidirectional BFS
 #include <string>
 #include <unordered_set>

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/print-words-vertically/
 class Solution:
     def printVertically(self, s: str) -> List[str]:

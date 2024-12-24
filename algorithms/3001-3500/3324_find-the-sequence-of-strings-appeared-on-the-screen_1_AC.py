@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/
 # tiring
 class Solution:

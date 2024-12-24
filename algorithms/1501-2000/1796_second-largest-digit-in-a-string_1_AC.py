@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/second-largest-digit-in-a-string/
 # 1AC
 import re

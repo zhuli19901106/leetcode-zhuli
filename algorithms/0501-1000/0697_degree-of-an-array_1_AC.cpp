@@ -1,3 +1,4 @@
+// easy
 // Easy? WTF?
 #include <algorithm>
 #include <map>

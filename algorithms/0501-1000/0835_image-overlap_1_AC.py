@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/image-overlap/
 # brute-force
 class Solution:

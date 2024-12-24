@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-champion-i/
 class Solution:
     def findChampion(self, grid: List[List[int]]) -> int:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/delete-columns-to-make-sorted-ii/
 # compare column by column
 class Solution:

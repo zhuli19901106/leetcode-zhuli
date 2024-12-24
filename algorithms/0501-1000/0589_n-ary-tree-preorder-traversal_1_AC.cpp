@@ -1,3 +1,4 @@
+// easy
 // https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 /*
 // Definition for a Node.

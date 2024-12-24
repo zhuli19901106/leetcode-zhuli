@@ -1,3 +1,4 @@
+// medium
 // Think it through before you start coding, that saves lots of lines.
 /**
  * Definition for an interval.

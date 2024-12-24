@@ -1,3 +1,4 @@
+// medium
 class Solution {
 public:
     Solution() {

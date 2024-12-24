@@ -1,3 +1,4 @@
+// medium
 // Straight-forward hashing solution
 #include <algorithm>
 #include <cmath>

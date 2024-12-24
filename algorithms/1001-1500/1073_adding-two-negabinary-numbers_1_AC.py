@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/adding-two-negabinary-numbers/
 # 1AC, not convenient, but intuitive, thus less error-prone
 class Solution:

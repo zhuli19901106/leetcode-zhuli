@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/frog-jump-ii/
 # this is really just mind trick
 

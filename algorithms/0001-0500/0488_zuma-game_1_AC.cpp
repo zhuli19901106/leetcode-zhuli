@@ -1,3 +1,4 @@
+// hard
 // DFS with backtracking
 // If the datasets were larger, memorization would be needed.
 #include <algorithm>

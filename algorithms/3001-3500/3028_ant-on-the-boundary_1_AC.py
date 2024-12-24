@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/ant-on-the-boundary/
 # poor description
 class Solution:

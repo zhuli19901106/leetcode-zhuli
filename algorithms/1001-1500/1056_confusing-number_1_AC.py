@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/confusing-number/
 class Solution:
     def confusingNumber(self, N: int) -> bool:

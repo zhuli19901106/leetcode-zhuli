@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/two-out-of-three/
 # 1AC
 

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/remove-interval/
 # 1AC, well, I implemented a harder version because I misunerstood the problem
 class Solution:

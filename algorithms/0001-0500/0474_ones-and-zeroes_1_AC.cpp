@@ -1,3 +1,4 @@
+// medium
 // Multi-dimensional knapsack problem
 #include <algorithm>
 using std::max;

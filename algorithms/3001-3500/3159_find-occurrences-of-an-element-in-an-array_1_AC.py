@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/
 # should be "easy"
 class Solution:

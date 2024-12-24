@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/rank-teams-by-votes/
 class Solution:
     def rankTeams(self, votes: List[str]) -> str:

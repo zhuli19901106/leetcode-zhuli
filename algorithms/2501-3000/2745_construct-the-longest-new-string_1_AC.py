@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/construct-the-longest-new-string/
 # this is BS
 class Solution:

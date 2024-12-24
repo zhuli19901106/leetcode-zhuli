@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/most-frequent-even-element/
 from collections import defaultdict
 

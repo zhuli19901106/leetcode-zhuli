@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 # 1AC, use a stack
 class Solution:

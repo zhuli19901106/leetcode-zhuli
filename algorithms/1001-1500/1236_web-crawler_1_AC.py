@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/web-crawler/
 # 1AC, BFS
 # """

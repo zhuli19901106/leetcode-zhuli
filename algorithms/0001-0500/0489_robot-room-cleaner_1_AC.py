@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/robot-room-cleaner/
 # 1AC, gotta say this is the best interview question ever met
 # challenging while very interesting, especially the simulation

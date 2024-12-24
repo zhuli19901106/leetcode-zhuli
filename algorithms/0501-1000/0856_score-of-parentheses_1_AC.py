@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/score-of-parentheses/
 # Runtime: 20 ms, faster than 95.65% of Python3 online submissions for Score of Parentheses.
 # Memory Usage: 12.7 MB, less than 100.00% of Python3 online submissions for Score of Parentheses.

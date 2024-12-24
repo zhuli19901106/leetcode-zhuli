@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/binary-subarrays-with-sum/
 # 1AC, there's an exactly same problem before, right?
 class Solution:

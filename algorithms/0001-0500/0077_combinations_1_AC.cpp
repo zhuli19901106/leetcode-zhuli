@@ -1,3 +1,4 @@
+// medium
 // Standard DFS
 class Solution {
 public:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/
 # convert to base 3 and check for digit 1
 class Solution:

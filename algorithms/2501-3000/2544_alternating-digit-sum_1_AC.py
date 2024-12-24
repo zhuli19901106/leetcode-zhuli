@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/alternating-digit-sum/
 class Solution:
     def alternateDigitSum(self, n: int) -> int:

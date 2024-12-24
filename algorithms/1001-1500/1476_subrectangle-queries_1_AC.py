@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/subrectangle-queries/
 # 1AC, nothing more
 class SubrectangleQueries:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/ways-to-make-a-fair-array/
 # 1AC, simple idea, but the implementation is a bit cumbersome
 class Solution:

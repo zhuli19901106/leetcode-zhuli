@@ -1,3 +1,4 @@
+// medium
 // This is a system design problem, right?
 // Suppose every "ID" here is globally unique, alright?
 // Otherwise it's not an ID afterall.

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/ambiguous-coordinates/
 # just do the searching
 # Runtime: 28 ms, faster than 100.00% of Python3 online submissions for Ambiguous Coordinates.

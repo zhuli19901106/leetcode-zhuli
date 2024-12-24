@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/remove-nodes-from-linked-list/
 # it's monotonic
 # Definition for singly-linked list.

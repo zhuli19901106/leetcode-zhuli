@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/guess-the-word/
 # 1AC, ah... it turned out I don't have to make it within 10 attempts
 # """

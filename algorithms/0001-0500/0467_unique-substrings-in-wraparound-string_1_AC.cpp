@@ -1,3 +1,4 @@
+// medium
 // Use bit manipulation to save some space.
 #include <algorithm>
 #include <map>

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
 # always use caching for brute-force DFS
 class Solution:

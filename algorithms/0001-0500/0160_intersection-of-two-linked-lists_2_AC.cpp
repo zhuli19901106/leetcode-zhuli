@@ -1,3 +1,4 @@
+// easy
 // O(1) space solution
 // Cover every possible condition, otherwise there's gonna be bugs.
 #include <unordered_set>

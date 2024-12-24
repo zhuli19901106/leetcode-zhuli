@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-index-of-a-valid-split/
 # O(n) for finding dominant, O(1) for checking dominace at any index
 class Solution:

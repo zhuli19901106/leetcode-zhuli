@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-subtree-sizes-after-changes/
 # sort of a hard medium, even harder due to very confusing description
 # do a path compression like disjoint sets, then traverse to count nodes

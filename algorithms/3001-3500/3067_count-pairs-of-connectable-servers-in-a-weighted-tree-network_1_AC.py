@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/
 # a lot of trouble for one medium problem
 # this is ridiculous

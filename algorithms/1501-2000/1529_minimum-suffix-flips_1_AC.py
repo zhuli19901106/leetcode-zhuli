@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/bulb-switcher-iv/
 # 1AC
 class Solution:

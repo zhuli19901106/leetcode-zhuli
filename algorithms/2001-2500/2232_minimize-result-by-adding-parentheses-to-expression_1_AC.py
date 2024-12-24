@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/
 
 class Solution:

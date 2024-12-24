@@ -1,3 +1,4 @@
+// easy
 // So many edge cases, what a headache.
 #include <iterator>
 #include <map>

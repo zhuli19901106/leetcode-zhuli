@@ -1,3 +1,4 @@
+# medium
 // https://leetcode.com/problems/exam-room/
 // 1AC, I need a tree set, yet python doesn't have one for builtin
 #include <algorithm>

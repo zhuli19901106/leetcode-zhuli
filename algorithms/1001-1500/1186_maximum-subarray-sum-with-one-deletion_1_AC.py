@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/
 # 1AC, prefix and postfix max subarray
 class Solution:

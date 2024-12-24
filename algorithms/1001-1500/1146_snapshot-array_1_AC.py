@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/snapshot-array/
 # 1AC, chain changes by ascending version number for each slot, then binary search
 from bisect import bisect_right

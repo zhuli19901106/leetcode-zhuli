@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/dice-roll-simulation/
 # 1AC, feeling a bit dizzy with such DP problems
 class Solution:

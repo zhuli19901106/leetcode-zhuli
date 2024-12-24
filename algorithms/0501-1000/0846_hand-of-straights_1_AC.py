@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/hand-of-straights/
 # devil's in the detail, what's the hurry :(
 class Solution:

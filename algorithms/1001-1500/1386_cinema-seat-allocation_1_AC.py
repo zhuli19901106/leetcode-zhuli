@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/cinema-seat-allocation/
 # precompute by enumerating 1024 possibilities
 class Solution:

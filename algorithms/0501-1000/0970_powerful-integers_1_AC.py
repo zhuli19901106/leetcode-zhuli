@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/powerful-integers/
 from collections import deque
 

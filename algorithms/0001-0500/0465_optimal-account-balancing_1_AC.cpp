@@ -1,3 +1,4 @@
+// hard
 // 1AC, the key is to find the maximal number of partitions, where each of them sums up to 0.
 #include <iterator>
 #include <unordered_map>

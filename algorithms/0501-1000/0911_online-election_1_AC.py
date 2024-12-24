@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/online-election/
 # preprocess and binary search
 from bisect import bisect_right

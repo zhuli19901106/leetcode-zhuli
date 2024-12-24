@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 # 1AC
 class Solution:

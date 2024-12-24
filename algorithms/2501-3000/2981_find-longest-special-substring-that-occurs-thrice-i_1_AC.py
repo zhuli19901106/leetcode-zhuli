@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/
 # just count it
 class Solution:

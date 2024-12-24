@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 class Solution:
     def removeDigit(self, number: str, digit: str) -> str:

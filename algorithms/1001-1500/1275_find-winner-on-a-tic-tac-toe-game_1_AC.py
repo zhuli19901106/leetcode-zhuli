@@ -1,3 +1,4 @@
+# easy
 class Solution:
     def tictactoe(self, moves: List[List[int]]) -> str:
         b = [['' for i in range(3)] for i in range(3)]

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/
 # the DP relation isn't quite straight-forward after all
 from math import sqrt

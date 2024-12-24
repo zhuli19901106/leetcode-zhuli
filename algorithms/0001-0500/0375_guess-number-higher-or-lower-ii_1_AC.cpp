@@ -1,3 +1,4 @@
+// medium
 // 59 ms
 // O(n ^ 3) DP solution, I got stuck for about two hours.
 // But still haven't grabbed the idea of a better solution.

@@ -1,3 +1,4 @@
+// hard
 // Sort everything before DP.
 #include <algorithm>
 #include <vector>

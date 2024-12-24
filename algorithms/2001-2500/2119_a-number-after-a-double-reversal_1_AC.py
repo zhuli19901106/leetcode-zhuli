@@ -1,3 +1,4 @@
+# easy
 class Solution:
     def isSameAfterReversals(self, num: int) -> bool:
         def reverseDigits(x):

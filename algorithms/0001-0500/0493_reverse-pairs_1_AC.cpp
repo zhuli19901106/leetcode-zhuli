@@ -1,3 +1,4 @@
+// hard
 // Such consecutive counting problems can be handled in a similar way.
 #include <algorithm>
 #include <climits>

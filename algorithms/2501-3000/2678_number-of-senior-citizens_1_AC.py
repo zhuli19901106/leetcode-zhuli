@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/number-of-senior-citizens/
 class Solution:
     def countSeniors(self, details: List[str]) -> int:

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/remove-letter-to-equalize-frequency/
 from collections import defaultdict
 

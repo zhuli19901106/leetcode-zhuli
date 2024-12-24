@@ -1,3 +1,4 @@
+// hard
 // This clever solution is from @NathanNi
 // https://discuss.leetcode.com/topic/64624/concise-easy-to-understand-java-5ms-solution-with-explaination
 #include <algorithm>

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 # 1AC
 class Solution:

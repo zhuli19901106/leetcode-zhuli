@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
 # 1AC, bruteforce search, simple, slow and acceptable
 class Solution:

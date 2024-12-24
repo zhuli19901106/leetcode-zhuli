@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/binary-tree-coloring-game/
 # tricky
 # Definition for a binary tree node.

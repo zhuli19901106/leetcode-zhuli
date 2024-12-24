@@ -1,3 +1,4 @@
+// medium
 // Brute-force
 #include <vector>
 using std::vector;

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
 class Solution:
     def reductionOperations(self, nums: List[int]) -> int:

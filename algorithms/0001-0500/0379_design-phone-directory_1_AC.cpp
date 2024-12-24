@@ -1,3 +1,4 @@
+// medium
 // Just use a bit vector.
 // It turned out that vector<bool> wasn't fast enough to pass the test cases.
 #include <unordered_map>

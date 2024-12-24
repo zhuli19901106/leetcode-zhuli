@@ -1,3 +1,4 @@
+// medium
 // It's good practice to encapsulate some list operations.
 // Otherwise the code is gonna get ugly and twisting.
 /**

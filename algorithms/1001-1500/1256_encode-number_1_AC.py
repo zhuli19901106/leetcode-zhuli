@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/encode-number/
 # 1AC, same idea, but three times the work with C++
 class Solution:

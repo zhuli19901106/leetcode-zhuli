@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-anagram-mappings/
 # 1AC
 class Solution:

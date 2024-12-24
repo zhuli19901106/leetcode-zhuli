@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
 # 1AC, no surprise
 class Solution:

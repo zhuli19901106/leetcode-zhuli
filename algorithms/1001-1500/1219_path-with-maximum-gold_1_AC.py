@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/path-with-maximum-gold/
 class Solution:
     def getMaximumGold(self, grid: List[List[int]]) -> int:

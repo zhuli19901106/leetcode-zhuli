@@ -1,3 +1,4 @@
+// medium
 // O(n * log^2 (n)) solution using binary indexed tree and binary search.
 // It took me more than an hour to think it through.
 // Algorithmic problems like this are both challenging and frustrating.

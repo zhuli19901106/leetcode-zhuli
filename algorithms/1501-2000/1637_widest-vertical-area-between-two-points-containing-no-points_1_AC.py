@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
 # 1AC, seriously?
 

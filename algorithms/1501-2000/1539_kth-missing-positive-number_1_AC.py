@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/kth-missing-positive-number/
 # 1AC, just count it
 class Solution:

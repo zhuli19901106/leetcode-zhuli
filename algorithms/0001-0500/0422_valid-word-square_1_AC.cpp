@@ -1,3 +1,4 @@
+// easy
 // Brute-force and straight-forward
 #include <algorithm>
 #include <string>

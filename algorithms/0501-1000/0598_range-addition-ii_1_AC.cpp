@@ -1,3 +1,4 @@
+// easy
 // Brainteaser
 #include <algorithm>
 #include <vector>

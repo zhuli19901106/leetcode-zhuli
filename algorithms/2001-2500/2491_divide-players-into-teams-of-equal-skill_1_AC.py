@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/
 class Solution:
     def dividePlayers(self, skill: List[int]) -> int:

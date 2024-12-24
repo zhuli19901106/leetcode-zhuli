@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/
 # 1AC, O(n) solution by locating head and inserting
 """

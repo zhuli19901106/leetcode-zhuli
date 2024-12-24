@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/
 # 1AC, I can only do it with bruteforce for now
 # I'd say it's rather tiring and sloppy to do the whole simulation

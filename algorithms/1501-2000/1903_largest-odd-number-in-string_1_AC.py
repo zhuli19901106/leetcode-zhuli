@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/largest-odd-number-in-string/
 
 class Solution:

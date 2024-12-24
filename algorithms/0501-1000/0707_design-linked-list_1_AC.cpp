@@ -1,3 +1,4 @@
+// medium
 // https://leetcode.com/problems/design-linked-list/
 typedef struct MyListNode {
     int val;

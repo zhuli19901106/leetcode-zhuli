@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/design-front-middle-back-queue/
 # laborious
 from collections import deque

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/clumsy-factorial/
 # a bit clumsy, but OK
 # Runtime: 28 ms, faster than 97.56% of Python3 online submissions for Clumsy Factorial.

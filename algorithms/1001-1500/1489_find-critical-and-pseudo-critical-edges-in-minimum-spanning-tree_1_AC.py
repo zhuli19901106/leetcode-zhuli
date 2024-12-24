@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/
 # maybe just BF
 # even without caring about efficiency, this problem is still tricky enough

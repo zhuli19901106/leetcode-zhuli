@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/throne-inheritance/
 # a very poor written problem with huge downvotes
 # hard description + easy idea = medium problem

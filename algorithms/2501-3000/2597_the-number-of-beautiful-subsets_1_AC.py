@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/the-number-of-beautiful-subsets/
 # just BF
 class Solution:

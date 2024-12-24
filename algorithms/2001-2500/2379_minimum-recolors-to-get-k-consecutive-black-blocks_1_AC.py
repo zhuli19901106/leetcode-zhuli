@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 # brute-force
 class Solution:

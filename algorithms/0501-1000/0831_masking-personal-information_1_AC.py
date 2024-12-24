@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/masking-personal-information/
 # that's violation of the single responsibility rule, you know?
 import re

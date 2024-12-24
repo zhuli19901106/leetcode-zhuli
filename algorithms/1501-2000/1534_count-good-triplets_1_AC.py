@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-good-triplets/
 # 1AC, brute force
 class Solution:

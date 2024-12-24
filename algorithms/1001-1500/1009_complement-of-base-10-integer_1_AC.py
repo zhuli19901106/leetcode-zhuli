@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/complement-of-base-10-integer/
 from math import floor, log2
 

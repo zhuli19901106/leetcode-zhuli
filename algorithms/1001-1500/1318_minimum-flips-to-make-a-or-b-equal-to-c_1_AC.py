@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
 # man, that's rather bitwise.
 class Solution:

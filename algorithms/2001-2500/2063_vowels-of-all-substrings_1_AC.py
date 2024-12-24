@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/vowels-of-all-substrings/
 # how many times does one letter appear in all substrings?
 class Solution:

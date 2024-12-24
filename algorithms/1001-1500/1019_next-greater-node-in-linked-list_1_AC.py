@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/next-greater-node-in-linked-list/
 # Definition for singly-linked list.
 # class ListNode:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/
 # 1AC, no trick, no trap
 class Solution:

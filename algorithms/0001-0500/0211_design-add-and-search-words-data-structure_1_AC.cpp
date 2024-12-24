@@ -1,3 +1,4 @@
+// medium
 // 1AC
 #include <vector>
 using std::vector;

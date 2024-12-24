@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
 # my god... that's too sloppy
 # Definition for singly-linked list.

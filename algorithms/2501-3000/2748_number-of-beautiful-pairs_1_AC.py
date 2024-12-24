@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/number-of-beautiful-pairs/
 from math import floor, log10
 

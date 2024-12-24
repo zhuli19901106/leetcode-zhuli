@@ -1,3 +1,4 @@
+// easy
 // Brute-force
 class Solution {
 public:

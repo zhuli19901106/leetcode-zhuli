@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/count-symmetric-integers/
 from math import floor, log10
 

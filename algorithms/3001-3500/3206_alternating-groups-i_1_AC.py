@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/alternating-groups-i/
 class Solution:
     def numberOfAlternatingGroups(self, colors: List[int]) -> int:

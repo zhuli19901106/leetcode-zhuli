@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/the-kth-factor-of-n/
 # 1AC, easy?
 class Solution:

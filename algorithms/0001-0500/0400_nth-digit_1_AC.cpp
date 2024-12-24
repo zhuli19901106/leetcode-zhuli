@@ -1,3 +1,4 @@
+// medium
 // Whenever you play with numbers, make sure you don't overflow.
 #include <cstdint>
 

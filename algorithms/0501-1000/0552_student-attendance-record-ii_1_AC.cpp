@@ -1,3 +1,4 @@
+// hard
 // Is there an O(1) solution?
 #include <cstdint>
 

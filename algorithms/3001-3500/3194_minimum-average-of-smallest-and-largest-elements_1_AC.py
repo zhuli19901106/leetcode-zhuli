@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/
 class Solution:
     def minimumAverage(self, nums: List[int]) -> float:

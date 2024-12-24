@@ -1,3 +1,4 @@
+// hard
 // Make sure you calculate the cumulated sum in the right way.
 #include <algorithm>
 #include <climits>

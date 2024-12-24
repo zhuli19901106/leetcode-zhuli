@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-processing-time/
 # a bit tricky, sort them
 class Solution:

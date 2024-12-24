@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/apply-discount-every-n-orders/
 class Cashier:
     def __init__(self, n: int, discount: int, products: List[int], prices: List[int]):

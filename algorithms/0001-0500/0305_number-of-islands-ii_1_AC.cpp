@@ -1,3 +1,4 @@
+// hard
 // Ammortizedly O(k) solution with union-find set.
 #include <unordered_set>
 #include <utility>

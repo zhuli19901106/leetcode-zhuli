@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-common-value/
 class Solution:
     def getCommon(self, nums1: List[int], nums2: List[int]) -> int:

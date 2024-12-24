@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/delete-columns-to-make-sorted/
 class Solution:
     def minDeletionSize(self, A: List[str]) -> int:

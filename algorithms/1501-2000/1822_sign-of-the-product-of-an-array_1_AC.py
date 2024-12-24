@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/sign-of-the-product-of-an-array/
 # 1AC
 class Solution:

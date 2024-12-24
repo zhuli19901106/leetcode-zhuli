@@ -1,3 +1,4 @@
+// hard
 // Bruteforce DFS
 // I tried my old calculator, but it timed out on the case ("999999999", 80).
 // I haven't found any effective pruning strategy yet.

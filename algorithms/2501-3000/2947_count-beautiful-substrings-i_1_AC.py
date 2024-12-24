@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-beautiful-substrings-i/
 # just BF with O(n^2) effort
 class Solution:

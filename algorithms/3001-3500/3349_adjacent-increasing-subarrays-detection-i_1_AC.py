@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/
 class Solution:
     def hasIncreasingSubarrays(self, nums: List[int], k: int) -> bool:

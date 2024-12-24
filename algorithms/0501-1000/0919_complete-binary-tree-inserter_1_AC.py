@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/complete-binary-tree-inserter/
 # Definition for a binary tree node.
 # class TreeNode:

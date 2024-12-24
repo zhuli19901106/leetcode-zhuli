@@ -1,3 +1,4 @@
+// medium
 // O(n) time complexity
 #include <algorithm>
 using std::next;

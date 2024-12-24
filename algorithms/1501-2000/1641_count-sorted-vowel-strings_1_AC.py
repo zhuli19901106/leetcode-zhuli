@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-sorted-vowel-strings/
 # 1AC, traditional DP
 class Solution:

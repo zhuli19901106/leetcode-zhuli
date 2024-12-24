@@ -1,3 +1,4 @@
+// easy
 #include <algorithm>
 #include <vector>
 using std::max;

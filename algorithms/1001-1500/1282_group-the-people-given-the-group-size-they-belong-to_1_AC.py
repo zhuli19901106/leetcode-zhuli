@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
 class Solution:
     def groupThePeople(self, groupSizes: List[int]) -> List[List[int]]:

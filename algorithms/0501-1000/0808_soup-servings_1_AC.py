@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/soup-servings/
 # https://leetcode.com/problems/soup-servings/discuss/537584/808-Soup-Servings-Py-All-in-One-by-Talse
 # man... I'm simply served on this one

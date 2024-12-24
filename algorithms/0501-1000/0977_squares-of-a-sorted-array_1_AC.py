@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/squares-of-a-sorted-array/
 from bisect import bisect_left
 

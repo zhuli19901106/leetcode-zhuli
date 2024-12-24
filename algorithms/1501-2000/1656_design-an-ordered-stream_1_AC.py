@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/design-an-ordered-stream/
 # 1AC, totally pointless
 class OrderedStream:

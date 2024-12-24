@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/online-stock-span/
 # use a min stack
 class StockSpanner:

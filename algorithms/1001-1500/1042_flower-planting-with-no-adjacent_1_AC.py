@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/flower-planting-with-no-adjacent/
 # I know it's not hard, but easy?
 # A bit overworked, right?

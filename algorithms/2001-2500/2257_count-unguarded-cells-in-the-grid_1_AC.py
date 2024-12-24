@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-unguarded-cells-in-the-grid/
 # BFS, a bit slow
 from collections import deque

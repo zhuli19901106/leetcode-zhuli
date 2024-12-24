@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/fixed-point/
 # binary search
 class Solution:

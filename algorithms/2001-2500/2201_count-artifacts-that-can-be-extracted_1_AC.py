@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-artifacts-that-can-be-extracted/
 # count for total coverage and compare with the area of a rectangle
 class Solution:

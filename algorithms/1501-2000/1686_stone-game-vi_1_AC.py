@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/stone-game-vi/
 # I hate these games, seriously.
 # sort it, but I can't prove why it works.

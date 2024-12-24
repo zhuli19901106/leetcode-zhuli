@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/longest-happy-string/
 # tricky, needs a little inspiration
 class Solution:

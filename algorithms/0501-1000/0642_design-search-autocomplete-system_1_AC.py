@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/design-search-autocomplete-system/
 # that was some tough work... newly-typed sentences will update the trie
 from collections import defaultdict

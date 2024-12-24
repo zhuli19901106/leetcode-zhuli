@@ -1,3 +1,4 @@
+// medium
 // RMQ problem, very intuitive and efficient, but be careful with the coding.
 /**
  * Definition for a binary tree node.

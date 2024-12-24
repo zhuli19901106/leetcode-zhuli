@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
 # 1AC, simulation
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-the-number-of-complete-components/
 # simple but verbose
 class Solution:

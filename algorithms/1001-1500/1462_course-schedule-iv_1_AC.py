@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/course-schedule-iv/
 class Solution:
     def checkIfPrerequisite(self, numCourses: int, prerequisites: List[List[int]], queries: List[List[int]]) -> List[bool]:

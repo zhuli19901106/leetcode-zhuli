@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
 # https://leetcode.com/problems/closest-leaf-in-a-binary-tree/discuss/553595/O(n)-time-and-O(1)-space-solution
 # I was close, but got confused at some point

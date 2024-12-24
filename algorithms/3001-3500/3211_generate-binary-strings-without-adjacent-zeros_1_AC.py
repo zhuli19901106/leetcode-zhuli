@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/
 # BF
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/open-the-lock/
 # 1AC, BFS
 from collections import deque

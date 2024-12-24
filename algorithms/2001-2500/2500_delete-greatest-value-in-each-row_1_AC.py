@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/delete-greatest-value-in-each-row/
 class Solution:
     def deleteGreatestValue(self, grid: List[List[int]]) -> int:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/decoded-string-at-index/
 # needs some brainy work
 from bisect import bisect_right

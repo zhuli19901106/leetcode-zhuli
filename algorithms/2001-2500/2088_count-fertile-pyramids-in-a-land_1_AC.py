@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/count-fertile-pyramids-in-a-land/
 # it's actually easier to simply count it
 

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
 import re
 

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/seat-reservation-manager/
 from sortedcontainers import SortedSet
 

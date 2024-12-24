@@ -1,3 +1,4 @@
+// medium
 // Make sure your code compiles and runs before trying anything, wise guy.
 /**
  * Definition for a binary tree node.

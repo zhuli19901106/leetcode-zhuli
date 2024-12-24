@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/spiral-matrix-iv/
 # Definition for singly-linked list.
 # class ListNode:

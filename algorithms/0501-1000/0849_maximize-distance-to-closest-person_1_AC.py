@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximize-distance-to-closest-person/
 class Solution:
     def maxDistToClosest(self, seats: List[int]) -> int:

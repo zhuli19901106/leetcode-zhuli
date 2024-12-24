@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/knight-dialer/
 # 1AC, simple DP
 class Solution:

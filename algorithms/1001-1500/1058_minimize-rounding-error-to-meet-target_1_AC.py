@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimize-rounding-error-to-meet-target/
 # normalize, sort and scan
 from math import floor

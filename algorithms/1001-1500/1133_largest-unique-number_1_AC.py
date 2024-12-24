@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/largest-unique-number/
 # 1AC
 class Solution:

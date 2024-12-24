@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 # if you're looking for some min/max and can't find any smart move, try binary search
 from sortedcontainers import SortedSet

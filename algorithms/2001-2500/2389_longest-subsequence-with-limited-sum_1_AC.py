@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 class Solution:
     def answerQueries(self, nums: List[int], queries: List[int]) -> List[int]:

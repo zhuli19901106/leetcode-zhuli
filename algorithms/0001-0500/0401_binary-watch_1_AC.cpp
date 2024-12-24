@@ -1,3 +1,4 @@
+// easy
 // The code could be cleaner.
 #include <cstdio>
 using std::sprintf;

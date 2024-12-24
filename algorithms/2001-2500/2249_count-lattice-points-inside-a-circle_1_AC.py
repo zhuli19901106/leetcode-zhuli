@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/count-lattice-points-inside-a-circle/
 # use binary search to speed up a little
 # enumerate everything

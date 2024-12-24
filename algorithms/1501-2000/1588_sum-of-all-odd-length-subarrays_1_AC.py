@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
 # 1AC, brute force
 class Solution:

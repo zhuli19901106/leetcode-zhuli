@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/split-concatenated-strings/
 # https://leetcode.com/problems/split-concatenated-strings/discuss/392359/Python-detailed-explanation
 # I came close, but failed to prove the correctness of this solution

@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/sliding-puzzle/
 # about encoding and searching
 from collections import deque

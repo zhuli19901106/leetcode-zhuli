@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/balance-a-binary-search-tree/
 # 1AC, I'll settle for the simple and intuitive
 # Definition for a binary tree node.

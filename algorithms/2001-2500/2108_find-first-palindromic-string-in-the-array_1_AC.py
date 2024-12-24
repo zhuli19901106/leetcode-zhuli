@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 # 1AC
 

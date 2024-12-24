@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/determine-color-of-a-chessboard-square/
 # 1AC
 class Solution:

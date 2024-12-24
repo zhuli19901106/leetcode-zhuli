@@ -1,3 +1,4 @@
+// medium
 // Manacher Algorithm
 // A clever application of DP.
 class Solution {

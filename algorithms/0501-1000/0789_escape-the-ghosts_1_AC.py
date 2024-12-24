@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/escape-the-ghosts/
 # this problem is bugged
 class Solution:

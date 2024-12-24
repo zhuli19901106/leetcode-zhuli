@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/all-possible-full-binary-trees/
 # Definition for a binary tree node.
 # class TreeNode:

@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/check-if-array-is-good/
 class Solution:
     def isGood(self, nums: List[int]) -> bool:

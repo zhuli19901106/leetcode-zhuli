@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/calculate-money-in-leetcode-bank/
 # that's awkward...
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-prime-difference/
 # should be easy
 class Solution:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/clone-binary-tree-with-random-pointer/
 # 1AC, can't think of a solution without hashing the nodes
 

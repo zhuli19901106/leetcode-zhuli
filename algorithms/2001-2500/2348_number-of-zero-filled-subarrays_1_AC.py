@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-zero-filled-subarrays/
 class Solution:
     def zeroFilledSubarray(self, nums: List[int]) -> int:

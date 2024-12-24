@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/build-a-matrix-with-conditions/
 # topological sort
 from collections import deque

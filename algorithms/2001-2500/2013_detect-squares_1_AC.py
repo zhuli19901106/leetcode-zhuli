@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/detect-squares/
 # just BF, it's actually easier than I supposed
 class DetectSquares:

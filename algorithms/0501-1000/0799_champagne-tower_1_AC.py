@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/champagne-tower/
 # a rather classic hard medium, just simulate and don't try any magic
 # it's most likely that you'll find this much harder if you try anything smarter

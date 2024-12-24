@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/
 # sliding window
 class Solution:

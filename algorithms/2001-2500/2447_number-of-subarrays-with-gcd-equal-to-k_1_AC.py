@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/
 # for this size it's OK to BF
 # can't think of any O(n) or O(nlogn) methods for now

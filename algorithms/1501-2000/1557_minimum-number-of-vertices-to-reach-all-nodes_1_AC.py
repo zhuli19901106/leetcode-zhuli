@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 # 1AC, indegree zero
 from collections import defaultdict

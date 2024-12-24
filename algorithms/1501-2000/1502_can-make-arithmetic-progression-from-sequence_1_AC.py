@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 # 1AC
 class Solution:

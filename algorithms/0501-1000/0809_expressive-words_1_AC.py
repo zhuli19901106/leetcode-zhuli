@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/expressive-words/
 # 1AC
 class Solution:

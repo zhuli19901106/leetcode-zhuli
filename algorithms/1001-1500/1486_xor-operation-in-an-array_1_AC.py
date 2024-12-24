@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/xor-operation-in-an-array/
 # 1AC, brute force
 class Solution:

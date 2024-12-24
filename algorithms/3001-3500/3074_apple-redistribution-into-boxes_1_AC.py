@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/apple-redistribution-into-boxes/
 class Solution:
     def minimumBoxes(self, apple: List[int], capacity: List[int]) -> int:

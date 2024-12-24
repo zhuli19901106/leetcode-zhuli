@@ -1,3 +1,4 @@
+// medium
 // If it's about games, always try DP before DFS.
 // It's not important whether the algorithm is intuitive or not.
 // What matters is that you stay cool and reason carefully.

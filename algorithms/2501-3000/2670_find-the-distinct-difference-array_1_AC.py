@@ -1,3 +1,4 @@
+# easy
 # https://leetcode.com/problems/find-the-distinct-difference-array/
 class Solution:
     def distinctDifferenceArray(self, nums: List[int]) -> List[int]:

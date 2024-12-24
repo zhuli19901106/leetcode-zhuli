@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/
 # post order traversal
 # Definition for a binary tree node.

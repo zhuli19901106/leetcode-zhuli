@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/short-encoding-of-words/
 # 1AC, suffix matching
 # Runtime: 104 ms, faster than 93.33% of Python3 online submissions for Short Encoding of Words.

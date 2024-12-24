@@ -1,3 +1,4 @@
+// medium
 // Hash it
 #include <algorithm>
 #include <unordered_map>

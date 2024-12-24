@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/
 from math import log2
 

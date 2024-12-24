@@ -1,3 +1,4 @@
+// medium
 // If it's linear, it's iterative.
 #include <algorithm>
 #include <string>

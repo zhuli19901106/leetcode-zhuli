@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/maximum-matching-of-players-with-trainers/
 class Solution:
     def matchPlayersAndTrainers(self, players: List[int], trainers: List[int]) -> int:

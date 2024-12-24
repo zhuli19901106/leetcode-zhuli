@@ -1,3 +1,4 @@
+# hard
 # https://leetcode.com/problems/maximum-frequency-stack/
 # https://leetcode.com/problems/maximum-frequency-stack/discuss/597386/Python-O(1)-with-clear-variable-names
 # couldn't make of why my solution was slow and tricky, but this one is really clever

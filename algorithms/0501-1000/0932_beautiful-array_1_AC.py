@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/beautiful-array/
 # https://leetcode.com/problems/beautiful-array/discuss/507089/c%2B%2B-6-line-code-100100.
 # seriously, I can't tolerate this kind of brain teasers.

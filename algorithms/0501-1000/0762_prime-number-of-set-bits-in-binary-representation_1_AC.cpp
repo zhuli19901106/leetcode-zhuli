@@ -1,3 +1,4 @@
+// easy
 #include <vector>
 using std::vector;
 

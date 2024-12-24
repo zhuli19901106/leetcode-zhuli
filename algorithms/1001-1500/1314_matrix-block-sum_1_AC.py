@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/matrix-block-sum/
 class Solution:
     def matrixBlockSum(self, mat: List[List[int]], K: int) -> List[List[int]]:

@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/two-best-non-overlapping-events/
 # careful, at most 2, not exactly 2
 from bisect import bisect_right

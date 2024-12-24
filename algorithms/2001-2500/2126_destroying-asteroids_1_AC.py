@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/destroying-asteroids/
 # isn't this that ad game "hero war"?
 # should be easy

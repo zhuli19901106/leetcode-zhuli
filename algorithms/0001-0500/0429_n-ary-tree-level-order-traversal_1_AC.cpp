@@ -1,3 +1,4 @@
+// medium
 /*
 // Definition for a Node.
 class Node {

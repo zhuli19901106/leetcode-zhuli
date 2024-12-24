@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
 # 1AC
 

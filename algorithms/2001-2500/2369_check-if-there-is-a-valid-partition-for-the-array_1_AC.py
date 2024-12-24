@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 # not greedy, use DP
 class Solution:

@@ -1,3 +1,4 @@
+// medium
 #include <string>
 using std::string;
 

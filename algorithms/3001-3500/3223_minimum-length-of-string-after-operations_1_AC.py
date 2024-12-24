@@ -1,3 +1,4 @@
+# medium
 # https://leetcode.com/problems/minimum-length-of-string-after-operations/
 # a teaser
 class Solution:
