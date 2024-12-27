@@ -4,6 +4,9 @@
   - [题目列表](#题目列表)
   - [说明](#说明)
 
+代码库地址：  
+[https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms)
+
 ## 题目列表
 
 - [LeetCode 一句话题解 - 0001-0500](./algorithms-review-0001-0500.md)
