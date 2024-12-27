@@ -6,11 +6,11 @@
   - [0001 - 0100](#0001---0100)
 
 代码库地址：  
-https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
+[https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500)
 
 ## 0001 - 0100
 
-1. Two Sum
+1 Two Sum
 
 题意：给定一个无序数组和一个值target，返回下标[i, j]使得a[i] + a[j]等于target。
 
@@ -20,7 +20,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-2. Add Two Numbers
+2 Add Two Numbers
 
 题意：使用链表表示两个十进制大数，做加法。
 
@@ -30,7 +30,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-3. Longest Substring Without Repeating Characters
+3 Longest Substring Without Repeating Characters
 
 题意：给定一个字符串，求出最长的不带重复字符的子串长度。
 
@@ -40,7 +40,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-4. Median of Two Sorted Arrays
+4 Median of Two Sorted Arrays
 
 题意：给定两个升序数组，求出两者归并后的中位数。
 
@@ -50,7 +50,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-5. Longest Palindromic Substring
+5 Longest Palindromic Substring
 
 题意：给定字符串，返回最长回文子串，需要返回子串。
 
@@ -60,7 +60,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-6. Zigzag Conversion
+6 Zigzag Conversion
 
 题意：把字符串按奇怪的方式排列一下，按部就班的模拟题。
 
@@ -70,7 +70,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-7. Reverse Integer
+7 Reverse Integer
 
 题意：给定一个整数，把除了符号位以外的数位倒过来。
 
@@ -80,7 +80,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-8. String to Integer (atoi)
+8 String to Integer (atoi)
 
 题意：实现atoi，字符串转整数的功能。
 
@@ -90,7 +90,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-9. Palindrome Number
+9 Palindrome Number
 
 题意：判断一个数是否是回文数。
 
@@ -100,7 +100,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-10. Regular Expression Matching
+10 Regular Expression Matching
 
 题意：实现正则表达式中的单字符以及.和*匹配。
 
@@ -110,7 +110,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-11. Container With Most Water
+11 Container With Most Water
 
 题意：给定一些高高低低的挡板从左到右排列，相邻宽度都是1。允许你选其中两个挡板，连同地板组成一个容器。请问最多能存多少水？
 
@@ -120,7 +120,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-12. Integer to Roman
+12 Integer to Roman
 
 题意：古老的罗马数字，IVXLCDM。做一下数字转换，把阿拉伯翻译成罗马。
 
@@ -130,7 +130,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-13. Roman to Integer
+13 Roman to Integer
 
 题意：罗马数字转阿拉伯，和前面类似。
 
@@ -140,7 +140,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-14. Longest Common Prefix
+14 Longest Common Prefix
 
 题意：给定一组字符串，找出最长的公共前缀。
 
@@ -150,7 +150,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-15. 3Sum
+15 3Sum
 
 题意：给定无序数组和目标值0，返回所有<b>元素和</b>加起来等于0的三元组的下标(i, j, k)。注意不要有重复结果。
 
@@ -160,7 +160,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-16. 3Sum Closest
+16 3Sum Closest
 
 题意：类似3sum，但要求返回一个三元组(i, j, k)使得元素和<b>最接近</b>目标值target。
 
@@ -170,7 +170,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-17. Letter Combinations of a Phone Number
+17 Letter Combinations of a Phone Number
 
 题意：给定老式的手机9键键盘，把一串数字翻译成所有可能的字母映射。
 
@@ -180,7 +180,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-18. 4Sum
+18 4Sum
 
 题意：2sum的变体，这次是4个元素相加等于target，要求返回所有可能的组合。
 
@@ -190,7 +190,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-19. Remove Nth Node From End of List
+19 Remove Nth Node From End of List
 
 题意：给定单链表，删除倒数第n个节点并返回表头。
 
@@ -200,7 +200,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-20. Valid Parentheses
+20 Valid Parentheses
 
 题意：给定括号序列，可能包括大中小括号的混合，判断是否是一个开闭匹配的合法序列。
 
@@ -210,7 +210,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-21. Merge Two Sorted Lists
+21 Merge Two Sorted Lists
 
 题意：给定两个有序链表，合并为一个，返回表头。
 
@@ -220,7 +220,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-22. Generate Parentheses
+22 Generate Parentheses
 
 题意：给定长度n，请生成所有不同的，长度为n的，合法的小括号序列。
 
@@ -230,7 +230,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-23. Merge k Sorted Lists
+23 Merge k Sorted Lists
 
 题意：给定k个有序链表，合并为一个有序链表，返回表头。
 
@@ -240,7 +240,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-24. Swap Nodes in Pairs
+24 Swap Nodes in Pairs
 
 题意：给定链表，按每两个元素一对，进行交换。返回表头。
 
@@ -250,7 +250,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-25. Reverse Nodes in k-Group
+25 Reverse Nodes in k-Group
 
 题意：和上面的交换两个节点类似，这次是每k个节点一组进行反转。返回表头。
 
@@ -260,7 +260,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-26. Remove Duplicates from Sorted Array
+26 Remove Duplicates from Sorted Array
 
 题意：给定有序数组，<b>去重</b>并把剩余的元素依次往前放，返回剩余元素个数。
 
@@ -270,7 +270,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-27. Remove Element
+27 Remove Element
 
 题意：给定数组，去掉其中所有值为val的元素，并把剩余元素依次往前放，返回剩余元素个数。
 
@@ -280,7 +280,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-28. Find the Index of the First Occurrence in a String
+28 Find the Index of the First Occurrence in a String
 
 题意：实现strstr，即字符串匹配的功能。
 
@@ -290,7 +290,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-29. Divide Two Integers
+29 Divide Two Integers
 
 题意：给定两个整数，返回整除结果，但不能用 * / %运算。
 
@@ -300,7 +300,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-30. Substring with Concatenation of All Words
+30 Substring with Concatenation of All Words
 
 题意：给定一个长字符串s，和一组<b>长度相同</b>的单词words。找出所有s的子串，使得这些子串恰好等于words中的<b>全部单词</b>以<b>任意顺序</b>拼接起来。返回这些子串的<b>起始下标</b>。
 
@@ -310,7 +310,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-31. Next Permutation
+31 Next Permutation
 
 题意：给定一个<b>无序且可能有重复元素</b>的数组，返回按<b>字典序</b>的下一个排列。要求就地完成，不复制数组。
 
@@ -320,7 +320,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-32. Longest Valid Parentheses
+32 Longest Valid Parentheses
 
 题意：给定一个小括号序列，返回其中能找到的最长合法序列的长度。
 
@@ -330,7 +330,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-33. Search in Rotated Sorted Array
+33 Search in Rotated Sorted Array
 
 题意：一个有序数组经过了（也可能没有）循环移位，请找出target值所在的下标。
 
@@ -340,7 +340,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-34. Find First and Last Position of Element in Sorted Array
+34 Find First and Last Position of Element in Sorted Array
 
 题意：给定有序但可能有重复元素的数组，找出某个值target的起始和终止位置。
 
@@ -350,7 +350,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-35. Search Insert Position
+35 Search Insert Position
 
 题意：给定有序数组，要插入一个新值，请找出应该插入的位置。
 
@@ -360,7 +360,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-36. Valid Sudoku
+36 Valid Sudoku
 
 题意：三阶数独，9x9的那种。这次只需要检查一个填法是否合法而已。
 
@@ -370,7 +370,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-37. Sudoku Solver
+37 Sudoku Solver
 
 题意：三阶数独，9x9的那种。这次要你用算法来填了。
 
@@ -380,7 +380,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-38. Count and Say
+38 Count and Say
 
 题意：给定初始字符串“1”，使用游程编码（RLE）的方式不断把这个字符串“读书来”，并用读的结果替换原字符串。如此重复n-1次，返回最终结果。
 
@@ -390,7 +390,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-39. Combination Sum
+39 Combination Sum
 
 题意：给定一个无重复元素的候选集合，找出所有加起来和为target的不同组合，返回全部组合。
 
@@ -400,7 +400,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-40. Combination Sum II
+40 Combination Sum II
 
 题意：组合求和的变体，候选集合是可以有重复元素的。
 
@@ -410,7 +410,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-41. First Missing Positive
+41 First Missing Positive
 
 题意：给定一个长度为n的无序数组，请找出<b>不在数组中的</b>最小的<b>正整数</b>。要求不能用额外数组或存储结构做记录。
 
@@ -420,7 +420,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-42. Trapping Rain Water
+42 Trapping Rain Water
 
 题意：给定一个高高低低的一维地形，雨水可以存在各种地势低洼处，给定无穷多的雨量，问总共能存下多少水。
 
@@ -430,7 +430,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-43. Multiply Strings
+43 Multiply Strings
 
 题意：大数乘法，但是用字符串表示的大数。
 
@@ -440,7 +440,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-44. Wildcard Matching
+44 Wildcard Matching
 
 题意：通配符匹配，和正则匹配类似，但要求实现?和*匹配功能。
 
@@ -450,7 +450,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-45. Jump Game II
+45 Jump Game II
 
 题意：给定一个长度为n的数组nums，你从0位置出发，每次从i位置最多可以往前跳nums[i]步，问最远能到哪儿。
 
@@ -460,7 +460,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-46. Permutations
+46 Permutations
 
 题意：给定无重复元素的数组，返回它的所有不同排列方式。
 
@@ -470,7 +470,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-47. Permutations II
+47 Permutations II
 
 题意：和上题一样，返回所有排列，但这次数组可能有重复元素。
 
@@ -480,7 +480,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-48. Rotate Image
+48 Rotate Image
 
 题意：给定一个n x n矩阵，顺时针旋转90度。
 
@@ -490,7 +490,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-49. Group Anagrams
+49 Group Anagrams
 
 题意：给定一组字符串，把互为anagram的词归到一个组里。
 
@@ -500,7 +500,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-50. Pow(x, n)
+50 Pow(x, n)
 
 题意：给定整数x和n，都可以是负数，求x的n次方。
 
@@ -510,7 +510,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-51. N-Queens
+51 N-Queens
 
 题意：N皇后问题，在n x n棋盘上放置n个皇后，不能存在同行、同列、同对角线、同反对角线的情况。返回所有摆法。
 
@@ -520,7 +520,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-52. N-Queens II
+52 N-Queens II
 
 题意：N皇后问题，并不能算变体。这次只需要返回解的个数。
 
@@ -530,7 +530,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-53. Maximum Subarray
+53 Maximum Subarray
 
 题意：给定数组，求出其中最大的子数组和，返回和。
 
@@ -540,7 +540,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-54. Spiral Matrix
+54 Spiral Matrix
 
 题意：给定m x n的矩阵，按照顺时针螺旋方式从外向内遍历。
 
@@ -550,7 +550,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-55. Jump Game
+55 Jump Game
 
 题意：给定一个长度为n的数组nums，你从0位置出发，每次从i位置最多可以往前跳nums[i]步，问能不能跳到最后一格。
 
@@ -560,7 +560,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-56. Merge Intervals
+56 Merge Intervals
 
 题意：给定一些用[x, y]表示的区间，将其进行合并，使得结果中的区间互不重叠。
 
@@ -570,7 +570,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-57. Insert Interval
+57 Insert Interval
 
 题意：给定一组有序且互不重叠的区间，插入一个新区间[x, y]并进行适当的合并，使得结果依然有序且互不重叠。
 
@@ -580,7 +580,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-58. Length of Last Word
+58 Length of Last Word
 
 题意：给定一个句子，找出最后一个词的长度。
 
@@ -590,7 +590,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-59. Spiral Matrix II
+59 Spiral Matrix II
 
 题意：给定n x n的方阵，按照顺时针由外向内的方式，螺旋遍历这个矩阵，并把1到n^2依次填入每个每个位置。返回结果方阵。
 
@@ -600,7 +600,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-60. Permutation Sequence
+60 Permutation Sequence
 
 题意：给定整数n，{1, 2, ..., n}可以组成n!个不同排列。给定整数k，请求出<b>字典序排第k</b>的排列。
 
@@ -610,7 +610,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-61. Rotate List
+61 Rotate List
 
 题意：对一个单链表进行循环右移k次，返回表头。
 
@@ -620,7 +620,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-62. Unique Paths
+62 Unique Paths
 
 题意：给点m x n矩阵，你从(0, 0)出发，每次只允许向右或者向下，请问到达(m - 1, n - 1)有多少种方法。
 
@@ -630,7 +630,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-63. Unique Paths II
+63 Unique Paths II
 
 题意：Unique Paths的变体，但这次矩阵中存在无法通过的障碍格子。求到达(m - 1, n - 1)的路径个数。
 
@@ -640,7 +640,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-64. Minimum Path Sum
+64 Minimum Path Sum
 
 题意：给定一个m x n矩阵，每个格子有一个值。从(0, 0)出发，每步只允许向右或向下，到达(m - 1, n - 1)。求可能累加得到的最小路径和。
 
@@ -650,7 +650,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-65. Valid Number
+65 Valid Number
 
 题意：给定字符串，判断是否是一个有效的整数、小数或者科学计数法表示的数。
 
@@ -660,7 +660,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-66. Plus One
+66 Plus One
 
 题意：给定用数组表示的一个大数，对其执行+1操作。
 
@@ -670,7 +670,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-67. Add Binary
+67 Add Binary
 
 题意：两个字符串表示的大数相加，二进制。
 
@@ -680,7 +680,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-68. Text Justification
+68 Text Justification
 
 题意：给定一系列单词，要求在<b>保持单词顺序</b>的情况下，按照一个最大宽度进行逐行排版。最终得到的<b>每行总宽度相同</b>，且每行内的单词间空格要尽可能均匀。这个其实就是我们常见的<b>“分散对齐”</b>功能。
 
@@ -690,7 +690,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-69. Sqrt(x)
+69 Sqrt(x)
 
 题意：给定非负整数，求它的平方根，结果<b>向下取整</b>。
 
@@ -700,7 +700,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-70. Climbing Stairs
+70 Climbing Stairs
 
 题意：从0级台阶开始，每次允许向上1级或者2级，求到达第n级台阶的方法有多少种。
 
@@ -710,7 +710,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-71. Simplify Path
+71 Simplify Path
 
 题意：给定一个“/”分割的文件路径，可能存在“.”和“..”这样的相对路径。求简化后的<b>绝对路径</b>。
 
@@ -720,7 +720,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-72. Edit Distance
+72 Edit Distance
 
 题意：给定两个字符串s和t，求其最短编辑距离。一次编辑包括<b>增、删或改一个字符</b>。
 
@@ -730,7 +730,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-73. Set Matrix Zeroes
+73 Set Matrix Zeroes
 
 题意：给定一个01矩阵，如果某个元素值为0，就把它对应的整行和整列都设为0。要求对所有元素同时做这个操作，且<b>就地完成</b>，不使用额外的矩阵。
 
@@ -740,7 +740,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-74. Search a 2D Matrix
+74 Search a 2D Matrix
 
 题意：给定一个m x n矩阵，每行向右都是递增的，且下一行的第一个元素都大于上一行末尾。请设计一个高效算法在其中查找目标值是否存在。
 
@@ -750,7 +750,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-75. Sort Colors
+75 Sort Colors
 
 题意：给定一个包含红白蓝三色的数组，要求<b>就地进行排序</b>，得到红、白、蓝顺序的结果。
 
@@ -760,7 +760,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-76. Minimum Window Substring
+76 Minimum Window Substring
 
 题意：给定长串s和短串t，请找出<b>长度最短</b>，但<b>包含了t中所有字母</b>的s的子串。t可能有重复字母，所以要在个数上包含。
 
@@ -770,7 +770,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-77. Combinations
+77 Combinations
 
 题意：给定正整数n和k，返回从1-n中选k个数的所有不同<b>组合</b>。
 
@@ -780,7 +780,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-78. Subsets
+78 Subsets
 
 题意：给定一个无重复元素的数组（其实就是集合），返回它的所有子集（其实就是幂集）。
 
@@ -790,7 +790,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-79. Word Search
+79 Word Search
 
 题意：给定一个m x n矩阵，每一格有一个字母。给定一个目标字符串word，从任意位置出发，上下左右走不重复的格子，对应序列是否能组成word？
 
@@ -800,7 +800,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-80. Remove Duplicates from Sorted Array II
+80 Remove Duplicates from Sorted Array II
 
 题意：有序数组就地去重，但是重复元素<b>至多保留两个</b>，而不是一个。
 
@@ -810,7 +810,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-81. Search in Rotated Sorted Array II
+81 Search in Rotated Sorted Array II
 
 题意：和之前Search in Rotated Sorted Array类似，一个有序数组经过了（也可能没有）循环移位，但这次数组可能有<b>重复元素</b>。在其中查找一个目标值target。
 
@@ -820,7 +820,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-82. Remove Duplicates from Sorted List II
+82 Remove Duplicates from Sorted List II
 
 题意：给定有序单链表，把存在重复值的对应节点<b>全部去掉</b>，只留下无重复值的节点。
 
@@ -830,7 +830,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-83. Remove Duplicates from Sorted List
+83 Remove Duplicates from Sorted List
 
 题意：给定有序单链表，去重并返回表头。
 
@@ -840,7 +840,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-84. Largest Rectangle in Histogram
+84 Largest Rectangle in Histogram
 
 题意：给定一个高高低低的直方图，每格的宽度是1，求在其中能画出的<b>最大的矩形面积</b>是多少。
 
@@ -850,7 +850,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-85. Maximal Rectangle
+85 Maximal Rectangle
 
 题意：给定一个01矩阵，允许在其中<b>框一个矩形</b>，要求其中<b>所有元素都是1</b>。求这个矩形框的最大面积。
 
@@ -860,7 +860,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-86. Partition List
+86 Partition List
 
 题意：给定一个链表和一个值x，对节点进行划分，使得小于x的元素在前，大于等于x的在后。两组节点的<b>内部顺序</b>要和之前保持一样。
 
@@ -870,7 +870,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-87. Scramble String
+87 Scramble String
 
 题意：给定一个长度大于1的字符串s，可以随机选取一个位置切分为两个子串x + y，并将两串交换，变为s' = y + x，称为一次“乱序”。乱序操作可以<b>对子串递归执行</b>。当对一个字符串s递归执行<b>任意次乱序操作</b>后，能否将其变为字符串t？
 
@@ -880,7 +880,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-88. Merge Sorted Array
+88 Merge Sorted Array
 
 题意：有序数组归并，但这次<b>数组1</b>中留了足够的位置给你。
 
@@ -890,7 +890,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-89. Gray Code
+89 Gray Code
 
 题意：格雷码，一种很神奇的编码方式。任意相邻的两个代码（包括第一和最后）之间都只有1位不同。给定长度n，请生成一种合法的n位格雷码编码。
 
@@ -900,7 +900,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-90. Subsets II
+90 Subsets II
 
 题意：还是求集合的幂集，但这次元素可能有重复，相当于数学上的multiset。
 
@@ -910,7 +910,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-91. Decode Ways
+91 Decode Ways
 
 题意：按照1-26对应A-Z的编码方式，给定一个<b>数字串</b>，请求出有多少种不同的翻译方式来<b>翻译成字母</b>。
 
@@ -920,7 +920,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-92. Reverse Linked List II
+92 Reverse Linked List II
 
 题意：给定单链表和left、right位置，将[left, right]位置内的部分链表反转，并返回表头。
 
@@ -930,7 +930,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-93. Restore IP Addresses
+93 Restore IP Addresses
 
 题意：给定一个数字串，允许在其中插入“.”，请返回能得到的所有<b>有效IP地址</b>。
 
@@ -940,7 +940,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-94. Binary Tree Inorder Traversal
+94 Binary Tree Inorder Traversal
 
 题意：给定二叉树，求中序遍历。
 
@@ -950,7 +950,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-95. Unique Binary Search Trees II
+95 Unique Binary Search Trees II
 
 题意：给定值1-n，请问可以组成多少种不同结构的n节点二叉搜索树。返回所有树。
 
@@ -960,7 +960,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-96. Unique Binary Search Trees
+96 Unique Binary Search Trees
 
 题意：给定值1-n，请问可以组成多少种不同结构的n节点二叉搜索树。只需要返回个数。
 
@@ -970,7 +970,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-97. Interleaving String
+97 Interleaving String
 
 题意：给定字符串s1、s2、s3，判断s3是否可以由s1、s2的字符<b>按次序穿插组成</b>。
 
@@ -980,7 +980,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-98. Validate Binary Search Tree
+98 Validate Binary Search Tree
 
 题意：给定一个二叉树，判断它是不是一个二叉搜索树。
 
@@ -990,7 +990,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-99. Recover Binary Search Tree
+99 Recover Binary Search Tree
 
 题意：给定一个二叉搜索树，有两个节点的位置被交换了，请在不改变节点指向的情况下，找到两个值并换回来。
 
@@ -1000,7 +1000,7 @@ https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/0001-0500
 
 <hr>
 
-100. Same Tree
+100 Same Tree
 
 题意：给定两个二叉树，判断它们是否完全相同。
 
