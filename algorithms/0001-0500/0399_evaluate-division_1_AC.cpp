@@ -48,8 +48,8 @@ public:
             x = queries[i].first;
             y = queries[i].second;
             if (dj.find(x) == dj.end() || dj.find(y) == dj.end()) {
-               res.push_back(DOUBLE_UNDEF);
-               continue;
+                res.push_back(DOUBLE_UNDEF);
+                continue;
             }
             rx = findRoot(dj, q, x);
             ry = findRoot(dj, q, y);
