@@ -21,7 +21,7 @@ public:
             } else {
                 k -= 1;
                 // Go down
-               res *= 10;
+                res *= 10;
             }
         }
         return res;
