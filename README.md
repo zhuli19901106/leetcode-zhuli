@@ -4,56 +4,20 @@ Leetcode revision, premium problems included.
 
 Current progress: 2054/3400
 
-Explore problems:
-- LeetCode 30 Day Challenge
-- Adobe Interview
-- Amazon Interview
-- Apple Interview
-- Bloomberg Interview
-- Facebook Interview
-- Google Interview
-- LinkedIn Interview
-- Microsoft Interview
-- Uber Interview
-- Yelp Interview
-- Array and String
-- Arrays 101
-- Binary Search
-- Binary Search Tree
-- Binary Tree
-- Decision Tree
-- Hash Table
-- Linked List
-- N-ary Tree
-- Queue & Stack
-- Recursion I
-- Recursion II
-- Top Interview Questions Easy
-- Top Interview Questions Hard
-- Top Interview Questions Mediun
-- Trie
+A list of <b>relevant contents</b>:
+- <b>algorithms</b>: accepted solutions to algorithm problems.
+- <b>review</b>: brief reviews for algorithm problems.
+- <b>explore</b>: other interview problems categorized by specific companies and brands.
 
-This is a repo containing my <b>accepted codes</b> on Leetcode.
+---
 
-It was originally created as a revision practice repo, to make sure my skills on handling <b>data structure and algorithm problems</b> don't get rusty.
+I used to write something here, now it's gone.  
+Doesn't matter.
 
-As I've spent quite a bit of time finishing hundreds of problems on it, <b>this repo is now my main repo for Leetcode.</b>
-
-If my code proves useful to you in any way, I'm glad to know that. Feel free to upvote and bookmark my Zhihu article down below. <b>As it'll be updated from time to time.</b>
-
-If you find anything buggy or worth a bit of discussion in my codes, <b>please leave a comment in the corresponding article at my Zhihu article</b>.
-
-Please visit <b>[my Leetcode memo](https://zhuanlan.zhihu.com/p/25697275)</b> for more information.
-
-<b>Wish you good luck in landing your dream job offer</b> as software engineers/data scientists/research scientists/quantitative researchers/algorithmic traders/blabla.
-
-As long as your job description includes writing codes, you'll have to face this kind of FUBAR sooner or later. <b>So let's get it done.</b>
-
-If there's anything I've learned from the past twenty-or-so years in my life (as a loser, of course), it's <b>"live on and dream on"</b>.
-
-You gotta eat, so you write codes. You gotta dream, so you always have something worth living for. Tell you what, <b>I'm gonna be a musician someday</b>.
+Keep up.  
+Move on.  
 
 向死而生。
 
-Zhu Li, at Tsinghua University.<br/>
-2018.1.24 16:25:50
+Zhu Li.  
+2025.1.6 12:42:59  
