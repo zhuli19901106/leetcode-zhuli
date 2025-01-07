@@ -1,6 +1,6 @@
 # LeetCode 一句话题解 - 0501-1000
 
-[返回目录](./algorithms-review-overview.md)
+[返回目录](./README.md)
 
 - [LeetCode 一句话题解 - 0501-1000](#leetcode-一句话题解---0501-1000)
   - [0501 - 0600](#0501---0600)

@@ -1,6 +1,6 @@
 # LeetCode 一句话题解 - 0001-0500
 
-[返回目录](./algorithms-review-overview.md)
+[返回目录](./README.md)
 
 - [LeetCode 一句话题解 - 0001-0500](#leetcode-一句话题解---0001-0500)
   - [0001 - 0100](#0001---0100)
