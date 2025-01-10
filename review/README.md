@@ -9,8 +9,8 @@
 
 ## 题目列表
 
-- [LeetCode 一句话题解 - 0001-0500](./algorithms-review-0001-0500.md)
-- [LeetCode 一句话题解 - 0501-1000](./algorithms-review-0501-1000.md)
+- [LeetCode 一句话题解 - 0001-0500](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/review/algorithms-review-0001-0500.md)
+- [LeetCode 一句话题解 - 0501-1000](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/review/algorithms-review-0501-1000.md)
 
 ---
 
