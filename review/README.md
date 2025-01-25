@@ -11,6 +11,7 @@
 
 - [LeetCode 一句话题解 - 0001-0500](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/review/algorithms-review-0001-0500.md)
 - [LeetCode 一句话题解 - 0501-1000](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/review/algorithms-review-0501-1000.md)
+- [LeetCode 一句话题解 - 1001-1500](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/review/algorithms-review-1001-1500.md)
 
 ---
 
@@ -32,4 +33,4 @@ hard比较费脑而且<b>难度和品质极其参差</b>。相对来说medium题
 由于已经攒了两千多题，为节约时间，题解遵循以下原则：
 - 一道题除非要动脑想5-10分钟或者以上，否则一律按一句话带过，或者以“水题”二字概括之。  
 - 以前写过的题解会复制<b>题目和代码文件的URL</b>，这个操作比较费时。既然文件都在同一repo之中，不难找到；LeetCode网站链接也可能变化，且网上随手可以搜到，这次就都不再贴了。  
-- 部分题目需要一定<b>脑力</b>，可能存在<b>代码和题解思路不一致</b>的情况。因为题解思路是我写的时候，重新想的。  
+- 部分题目需要一定<b>脑力</b>，可能存在<b>代码和题解思路不一致</b>的情况。因为题解思路是我写的时候，<b>重新想的</b>。  

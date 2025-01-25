@@ -33,4 +33,4 @@ class Solution:
             path.remove(x)
             return res
 
-        return dfs(source, set(), set()):
+        return dfs(source, set(), set())
