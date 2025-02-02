@@ -1,24 +1,7 @@
 # medium
-# https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3306/# """
+# https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3306/
 # surely it's binary search.
-# This is BinaryMatrix's API interface.
-# You should not implement it, or speculate about its implementation
 # """
-#class BinaryMatrix(object):
-#    def get(self, x: int, y: int) -> int:
-#    def dimensions(self) -> list[]:
-
-class Solution:
-    def leftMostColumnWithOne(self, binaryMatrix: 'BinaryMatrix') -> int:
-        bm = binaryMatrix
-        n, m = bm.dimensions()
-        if n == 0 or m == 0:
-            return -1
-
-        def countOne(idx):
-            res = 0
-            for i in range(n):# https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3306/# """
-# surely it's binary search.
 # This is BinaryMatrix's API interface.
 # You should not implement it, or speculate about its implementation
 # """
