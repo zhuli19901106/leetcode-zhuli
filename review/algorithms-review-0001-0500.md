@@ -2204,7 +2204,7 @@
 
 <hr>
 
-236. Lowest Common Ancestor of a Binary Tree
+236 Lowest Common Ancestor of a Binary Tree
 
 题意：235的变体，这次是普通二叉树了，无序。还是找<b>最近公共祖先</b>。
 
