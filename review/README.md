@@ -13,6 +13,7 @@
 - [LeetCode 一句话题解 - 0501-1000](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/review/algorithms-review-0501-1000.md)
 - [LeetCode 一句话题解 - 1001-1500](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/review/algorithms-review-1001-1500.md)
 - [LeetCode 一句话题解 - 1501-2000](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/review/algorithms-review-1501-2000.md)
+- [LeetCode 一句话题解 - 2001-2500](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/review/algorithms-review-2001-2500.md)
 
 ---
 
