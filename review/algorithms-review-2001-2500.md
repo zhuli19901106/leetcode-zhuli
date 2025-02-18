@@ -5,6 +5,7 @@
 - [LeetCode 一句话题解 - 2001-2500](#leetcode-一句话题解---2001-2500)
   - [2001 - 2100](#2001---2100)
   - [2101 - 2200](#2101---2200)
+  - [2201 - 2300](#2201---2300)
 
 代码库地址：  
 [https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/2001-2500](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/algorithms/2001-2500)
@@ -959,3 +960,413 @@
 难度：easy
 
 解法：先找出所有<b>key值的出现位置</b>，得到数组ai。然后i=[0,n-1],j=[0,len(ai)-1]。<b>双指针向前</b>，比较`i`值和`ai[j]`值是否在`[-k,+k]`范围内。总代价`O(n)`。
+
+## 2201 - 2300
+
+2201 Count Artifacts That Can Be Extracted
+
+题意：给定n x n地图，其中一些<b>矩形区域</b>里有宝贝。给定这些矩形区域的左上、右下坐标`artifacts`和你要挖开的一些坐标`dig`。矩形区域<b>互不重叠</b>。如果矩形区域<b>所有格子</b>都被挖开，则可以得到宝贝。请求出你能得到的宝贝数量。
+
+难度：medium
+
+解法：方法很多，主要思路就是做一个`格子->宝贝`的映射，这样当你挖开`(x,y)`位置，可以把对应宝贝的`格子计数-1`。如果减到0，就代表这个宝贝<b>挖到了</b>。总代价`O(n^2+na+nd)`。
+
+<hr>
+
+2206 Divide Array Into Equal Pairs
+
+题意：给定数组nums，长度2n。请判断能否分为n对，使得每对的元素相等，类似`(x,x),(y,y)...`这样。
+
+难度：easy
+
+解法：水题。<b>哈希计数</b>，如果<b>计数都是偶数</b>，就可以。
+
+<hr>
+
+2210 Count Hills and Valleys in an Array
+
+题意：给定nums，如果i位置的左右第一个不等于`nums[i]`的值，都小于`nums[i]`，则称为<b>山顶</b>。同理，如果都大于`nums[i]`，则称为<b>山谷</b>。请统计山顶、山谷的总数。
+
+难度：easy
+
+解法：数据量很小，直接`O(n^2)`枚举也行。
+
+<hr>
+
+2215 Find the Difference of Two Arrays
+
+题意：给定数组nums1、nums2，请求出nums1中出现，但nums2中未出现的值；以及nums2中出现，但nums1中未出现的值。均返回<b>唯一值</b>。
+
+难度：easy
+
+解法：其实就是<b>集合的减法</b>。类似`list(set(a)-set(b))`这样。
+
+<hr>
+
+2220 Minimum Bit Flips to Convert Number
+
+题意：给定整数x和y，请求出反转二进制位，从x变成y的反转次数。
+
+难度：easy
+
+解法：`countOne(x^y)`。
+
+<hr>
+
+2221 Find Triangular Sum of an Array
+
+题意：给定数组nums，不断执行相邻元素求和`(nums[i]+nums[i+1])%10`，每次求和元素个数-1，直到最后<b>只剩一个值</b>。返回最终结果。
+
+难度：medium
+
+解法：稍微做一下推算，不难求出<b>每个元素</b>总共被<b>加了多少次</b>。其实就是<b>杨辉三角，二项式定理</b>。这题求的是`C(n,k)%10`，因为10是合数，<b>乘法逆元</b>不一定存在的。所以还是用笨办法，直接<b>累加求和</b>好了。总代价`O(n^2)`。
+
+<hr>
+
+2222 Number of Ways to Select Buildings
+
+题意：给定长度为n的01串s，你需要选出长度3的子序列，使得子序列等于010或101。请问有多少种选法？
+
+难度：medium
+
+解法：有好几种思路，比如我统计出<b>所有`0`的位置p0</b>。然后再遍历一次，如果我遇到`1`，则`1`的左边x个`0`，右边y个`0`，就就有`x*y`种组合。随着向右移动，这个更新的代价是`O(1)`，总代价`O(n)`可以求出`010`的个数。对于`101`的情况，思路完全相同，只不过01反过来。还有一种“考虑<b>i位置之前有多少个0/1</b>”的计数方式，这种思路更类似<b>DP</b>，但总体上差不多，代价也是`O(n)`。
+
+<hr>
+
+2224 Minimum Number of Operations to Convert Time
+
+题意：给定格式为`HH:MM`的两个时间t1、t2。你需要把t1变为t2，每次你可以增加1、5、15、60分钟。请问<b>至少几次</b>能变过来？
+
+难度：easy
+
+解法：注意考虑越过`00:00`的情况，比如从23点到2点。这个<b>不需要做搜索</b>，按贪心原则，+1h、+15m、+5m、+1m这样处理就行了。
+
+<hr>
+
+2225 Find Players With Zero or One Losses
+
+题意：给定一些比赛结果`matches`，以`[x,y]`表示<b>x赢y</b>一次。请统计<b>0次失败、1次失败</b>的队伍列表，按升序排列。
+
+难度：medium
+
+解法：题意很明确，按要求统计，然后对结果排序即可。其实<b>顺序枚举</b>就行，结果本来就是有序的。总代价`O(n+nm)`。
+
+<hr>
+
+2231 Largest Number After Digit Swaps by Parity
+
+题意：给定整数num，你可以把<b>同偶</b>或者<b>同奇</b>的数位交换。请求出能得到的最大数。
+
+难度：easy
+
+解法：那就分别对值为<b>偶数、奇数</b>的数位按<b>降序排列</b>。
+
+<hr>
+
+2232 Minimize Result by Adding Parentheses to Expression
+
+题意：给定一个格式为`x+y`的算式，其中x、y都是整数，你可以在其中添加一个括号，使得<b>结果最小</b>。比如`12+34`，结果为46，但如果变为`1(2+3)4`，则表示`1*(2+3)*4`，结果为20。请返回变换后的<b>算式</b>。
+
+难度：medium
+
+解法：虽然这种奇怪的写法，并不符合实际的<b>算式规则</b>，但我们姑且按题目说的做吧。以这个数据量，直接<b>暴力搜索</b>，找到最小的结果就行了。或者说，枚举<b>两个括号</b>的位置，然后计算结果。总代价`O(n^2*n)=O(n^3)`。
+
+<hr>
+
+2235 Add Two Integers
+
+题意：给定x、y，请求出`x+y`。
+
+难度：easy
+
+解法：水题，<b>令人震惊</b>的水题。
+
+<hr>
+
+2236 Root Equals Sum of Children
+
+题意：给定三节点的二叉树，请判断`root.val`是否等于`left.val+right.val`。
+
+难度：easy
+
+解法：水题，可能和2235是同一个作者。
+
+<hr>
+
+2239 Find Closest Number to Zero
+
+题意：给定数组nums，请找出<b>和0最接近的值</b>。如果有多个，则返回较大值。
+
+难度：easy
+
+解法：数组是无序的，那就按照`abs(x)`比较即可。总代价`O(n)`。
+
+<hr>
+
+2240 Number of Ways to Buy Pens and Pencils
+
+题意：你有total的钱，钢笔cost1一个，铅笔cost2一个。请计算你可以买钢笔、铅笔的个数`(n1,n2)`的种类数。你不用花光所有钱。
+
+难度：medium
+
+解法：`n1*cost1+n2*cost2<=total`的整数解个数，这算是个最基础的<b>线性规划</b>问题了。当然，没必要想复杂。直接<b>一层循环，枚举求和</b>就行了。总代价`O(total/max(cost1,cost2))`，线性的。
+
+<hr>
+
+2243 Calculate Digit Sum of a String
+
+题意：给定<b>数字串s</b>，按照每k个一组，计算<b>数位和</b>。结果连起来，重复这个过程，直到长度不超过k。返回最终结果。
+
+难度：easy
+
+解法：题意很明确，按描述实现即可。
+
+<hr>
+
+2244 Minimum Rounds to Complete All Tasks
+
+题意：给定n个任务，每个的难度为`tasks[i]`。每次你可以选<b>2个或3个</b>同难度的任务完成。请问至少多少次，能完成所有任务？如果不可能完成，则返回-1。
+
+难度：medium
+
+解法：对难度值进行<b>哈希计数</b>，如果<b>计数为1</b>，则不可能完成。其他情况，按`(cc+2)/3`整除处理，结果累加。总代价`O(n)`。
+
+<hr>
+
+2248 Intersection of Multiple Arrays
+
+题意：给定一些无序数组，请返回所有数组的<b>公共值</b>，按<b>升序</b>排列。
+
+难度：easy
+
+解法：转为<b>集合set()</b>，然后求<b>交集&</b>即可。
+
+<hr>
+
+2249 Count Lattice Points Inside a Circle
+
+题意：给定一些圆的圆心和半径`[x,y,r]`，请判断其中包含的<b>整点</b>个数，在边缘上也算。对于被多个圆包含的点，只算一次。
+
+难度：medium
+
+解法：既然是<b>求并集</b>，那我们就不好用<b>纯数学</b>的解法了。还是要<b>枚举具体的点</b>，用集合做一下<b>判重</b>。在给定数据量下，一个`O(nr^2)`的<b>暴力解法</b>勉强可以接受。对于每个圆，我们直接把包含在内的点存入<b>集合</b>，最后统计`len(st)`就是答案。判定依据就是`dx^2+dy^2<=r^2`。总代价`O(nr^2)`。
+
+<hr>
+
+2255 Count Prefixes of a Given String
+
+题意：给定词表words和字符串s。请判断words中，是<b>s前缀</b>的词的个数。
+
+难度：easy
+
+解法：水题。
+
+<hr>
+
+2257 Count Unguarded Cells in the Grid
+
+题意：有一个m x n地图，其中部分格子有<b>守卫或者墙</b>，其余是空地。守卫位置是`guards[i]`，墙的位置是`walls[i]`。已知守卫可以监视上下左右四个方向，但如果<b>被墙挡住</b>，则视野受阻。请求出<b>没有守卫看到</b>的空地格子的数量。
+
+难度：medium
+
+解法：以<b>所有守卫</b>的位置为<b>起点</b>，按<b>上下左右</b>四个方向，<b>执行BFS</b>。如果搜到了墙，则停止<b>这个方向</b>的搜素。这就好比在某位置发出<b>四条激光</b>，看激光能往前走多远。这个激光是<b>不能转向、反弹的</b>。搜索结束后，<b>没有被搜到</b>的空地，就是守卫看不到的。总代价`O(mn)`。
+
+<hr>
+
+2259 Remove Digit From Number to Maximize Result
+
+题意：给定数字串num和一个数位d。请从num中删除一个d，使得结果最大。
+
+难度：easy
+
+解法：数据很小，随便怎么处理都行。比如<b>枚举所有删法</b>，求出最大的一个。
+
+<hr>
+
+2260 Minimum Consecutive Cards to Pick Up
+
+题意：给定数组nums，请找出两个下标(i,j)，使得`nums[i]==nums[j]`，且`|i-j|`最小。返回`|i-j|+1`。如果不存在，则返回-1。
+
+难度：medium
+
+解法：题目的意思<b>翻译过来</b>，就是如上所述。可以用<b>哈希表</b>，记录每个值最后出现的位置，也就是`mm[nums[i]]=i`。那么对于<b>重复出现</b>的值，则可以查出<b>上次出现</b>的位置j，找出`min(i-j+1)`即可。总代价`O(n)`。
+
+<hr>
+
+2261 K Divisible Elements Subarrays
+
+题意：给定数组nums，请求出<b>至多包含k个p的倍数</b>的子数组的个数。
+
+难度：medium
+
+解法：至多，k个，p的倍数。三个要求，求子数组的个数。看起来还是<b>滑动窗口</b>的思路。那就滑动窗口吧。对了，<b>数据规模很小</b>，因此无需滑动窗口，直接`O(n^2)`枚举，用<b>前缀和</b>思路，可以做到`O(1)`代价判断一个子数组。这样的总代价是`O(n^2)`。如果用滑动窗口解法，则复杂度是`O(n)`。
+
+<hr>
+
+2264 Largest 3-Same-Digit Number in String
+
+题意：给定一个数字串num，请找出其中最大的<b>三连数字</b>。比如`777、999`这样。
+
+难度：easy
+
+解法：水题。
+
+<hr>
+
+2265 Count Nodes Equal to Average of Subtree
+
+题意：给定二叉树，请统计`节点值=mean(对应子树所有节点值)`的节点的个数。计算均值时，除法以<b>整除</b>为准。
+
+难度：medium
+
+解法：通过<b>后序遍历</b>，对子树<b>求和</b>，除以<b>节点个数</b>就得到了均值。判断均值和节点值是否相等。总代价`O(n)`。
+
+<hr>
+
+2269 Find the K-Beauty of a Number
+
+题意：给定整数num和k。如果把num视为字符串，找出其中的<b>k长度子串</b>，且得到的值恰好也是<b>num的约数</b>的个数。
+
+难度：easy
+
+解法：不用做字符串操作，用`/10%10`的做法就可以。
+
+<hr>
+
+2273 Find Resultant Array After Removing Anagrams
+
+题意：给定一个词表words，不断从中找出`(w[i-1],w[i])`，如果两者互为anagram，则删除`w[i]`。返回删除完成后的结果。
+
+难度：easy
+
+解法：判断anagram的方法，就是`sorted(s)==sorted(t)`。找出<b>连续的互为anagram</b>的一组词，只保留<b>每组的第一个</b>。总代价`O(n)`。
+
+<hr>
+
+2274 Maximum Consecutive Floors Without Special Floors
+
+题意：给定一个房子，`[bottom,top]`楼层中，有一些`special[i]`层作为休闲用途。请求出<b>连续的不含休闲楼层的</b>最大层数。
+
+难度：medium
+
+解法：要么就是`special[i]-special[i-1]`，要么就是`bottom、top`和`special`两端的距离。总代价`O(n)`。
+
+<hr>
+
+2275 Largest Combination With Bitwise AND Greater Than Zero
+
+题意：给定数组nums，请从其中选出元素，做<b>按位与</b>。要求结果大于0，请求出能选出的最大元素个数。
+
+难度：medium
+
+解法：需要一个`O(n)`的解法，当然不能暴力搜。乍一想，没什么好思路。那么我们<b>按位考虑</b>，比如某位`1<<i`，有nums中，有`cc[i]`个元素的<b>第i位是1</b>，那么答案其实就是`max(cc[i])`，就这么简单。当然，<b>想明白这个逻辑</b>，就没那么简单。为什么是<b>取max</b>，而不能是<b>加法</b>？我们考虑，比如随便<b>选k个元素</b>，按位与之后，结果的第i位是1。那么必有`k<=cc[i]`。因为你至多只能找到`cc[i]`个元素，使得这位等于1。既然<b>最大</b>只能到`cc[i]`，那<b>最大的最大</b>，也就是`max(cc[i])`了。挺难想的。总代价`O(nlog(int))`。
+
+<hr>
+
+2278 Percentage of Letter in String
+
+题意：给定字符串s和字符c，请统计c在s中的百分比。精确到1%。
+
+难度：easy
+
+解法：水题。
+
+<hr>
+
+2279 Maximum Bags With Full Capacity of Rocks
+
+题意：给定n个包，每个的容量是`capacity[i]`，已经装了`rocks[i]`个石头。如果你还有额外k个石头，可以装进包里。请问<b>至多</b>可以把几个包<b>装满</b>？
+
+难度：medium
+
+解法：按照`capacity[i]-rocks[i]`<b>升序排列</b>，那么靠前的就是剩余空间最小的。优先把<b>剩余空间少的</b>装满即可。总代价`O(nlogn)`。
+
+<hr>
+
+2283 Check if Number Has Equal Digit Count and Digit Value
+
+题意：给定数字串num，请判断每个位置i是否恰好<b>出现`num[i]`次</b>。
+
+难度：easy
+
+解法：倒是挺奇怪的要求，按题目要求判断吧。
+
+<hr>
+
+2284 Sender With Largest Word Count
+
+题意：有n条消息，消息内容为`messages[i]`，发送者为`senders[i]`。请统计<b>消息单词总数</b>最多的发送者。
+
+难度：medium
+
+解法：思路很直白。`split()`然后<b>统计个数</b>。用<b>哈希表</b>，按`senders[i]`名称累加，找出最大值即可。总代价`O(n)`。
+
+<hr>
+
+2285 Maximum Total Importance of Roads
+
+题意：给定n个点组成的无向图，你需要给`0~n-1`这些点分配权值`vals=1~n`。对于一条边`[x,y]`，我们定义边的权值为`vals[x]+vals[y]`。请求出所有边的<b>权值之和</b>的最大值。
+
+难度：medium
+
+解法：按照<b>贪心原则</b>，一个点的<b>度数越大</b>，我们就应该给它<b>越高的权值</b>。因此，统计所有点的度数，<b>按度数</b>升序排列。然后<b>依次分配</b>`1~n`的权值。按分配的值，计算所有边的权值之和。总代价`O(VlogV+E)`。
+
+<hr>
+
+2287 Rearrange Characters to Make Target String
+
+题意：给定字符串s和target。你可以从s中<b>选取字符并排序</b>，请问能拼出多少个target？
+
+难度：easy
+
+解法：<b>哈希计数</b>得到ms和mt，对于每个字符c，取`min(ms[c]//mt[c])`就是结果，<b>`//`表示整除</b>。总代价`O(ns+nt)`。
+
+<hr>
+
+2290 Minimum Obstacle Removal to Reach Corner
+
+题意：给定一个m x n地图，你从`(0,0)`出发，要到达`(m-1,n-1)`。中间可能存在一些墙。你可以<b>挖穿</b>墙格子，来通过障碍。请问至少挖多少个墙，才能到达终点？
+
+难度：hard
+
+解法：很容易想到<b>BFS</b>的思路，那么对于空地，我们无障碍通过；对于墙格子，我们要<b>挖一下</b>才能过。因此，可以用`(当前位置,挖掘次数)`作为搜索状态，执行BFS。当到达<b>墙</b>的时候，<b>次数+1</b>；到达<b>空地</b>的时候，<b>次数保持不变</b>。对于hard难度，这题的<b>思维难度</b>其实还好。如果希望效率更高，可以选择<b>双向BFS</b>，实现更麻烦点就是了。
+
+<hr>
+
+2293 Min Max Game
+
+题意：给定数组nums，对于奇数位置，取`max(nums[2i],nums[2i+1])`；对于偶数位置，取`min(nums[2i],nums[2i+1])`。不断执行这个变换，直到剩1个元素。返回<b>最终剩下的元素</b>。
+
+难度：easy
+
+解法：题意很明确，<b>直接模拟</b>即可。总代价`O(nlogn)`。
+
+<hr>
+
+2294 Partition Array Such That Maximum Difference Is K
+
+题意：给定数组nums，将其<b>划分</b>为几个子序列，使得对于每个子序列ss，`max(ss)-min(ss)<=k`。请求出子序列的<b>最小个数</b>。
+
+难度：medium
+
+解法：既然是`max-min`，而且是子序列。那我们就<b>无所谓顺序</b>了。我们不妨把nums排序，得到`sorted_nums`。每次取<b>尽可能长的一段</b>，使的`sorted_nums[j]-sorted_nums[i]`<b>恰好不超过k</b>，这个边界可以通过<b>二分搜索</b>快速找到，当然<b>顺序枚举</b>也行。ij走到最后，划分也就完成了。总代价`O(nlogn+n)=O(nlogn)`。<b>代码非常简短</b>，比思路讲解简单多了。
+
+<hr>
+
+2295 Replace Elements in an Array
+
+题意：给定数组nums，你需要执行m次形如`[x,y]`的操作，表示把x值都替换为y值。返回最终的数组。已知每个x都存在于nums中，且<b>每个y都不存在</b>于nums中。
+
+难度：medium
+
+解法：显然，如果你每次都以O(n)代价替换，那就太慢了。有没有更高效的做法？有，而且关键就在于y值都不存在于nums中。这点很重要。比如`[3,2,5,7]`，把7替换为3。这就导致<b>3出现了重复值</b>。这样就没法高效实现了。如果全程都能<b>保证唯一值</b>，那么我们每次变换都可以做到严格`O(1)`。只要我做好`i<->nums[i]`的<b>双向映射</b>，就可以了。总代价`O(n+m)`。
+
+<hr>
+
+2299 Strong Password Checker II
+
+题意：420的变体。一个密码如果包含大写、小写、数字、特殊符号，则称为<b>强密码</b>。给定密码`password`，请判断是否够强。
+
+难度：easy
+
+解法：420挺麻烦，是个<b>最短编辑距离</b>的hard问题。这题是水题。按照题意，检查各种字符是否出现即可。不要用<b>正则魔法</b>，正则<b>非常不适合</b>这个场景。不但很难写，而且效率低下。
