@@ -2207,7 +2207,7 @@
 
 2491 Divide Players Into Teams of Equal Skill
 
-题意：有n个玩家，n为偶数。请分为`n/2`组，每组2人。已知每人的水平为`skill[i]`。要求每组的<b>skill之和相等</b>，请求出每组的<b>技能乘积</b>之和，`sum(skill[x],skill[y])`。如果无法满足要求，则返回-1。
+题意：有n个玩家，n为偶数。请分为`n/2`组，每组2人。已知每人的水平为`skill[i]`。要求每组的<b>skill之和相等</b>，请求出每组的<b>技能乘积</b>之和，`sum(skill[x]*skill[y])`。如果无法满足要求，则返回-1。
 
 难度：medium
 
@@ -2237,7 +2237,7 @@
 
 2498 Frog Jump II
 
-题意：403的变体。给定n个石头的位置`stones[i]`，升序排列。青蛙从0号位置出发，想要跳过去再跳回来。也就是到达`stones[n-1]`再返回`stones[0]`。要去跳的过程中，不能重复落在某个`stones[i]`上。每次跳跃`i->j`的距离为`|stones[i]-stones[j]|`。请求出`max(|stones[i]-stones[j]|)`的最小值。
+题意：403的变体。给定n个石头的位置`stones[i]`，升序排列。青蛙从0号位置出发，想要跳过去再跳回来。也就是到达`stones[n-1]`再返回`stones[0]`。要求跳的过程中，不能重复落在某个`stones[i]`上。每次跳跃`i->j`的距离为`|stones[i]-stones[j]|`。请求出`max(|stones[i]-stones[j]|)`的最小值。
 
 难度：medium
 
