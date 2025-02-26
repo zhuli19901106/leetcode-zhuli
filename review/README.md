@@ -15,6 +15,7 @@
 - [LeetCode 一句话题解 - 1501-2000](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/review/algorithms-review-1501-2000.md)
 - [LeetCode 一句话题解 - 2001-2500](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/review/algorithms-review-2001-2500.md)
 - [LeetCode 一句话题解 - 2501-3000](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/review/algorithms-review-2501-3000.md)
+- [LeetCode 一句话题解 - 3001-3500](https://github.com/zhuli19901106/leetcode-zhuli/tree/master/review/algorithms-review-3001-3500.md)
 
 ---
 
